@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú vào màn hình máy tính, nét mặt tự tin và hào hứng, xung quanh là các bảng câu hỏi trắc nghiệm với đồng hồ bấm giờ nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác hứng khởi và tập trung cao độ.

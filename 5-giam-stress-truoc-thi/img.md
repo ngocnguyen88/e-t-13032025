@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hành yoga và thiền trong không gian yên bình, ánh sáng ấm áp, khuôn mặt thư giãn, biểu tượng âm nhạc và giấc ngủ hiện diện xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc dịu nhẹ, tạo cảm giác thư giãn và an lành.

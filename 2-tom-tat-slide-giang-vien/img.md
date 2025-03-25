@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú theo dõi bài giảng trên máy tính bảng, với các slide và biểu đồ tư duy hiện rõ trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện sự tập trung và hứng thú trong học tập.

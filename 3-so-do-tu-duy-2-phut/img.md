@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ, đang hào hứng vẽ sơ đồ tư duy trên bảng trắng, xung quanh là các biểu tượng và từ khóa nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, truyền tải sự sáng tạo và hiệu quả của phương pháp học siêu tốc.

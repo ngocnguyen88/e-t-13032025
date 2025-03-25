@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng thảo luận với biểu đồ phân công công việc rõ ràng trên bảng trắng, các thành viên thể hiện sự đồng lòng và quyết tâm, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và đoàn kết.
