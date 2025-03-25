@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tự tin, với biểu cảm quyết đoán, đang ngồi đối diện với một nhà tuyển dụng trong một phòng họp hiện đại, tượng trưng cho quá trình thương lượng. Môi trường làm việc chuyên nghiệp, phong cách đồ họa 3D Render, màu sắc trung tính nhưng sang trọng, tạo cảm giác của một cuộc thương lượng lương thực tập nghiêm túc và hiệu quả.

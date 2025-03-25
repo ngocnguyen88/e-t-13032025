@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á đang ngồi tại bàn làm việc, mặt tập trung viết thư cảm ơn trên máy tính, xung quanh là những ghi chú và một tách cà phê, không gian làm việc lý tưởng với ánh sáng dịu nhẹ, phong cách đồ họa 3D Render hiện đại và chân thực, màu sắc ấm áp, tạo cảm giác chuyên nghiệp và tập trung.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Nhóm sinh viên châu Á năng động, đang trao đổi danh thiếp với nhau và với các chuyên gia trong một sự kiện networking, với biểu tượng LinkedIn được hiển thị nổi bật trên màn hình di động trong tay họ, phong cách 3D Render hiện đại, màu sắc trẻ trung và chuyên nghiệp, tạo cảm hứng kết nối và thành công.
