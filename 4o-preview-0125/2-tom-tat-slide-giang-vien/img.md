@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á tập trung cao độ trước màn hình laptop, với slide giảng dạy mở rộng trên màn hình và tài liệu tóm tắt trên bàn. Khung cảnh đầy sức sống, môi trường học tập năng động, phong cách 3D Render tiên tiến, màu sắc tươi sáng, truyền cảm hứng học tập và tổng hợp thông tin siêu tốc.

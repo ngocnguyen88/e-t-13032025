@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Nhóm sinh viên châu Á tập trung cao độ trước máy tính và sách vở, với bộ đếm thời gian đang chạy đặt ngay trung tâm, biểu hiện sự quyết tâm hoàn thành bài trắc nghiệm trong thời gian kỷ lục. Nền là không gian học tập sáng sủa, hiện đại, với tông màu năng động, phong cách đồ họa 3D Render đầy màu sắc và sống động.
