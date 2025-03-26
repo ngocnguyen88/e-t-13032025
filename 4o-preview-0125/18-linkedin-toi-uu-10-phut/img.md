@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á với vẻ mặt tự tin, đang tối ưu hóa hồ sơ LinkedIn trên laptop, bao quanh là các biểu tượng LinkedIn như ảnh đại diện, tiêu đề hồ sơ, màu sắc chuyên nghiệp và hiện đại, phong cách 3D Render, nhấn mạnh tính chuyên nghiệp và sự nổi bật trên mạng xã hội chuyên nghiệp.

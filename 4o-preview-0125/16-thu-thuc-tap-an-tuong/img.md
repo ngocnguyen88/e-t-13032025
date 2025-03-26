@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á đang ngồi trước máy tính với vẻ mặt tập trung cao độ, trên màn hình hiển thị bức thư xin thực tập đang được soạn thảo, xung quanh là biểu tượng các công ty và logo nổi tiếng, phong cách đồ họa 3D Render hiện đại, màu sắc nổi bật, truyền cảm hứng cho người xem về việc chinh phục cơ hội thực tập.

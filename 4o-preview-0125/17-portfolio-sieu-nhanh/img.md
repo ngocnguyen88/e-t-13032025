@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tập trung làm việc trên laptop với màn hình hiển thị giao diện portfolio đang được tạo, bên cạnh là một tách cà phê nóng bốc khói, tạo cảm giác tập trung và hiệu quả. Phong cách đồ họa 3D Render với ánh sáng và màu sắc ấm, tạo cảm giác thoải mái và thân thiện, phản ánh quá trình làm việc sáng tạo và đầy cảm hứng.
