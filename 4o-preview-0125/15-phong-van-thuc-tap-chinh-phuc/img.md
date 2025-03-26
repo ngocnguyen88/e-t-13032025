@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tự tin, mặc trang phục chuyên nghiệp, đang bước vào phòng phỏng vấn với bước đi vững chãi, nền là cánh cửa mở ra cơ hội thực tập, phong cách đồ họa 3D Render hiện đại, màu sắc nền nã nhưng nổi bật, thể hiện sự tự tin và sẵn sàng chinh phục thách thức.

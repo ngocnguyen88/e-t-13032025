@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cùng nhau thảo luận kỹ năng đàm phán, với biểu đồ và số liệu về mức lương trên bảng, trong không gian học tập hiện đại. Nền hình là một phòng học 3D Render sáng sủa, sinh động, với ánh sáng mặt trời chiếu qua cửa sổ tạo cảm giác ấm cúng và khích lệ học tập, nét mặt các nhân vật tỏ ra quyết tâm và tự tin.

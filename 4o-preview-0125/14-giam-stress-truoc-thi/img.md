@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á đang thực hành kỹ thuật thở sâu trong một không gian yên tĩnh, ánh sáng dịu nhẹ, xung quanh là những cuốn sách và ghi chú, tạo cảm giác thư giãn và tập trung, phong cách đồ họa 3D Render hiện đại, màu sắc nhẹ nhàng, thư giãn, kích thích tinh thần học tập và giảm stress.

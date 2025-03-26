@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á tập trung cao độ, mỗi người với một quyển sổ tay nhỏ, bút, laptop, và tablet, biểu tượng cảm xúc "bóng đèn" và "dấu tick xanh" nổi bật bên cạnh họ, phản ánh quá trình ghi chú siêu tốc và hiệu quả, phong cách 3D Render hiện đại, màu sắc năng động, khơi gợi sự hứng khởi và sáng tạo trong học tập.

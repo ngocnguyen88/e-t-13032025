@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tập trung cao độ, ngồi bên bàn học với tờ giấy trắng và bút màu sắc, đang vẽ sơ đồ tư duy với nhiều nhánh, màu sắc và biểu tượng. Phông nền là thư viện sách với ánh sáng dịu nhẹ, khích lệ tinh thần tự học và khám phá, phong cách 3D Render hiện đại và sinh động.

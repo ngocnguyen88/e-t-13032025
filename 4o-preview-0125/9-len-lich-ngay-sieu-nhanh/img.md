@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á nét mặt tập trung và quyết đoán, đang lập kế hoạch ngày học với máy tính bảng và sổ tay trên bàn làm việc sạch sẽ, tổ chức. Bối cảnh hiện đại, 3D Render, với gam màu tươi sáng và năng động, thể hiện sự hiệu quả và tối ưu trong quản lý thời gian.

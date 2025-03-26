@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tập trung cao độ trước màn hình máy tính, quanh anh ta là biểu tượng các câu hỏi trắc nghiệm và đồng hồ cát đếm ngược, phong cách 3D Render hiện đại, màu sắc tươi sáng và năng động, thể hiện sự tập trung và quyết tâm giải quyết bài trắc nghiệm nhanh chóng.

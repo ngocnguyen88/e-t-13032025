@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tập trung quanh một bảng trắng với kế hoạch phân công rõ ràng, mỗi người đều đang chăm chỉ với phần việc của mình, không gian học tập đầy ánh sáng và màu sắc tươi mới, phong cách 3D Render, thể hiện sự năng động, hiệu quả và tập trung cao độ.

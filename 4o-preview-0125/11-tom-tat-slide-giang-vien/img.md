@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tập trung cao độ trước máy tính, tay cầm bút chì, bên cạnh là slide giảng viên và tập giấy tóm tắt, xung quanh có biểu đồ và hình ảnh minh họa quan trọng nổi bật, phong cách đồ họa 3D Render sáng tạo, màu sắc nhẹ nhàng, khích lệ tinh thần học tập và tóm tắt nhanh.

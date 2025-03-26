@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á tập trung cao độ, mắt nhanh chóng quét qua tài liệu 50 trang trên bàn học, bên cạnh là đồng hồ đang đếm ngược thời gian và một chiếc laptop mở các ứng dụng hỗ trợ đọc nhanh, phong cách đồ họa 3D Render, màu sắc tập trung, nổi bật, thể hiện sự tập trung và hiệu quả trong công việc.
