@@ -1,6 +1,10 @@
-Bài 1: Tầm quan trọng của thư cảm ơn sau phỏng vấn  
-Bài 2: Những điều cần tránh khi viết thư cảm ơn  
-Bài 3: Cấu trúc cơ bản của thư cảm ơn chuyên nghiệp  
-Bài 4: Cách tùy chỉnh thư cảm ơn cho từng nhà tuyển dụng  
-Bài 5: Mẹo tăng cơ hội được chú ý qua thư cảm ơn  
-Bài 6: Tổng kết khóa học – Viết thư cảm ơn như thế nào để nổi bật!
+Bài 1: Tầm quan trọng của thư cảm ơn sau phỏng vấn – Mở đầu cho thành công  
+Bài 2: Hiểu biết cơ bản về thư cảm ơn – Khung sườn và ngôn ngữ  
+Bài 3: Lập dàn ý nhanh chóng – Bí quyết sắp xếp ý  
+Bài 4: Mở đầu ấn tượng – Chạm vào trái tim người đọc  
+Bài 5: Thân bài thuyết phục – Kể lại câu chuyện của bạn  
+Bài 6: Kết thúc thư mạnh mẽ – Để lại ấn tượng sâu sắc  
+Bài 7: Tùy chỉnh thư cho từng nhà tuyển dụng – Nghệ thuật cá nhân hóa  
+Bài 8: Kiểm tra và chỉnh sửa – Làm cho hoàn hảo  
+Bài 9: Gửi thư đúng cách – Thời điểm và phương tiện  
+Bài 10: Tổng kết khóa học – Rút ra bài học và áp dụng ngay
