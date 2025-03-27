@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung và hứng khởi, đang quay quanh một laptop mở Canva với poster dự án đang dần hoàn thiện trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung và đầy sáng tạo, thể hiện sự nhanh chóng và hiệu quả khi sử dụng Canva.

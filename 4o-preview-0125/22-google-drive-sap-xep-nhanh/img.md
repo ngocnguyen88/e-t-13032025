@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á đang ngồi trước màn hình laptop, mặt rạng rỡ vì đã sắp xếp xong tài liệu trên Google Drive một cách gọn gàng, hiệu quả. Màn hình laptop hiển thị giao diện Google Drive với các thư mục được sắp xếp màu sắc và biểu tượng rõ ràng, dễ nhìn. Phong cách 3D Render hiện đại, màu sắc tươi sáng, truyền cảm hứng tổ chức và học tập.

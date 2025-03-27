@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á mặc trang phục chuyên nghiệp, đứng trước cửa hàng café nổi tiếng tại TP.HCM, tay cầm một cuốn sổ ghi chú và smartphone, mặt tỏ ra tự tin và quyết đoán, phong cách đồ họa 3D Render hiện đại, màu sắc ấm áp, thân thiện, truyền đạt cảm giác sẵn sàng chinh phục thị trường việc làm.

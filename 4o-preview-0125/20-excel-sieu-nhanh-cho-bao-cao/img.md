@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á tập trung xung quanh laptop, ánh mắt hào hứng khi khám phá các tính năng của Excel, màn hình laptop hiển thị biểu đồ và bảng dữ liệu sắc nét, môi trường học tập sôi động và hiệu quả, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khích lệ tinh thần học tập và làm việc nhóm.
