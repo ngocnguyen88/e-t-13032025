@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á tập trung chỉnh sửa ảnh trên máy tính, màn hình hiển thị giao diện Photoshop với các công cụ nổi bật, môi trường học tập trẻ trung, năng động, phong cách 3D Render hiện đại, màu sắc tươi sáng, kích thích khả năng sáng tạo và học hỏi nhanh chóng.

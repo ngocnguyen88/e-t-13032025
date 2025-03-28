@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á năng động đang ngồi trên một chiếc ghế xoay, tay cầm smartphone, màn hình hiển thị lịch Google Calendar đầy màu sắc với các sự kiện được sắp xếp gọn gàng. Phong cách đồ họa 3D Render, màu sắc tươi sáng, năng lượng tích cực, thể hiện sự hiện đại và tiện lợi trong quản lý thời gian.

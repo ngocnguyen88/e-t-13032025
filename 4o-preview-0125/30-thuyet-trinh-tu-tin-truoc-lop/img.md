@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á đang tự tin thuyết trình trước lớp, bạn bè cổ vũ nhiệt tình, môi trường học đường đầy sáng tạo và tích cực, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự tự tin và quyết tâm.

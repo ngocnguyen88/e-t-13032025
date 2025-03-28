@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Nhóm sinh viên châu Á tập trung xung quanh laptop, màn hình hiển thị giao diện Notion với các công việc được sắp xếp rõ ràng trên bảng Kanban, phong cách đồ họa 3D Render hiện đại, màu sắc năng động và tươi mới, tạo cảm giác hợp tác nhóm hiệu quả và tự tin.
