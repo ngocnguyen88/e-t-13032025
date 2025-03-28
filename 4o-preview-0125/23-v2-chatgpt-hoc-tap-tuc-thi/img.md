@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á tập trung màn hình máy tính hiển thị ChatGPT, bàn tay đang gõ bàn phím, môi trường học tập năng động với sách và máy tính xung quanh, phong cách 3D Render hiện đại, màu sắc trẻ trung và năng động, thể hiện không gian học tập tương tác cao với công nghệ.
