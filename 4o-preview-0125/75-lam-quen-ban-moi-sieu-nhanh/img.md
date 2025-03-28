@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện vui vẻ trong một lớp học, nét mặt hào hứng và thân thiện, với các bong bóng hội thoại nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, thể hiện sự kết nối và giao tiếp tự nhiên.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hành kỹ thuật thở và thiền, với biểu hiện tự tin, thoải mái. Khung cảnh thể hiện một không gian học tập thoải mái, cùng với một bảng lớn ghi chú các kỹ thuật quản lý cảm xúc, phong cách đồ họa 3D Render tươi sáng, nhẹ nhàng, tạo cảm giác yên bình và khích lệ.

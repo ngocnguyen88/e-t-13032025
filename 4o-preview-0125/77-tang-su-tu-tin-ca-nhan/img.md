@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thuyết trình tự tin, nét mặt rạng rỡ, đứng trước một bảng trắng với biểu đồ và hình vẽ minh họa. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tự tin, năng động và chuyên nghiệp.

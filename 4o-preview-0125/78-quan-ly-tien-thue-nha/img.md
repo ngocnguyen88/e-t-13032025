@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ, tự tin ngồi quanh bàn với laptop và điện thoại, hiển thị các ứng dụng tài chính, biểu đồ chi tiêu và kế hoạch phân chia chi phí rõ ràng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác quản lý tài chính dễ dàng và hiệu quả.

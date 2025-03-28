@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện thân mật trong một quán cà phê, một bạn trong số đó đang khéo léo từ chối lời mời với nụ cười nhẹ nhàng, các nhân vật thể hiện sự hiểu biết và cảm thông, phong cách 3D Render hiện đại, màu sắc ấm áp, gần gũi, tạo cảm giác dễ chịu và thoải mái trong giao tiếp.

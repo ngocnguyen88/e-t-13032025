@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á cười tươi, tự tin trò chuyện với một giảng viên, không gian thân thiện trong phòng học hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng, tạo cảm giác dễ chịu và khuyến khích giao tiếp mở rộng.

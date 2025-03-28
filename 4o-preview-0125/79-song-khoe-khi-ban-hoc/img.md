@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hiện bài tập thể dục nhẹ nhàng ngay tại bàn học, với một không gian học tập hiện đại, thoải mái, ánh sáng tự nhiên tràn ngập, phong cách đồ họa 3D Render tinh tế, màu sắc tươi sáng, gợi cảm giác thư giãn và tràn đầy năng lượng.

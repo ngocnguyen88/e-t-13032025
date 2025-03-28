@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt phấn chấn, vui vẻ, đang trao đổi và hỗ trợ nhau trong học tập, xung quanh là bảng ghi chú đầy màu sắc với những mục tiêu học tập rõ ràng, phong cách 3D Render hiện đại, màu sắc tươi sáng, tràn đầy năng lượng, khơi gợi cảm hứng học tập tích cực.
