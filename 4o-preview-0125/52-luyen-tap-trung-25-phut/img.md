@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hành kỹ thuật Pomodoro với đồng hồ đếm ngược 25 phút nổi bật, nét mặt tập trung và thoải mái, xung quanh là không gian học tập hiện đại, gọn gàng, phong cách đồ họa 3D Render, màu sắc tươi sáng, tạo cảm giác dễ chịu và khuyến khích học tập hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng làm việc cùng nhau, trên bàn có laptop, bảng trắng với các ghi chú màu sắc, biểu đồ và công cụ hỗ trợ nhóm. Nét mặt sinh viên thể hiện sự tự tin và đồng lòng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và đoàn kết.

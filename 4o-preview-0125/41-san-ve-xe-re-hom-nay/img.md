@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang sử dụng laptop và điện thoại, cùng nhau vui vẻ tìm kiếm vé xe rẻ, với bảng giá vé hiện lên trên màn hình. Hình ảnh 3D Render sắc nét, thể hiện sự hào hứng và tiết kiệm chi phí, màu sắc tươi sáng và hiện đại, khơi gợi sự tích cực trong việc săn vé giá rẻ.

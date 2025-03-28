@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang học cùng nhau, nét mặt tươi cười tự tin, xung quanh là bảng kế hoạch học tập chi tiết và các tài liệu học tập, không gian học tập sáng tạo, phong cách 3D Render hiện đại, màu sắc tươi sáng, tạo động lực cho việc học lại môn trượt.

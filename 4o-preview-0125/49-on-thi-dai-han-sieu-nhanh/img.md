@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú lập kế hoạch học tập trên máy tính bảng và laptop, trên tường là bảng kế hoạch ôn thi dài hạn được vẽ rõ ràng, đồ họa 3D Render, ánh sáng hài hòa, màu sắc trẻ trung, thể hiện sự tự tin và sẵn sàng cho kỳ thi.

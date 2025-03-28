@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ, đang ngồi quanh bàn với máy tính bảng hiển thị ứng dụng quản lý tài chính, xung quanh là tiền và sổ ghi chép ngân sách, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, khơi gợi cảm hứng quản lý tài chính hiệu quả.

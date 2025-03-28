@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ, đang cùng nhau sắp xếp lịch học trên bảng trắng, một số sử dụng máy tính bảng với ứng dụng quản lý thời gian, trong không gian học tập hiện đại, phong cách 3D Render, màu sắc tươi sáng, thúc đẩy cảm hứng lập kế hoạch học tập siêu tốc.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ và tự tin, đang trao đổi và trả giá tại một quầy bán đồ ăn đường phố, với các biểu tượng đồng tiền và thực phẩm nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, tạo cảm giác thân thiện và gần gũi.

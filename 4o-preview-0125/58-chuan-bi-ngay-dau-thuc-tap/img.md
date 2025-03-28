@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chuẩn bị bước vào văn phòng, họ mặc trang phục chuyên nghiệp, nét mặt tự tin và hào hứng. Bên cạnh là một bảng thông báo "Ngày đầu thực tập" với các biểu tượng đồng hồ, tài liệu và máy tính, tất cả trong phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung và năng động, tạo cảm giác sẵn sàng và tự tin.

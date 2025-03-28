@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hành giao tiếp và làm việc nhóm tại một văn phòng hiện đại, với biểu cảm tự tin và chuyên nghiệp. Trên bàn có máy tính, tài liệu công việc và một bảng trắng ghi chú các kỹ năng cần thiết, phong cách đồ họa 3D Render, màu sắc trẻ trung và hấp dẫn, tạo cảm giác hứng khởi cho người học.

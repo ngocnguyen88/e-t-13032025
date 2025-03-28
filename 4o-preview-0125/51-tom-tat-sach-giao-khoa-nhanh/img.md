@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng sử dụng máy tính bảng và sổ tay để tóm tắt sách, trên bàn có sơ đồ tư duy nổi bật, với nét mặt phấn khởi và tự tin, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền tải sự năng động và hiệu quả của việc học tập.

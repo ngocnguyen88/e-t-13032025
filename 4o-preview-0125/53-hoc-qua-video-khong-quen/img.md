@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú xem video trên laptop, xung quanh là các ghi chú, công cụ học tập hiện đại và màn hình hiển thị các điểm chính từ video, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thúc đẩy tinh thần học tập hiệu quả.

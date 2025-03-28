@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng chụp ảnh sản phẩm trên bàn, với ánh sáng tự nhiên chiếu qua cửa sổ, các dụng cụ đơn giản được sắp xếp gọn gàng. Hình ảnh được thể hiện theo phong cách 3D Render hiện đại, màu sắc tươi sáng, sinh động, thể hiện sự sáng tạo và tự tin khi học kỹ năng mới.

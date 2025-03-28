@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ với túi quà và điện thoại thông minh, trên màn hình hiển thị các ưu đãi hấp dẫn, xung quanh là các biểu tượng khuyến mãi và thẻ sinh viên, phong cách đồ họa 3D Render sống động, hiện đại, sắc màu tươi sáng, mang lại cảm giác hứng khởi và tiết kiệm thông minh.

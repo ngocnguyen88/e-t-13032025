@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt vui vẻ và hứng khởi, đang ngồi cùng nhau lập kế hoạch đi chơi trên laptop, bản đồ và giấy ghi chú rải rác xung quanh, với biểu tượng tiết kiệm tiền và hình ảnh các địa điểm du lịch nổi bật, phong cách đồ họa 3D Render tươi sáng, hiện đại, thu hút sự chú ý và kích thích tinh thần sáng tạo.

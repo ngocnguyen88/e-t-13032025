@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt thư thái, nghỉ ngơi trên ghế sofa với đồng hồ báo thức chỉ 7 giờ sáng, sách vở gọn gàng, ánh sáng dịu nhẹ từ cửa sổ chiếu vào, phong cách đồ họa 3D Render hiện đại, màu sắc nhẹ nhàng, tạo cảm giác thư giãn và tràn đầy năng lượng cho một ngày mới.

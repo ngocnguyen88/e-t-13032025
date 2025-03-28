@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang sắp xếp bàn học với nét mặt tập trung và vui vẻ, xung quanh là sách vở, bút viết được sắp xếp gọn gàng, ánh sáng hài hòa, phong cách 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác dễ chịu và kích thích tinh thần học tập.
