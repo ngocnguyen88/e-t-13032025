@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cùng thảo luận sôi nổi với đồng nghiệp trong văn phòng hiện đại. Mọi người đều thể hiện sự hào hứng và tập trung. Một bảng trắng với các ghi chú và biểu đồ, phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, tạo cảm giác năng động và tích cực trong môi trường làm việc.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin, hào hứng, đang tham gia buổi phỏng vấn mô phỏng với nhà tuyển dụng. Một bảng điểm mạnh cá nhân và kỹ năng giao tiếp nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác chuyên nghiệp và năng động.

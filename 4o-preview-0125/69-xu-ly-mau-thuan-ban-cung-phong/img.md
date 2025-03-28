@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Hai sinh viên châu Á với nét mặt hòa nhã, đang cùng ngồi bàn bạc và cười đùa bên bàn tròn, xung quanh có các biểu tượng hòa giải và giải pháp sáng tạo, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác thân thiện và tích cực.

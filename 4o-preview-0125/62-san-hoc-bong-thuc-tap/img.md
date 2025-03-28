@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi sôi nổi về học bổng, trước màn hình máy tính hiển thị danh sách học bổng thực tập, với biểu tượng "20 phút" nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, tạo cảm giác hào hứng và quyết tâm.

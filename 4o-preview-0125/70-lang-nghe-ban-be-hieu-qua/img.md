@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện sôi nổi, nét mặt hào hứng và lắng nghe chăm chú, bàn tay thể hiện ngôn ngữ cơ thể, với khung cảnh ấm cúng và màu sắc tươi sáng, phong cách đồ họa 3D Render hiện đại, kích thích khả năng kết nối và lắng nghe hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á trong trang phục công sở, tự tin thuyết trình trước một nhóm nhân viên công ty. Màn hình phía sau hiển thị slide thuyết trình chuyên nghiệp, nét mặt sinh viên vui vẻ và quyết tâm. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện tinh thần tự tin, chuyên nghiệp và sẵn sàng tạo ấn tượng mạnh mẽ.

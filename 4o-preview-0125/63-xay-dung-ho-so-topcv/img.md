@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tập trung và hào hứng, đang sử dụng laptop để thiết kế CV trên TopCV, với màn hình hiển thị giao diện CV nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện sự tự tin và chuyên nghiệp trong quá trình tạo CV.

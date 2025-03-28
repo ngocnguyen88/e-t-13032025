@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi trước máy tính, nét mặt tập trung và tự tin, với màn hình hiển thị mẫu email chuyên nghiệp. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện sự chuyên nghiệp và hiệu quả trong giao tiếp qua email.

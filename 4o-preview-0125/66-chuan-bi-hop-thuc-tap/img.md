@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, hào hứng tham gia vào cuộc họp, một sinh viên đang phát biểu với tay cầm micro, các sinh viên khác chăm chú lắng nghe, trên bàn có laptop và giấy ghi chú, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thoải mái, tự tin trong môi trường thực tập.

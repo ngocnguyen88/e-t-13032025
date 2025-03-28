@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tập trung làm việc với các công cụ quản lý thời gian trên máy tính và điện thoại, trên bàn là các tài liệu thực tập và học tập, biểu đồ Pomodoro đang chạy trên màn hình, phong cách 3D Render hiện đại, sắc thái màu sắc hài hòa, tạo cảm giác chuyên nghiệp và hiệu quả.
