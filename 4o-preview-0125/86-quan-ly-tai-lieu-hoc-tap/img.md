@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hân hoan, đang sắp xếp tài liệu học tập trên bàn học với các ngăn kéo gọn gàng, máy tính bảng và điện thoại thông minh hiển thị ứng dụng quản lý tài liệu, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác ngăn nắp và hiệu quả trong học tập.

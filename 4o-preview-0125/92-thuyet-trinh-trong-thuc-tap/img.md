@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, đứng trước bảng thuyết trình với biểu đồ và điểm nhấn sáng tạo, tay cầm micro, khán giả chăm chú lắng nghe, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác chuyên nghiệp và lôi cuốn.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang giao tiếp vui vẻ trong một không gian thân thiện, với nét mặt tự tin và cởi mở. Các sinh viên đang sử dụng ngôn ngữ cơ thể tích cực, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và thân thiện, giúp khuyến khích người xem học hỏi nhanh chóng.

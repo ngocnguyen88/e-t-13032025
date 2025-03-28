@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi, hào hứng xung quanh bàn tròn, với biểu tượng ánh sáng bừng sáng từ giữa bàn tượng trưng cho ý tưởng mới, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện tinh thần đoàn kết và sáng tạo.

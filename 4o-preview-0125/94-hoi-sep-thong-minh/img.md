@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với biểu cảm tự tin, hào hứng, đang thực hành giao tiếp với một nhân vật sếp trong văn phòng hiện đại. Phong cách đồ họa 3D Render, màu sắc trẻ trung, năng động, tạo cảm giác chuyên nghiệp và thân thiện.

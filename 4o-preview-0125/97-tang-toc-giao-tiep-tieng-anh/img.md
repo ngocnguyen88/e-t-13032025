@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ, tự tin đứng trước lớp với bảng trắng phía sau. Một sinh viên đang nói, các sinh viên khác lắng nghe chăm chú. Đồng hồ hiển thị thời gian 20 phút, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, kích thích tinh thần học tập.

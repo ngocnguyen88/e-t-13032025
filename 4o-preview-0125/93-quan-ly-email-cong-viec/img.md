@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang sử dụng laptop, giao diện email trên màn hình rõ ràng với các thư mục được sắp xếp gọn gàng. Các sinh viên tỏ ra tự tin, hài lòng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và chuyên nghiệp, tạo cảm giác quản lý email hiệu quả và nhanh chóng.

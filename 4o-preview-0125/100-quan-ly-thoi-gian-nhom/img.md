@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng làm việc cùng nhau, với biểu đồ thời gian và danh sách công việc được sắp xếp gọn gàng trên bàn. Mỗi người đang thực hiện nhiệm vụ của mình một cách tự tin, xung quanh là không gian học tập hiện đại, phong cách 3D Render trẻ trung, sống động, thể hiện sự hợp tác và hiệu quả trong quản lý thời gian nhóm.

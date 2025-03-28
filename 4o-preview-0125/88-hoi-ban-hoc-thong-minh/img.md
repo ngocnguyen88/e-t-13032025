@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cùng nhau học tập trong không gian hiện đại, một bạn đang chủ động hỏi và các bạn khác hỗ trợ nhiệt tình, ánh mắt tập trung, nụ cười thân thiện, phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, kích thích tinh thần học hỏi và giao tiếp hiệu quả.

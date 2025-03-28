@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú viết báo cáo trên laptop, nét mặt tập trung, hào hứng. Xung quanh là các bảng viết nháp, sơ đồ tư duy, và các tài liệu tham khảo. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện tinh thần làm việc nhanh chóng và hiệu quả.

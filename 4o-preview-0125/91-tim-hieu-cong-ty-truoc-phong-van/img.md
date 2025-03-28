@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin và nghiêm túc, sử dụng laptop và tablet để nghiên cứu thông tin công ty. Xung quanh họ là các biểu đồ, bản đồ tư duy và logo công ty nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền tải cảm giác hứng khởi và tập trung cao độ.

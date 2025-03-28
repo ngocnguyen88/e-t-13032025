@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, gương mặt tràn đầy tự tin, đang tập trung tạo hồ sơ trên laptop và viết thư xin việc, xung quanh là các tài liệu và hình ảnh minh họa về CV và thư xin việc, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác hứng khởi và chuyên nghiệp.

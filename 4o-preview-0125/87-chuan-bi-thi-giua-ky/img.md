@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang học tập hăng say, với một bảng sơ đồ tư duy lớn trên tường, đồng hồ đếm ngược thời gian nổi bật trên bàn, phong cách đồ họa 3D Render trẻ trung, năng động, màu sắc tươi sáng, thể hiện tinh thần học tập tích cực và hiệu quả.
