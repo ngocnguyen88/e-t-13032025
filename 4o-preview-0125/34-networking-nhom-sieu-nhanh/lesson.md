@@ -1,0 +1,174 @@
+## ## Bài 1: Tư duy cởi mở - Bước đầu hòa nhập nhanh chóng
+
+Đã bao giờ bạn cảm thấy mình như một chú cá lạc lối trong bể nước mới, không biết phải bơi theo hướng nào? Đừng lo, tư duy cởi mở sẽ giúp bạn **"lội ngược dòng"** và hòa nhập nhanh chóng với bất kỳ môi trường mới nào!
+
+---
+
+### 📌 Tư duy cởi mở:
+
+**🔹 Lắng nghe và quan sát:**
+- Đừng vội vàng phát biểu ý kiến ngay, hãy dành thời gian **lắng nghe và quan sát**. Ví dụ: Khi mới vào lớp, hãy chú ý cách mọi người tương tác và tham gia.
+
+**🔹 Đặt câu hỏi mở:**
+- Thay vì hỏi câu hỏi đóng, hãy hỏi câu hỏi mở để hiểu rõ hơn. Ví dụ: "Bạn nghĩ sao về điều này?" thay vì "Bạn có thích không?".
+
+**🔹 Chấp nhận sự khác biệt:**
+- Mỗi người có cách suy nghĩ và hành động khác nhau. Hãy chấp nhận điều đó như một phần của cuộc sống đa dạng.
+
+**🔹 Thử những điều mới:**
+- Đừng ngại tham gia vào các hoạt động mà bạn chưa từng thử. Ví dụ: Tham gia một câu lạc bộ mới hay thử một môn thể thao khác lạ.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **dành 5 phút để lắng nghe một người bạn mới** và đặt ít nhất 3 câu hỏi mở. Bạn sẽ khám phá ra nhiều điều thú vị đấy!
+
+Đã mở lòng xong rồi? Giờ đến lúc **xây dựng mối quan hệ bền vững** – hãy cùng khám phá bài học tiếp theo nhé! 🌟
+
+---
+## ## Bài 2: Kỹ thuật giới thiệu bản thân ấn tượng trong 2 phút
+
+Bạn đã bao giờ đứng giữa một buổi phỏng vấn hay một cuộc gặp gỡ quan trọng, và bỗng dưng không biết giới thiệu bản thân thế nào chưa? Lời giới thiệu lủng củng có thể làm bạn cảm thấy như đang diễn một vở hài kịch không có kịch bản! Đừng lo, kỹ thuật sau sẽ giúp bạn tỏa sáng chỉ trong 2 phút.
+
+---
+
+### 📌 Kỹ thuật giới thiệu bản thân ấn tượng:
+
+**🔹 Bắt đầu bằng một câu "mở màn" thú vị:**
+- Hãy bắt đầu với một câu chuyện ngắn hoặc một sự thật thú vị về bản thân. Ví dụ: "Tôi từng có cơ hội tham gia cuộc thi làm robot từ khi còn học lớp 10!"
+
+**🔹 Nêu rõ tên và vị trí hiện tại:**
+- Sau khi đã gây được sự chú ý, hãy giới thiệu tên và vị trí hiện tại của bạn. Ví dụ: "Tôi là Minh, hiện đang là sinh viên năm cuối ngành Công nghệ Thông tin."
+
+**🔹 Chia sẻ thành tựu nổi bật:**
+- Nêu một hoặc hai thành tựu đáng tự hào mà bạn đã đạt được. Ví dụ: "Gần đây, tôi đã hoàn thành một dự án phần mềm giúp tiết kiệm 30% thời gian làm việc cho nhóm."
+
+**🔹 Kết thúc với kế hoạch hoặc mong muốn tương lai:**
+- Kết thúc bằng việc chia sẻ kế hoạch hoặc mục tiêu của bạn. Ví dụ: "Tôi rất mong muốn phát triển sự nghiệp trong lĩnh vực AI và đóng góp vào những dự án tiên phong."
+
+---
+
+### 🚀 Hành động:
+
+Hãy viết một bản giới thiệu bản thân của bạn theo cấu trúc trên và thực hành nói trước gương. Điều này sẽ giúp bạn tự tin hơn trong những lần giới thiệu tiếp theo!
+
+Giờ thì bạn đã sẵn sàng cho bài học tiếp theo về **kỹ năng giao tiếp phi ngôn ngữ**. Đừng bỏ lỡ nhé!
+
+---
+## ## Bài 3: Lắng nghe chủ động - Chìa khóa xây dựng quan hệ
+
+Bạn đã bao giờ nói chuyện mà cảm thấy như mình đang độc thoại? Câu chuyện như rơi vào lỗ đen và người nghe chẳng hề có phản hồi gì? Đừng lo, lắng nghe chủ động sẽ là giải pháp hoàn hảo để bạn xây dựng những mối quan hệ bền chặt hơn!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Tập trung hoàn toàn:**
+- Hãy tưởng tượng bạn đang xem một bộ phim hay ho. Tập trung vào câu chuyện của người khác cũng vậy, đừng để điện thoại hay suy nghĩ vẩn vơ làm phân tán.
+- Ví dụ: Đặt điện thoại xuống và duy trì giao tiếp bằng mắt.
+
+**🔹 Phản hồi thông minh:**
+- Thay vì gật đầu máy móc, hãy sử dụng những câu như "Ồ, thú vị quá!", "Thật sao?", để khuyến khích người nói tiếp tục.
+- Ví dụ: Khi người khác kể về chuyến du lịch, bạn có thể hỏi thêm về một địa điểm cụ thể họ đã đến.
+
+**🔹 Tóm tắt và xác nhận:**
+- Nhắc lại một phần câu chuyện để người nói thấy bạn thực sự hiểu và quan tâm.
+- Ví dụ: "Vậy là bạn đã gặp một chú gấu ở Alaska? Thật tuyệt vời!"
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi trò chuyện với ai đó, hãy **thực hiện một trong những kỹ thuật lắng nghe chủ động trên**. Bạn sẽ thấy mối quan hệ của mình được cải thiện rõ rệt!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch giao tiếp tiếp theo – xem ngay bài tiếp theo!
+
+---
+## ## Bài 4: Sử dụng ngôn ngữ cơ thể để tạo thiện cảm
+
+Bạn đã bao giờ thấy mình đang nói chuyện mà người kia cứ nhìn ra chỗ khác, hoặc tỏ ra không mấy quan tâm? Đôi khi, không phải lời nói mà chính ngôn ngữ cơ thể mới là chìa khóa để tạo ấn tượng tốt. Đừng lo, chỉ với một vài mẹo nhỏ sau đây, bạn sẽ khiến người khác cảm thấy thoải mái và dễ mến hơn trong tích tắc!
+
+---
+
+### 📌 Sử dụng ngôn ngữ cơ thể:
+
+**🔹 Giao tiếp bằng mắt:**
+Hãy nhìn thẳng vào mắt đối phương khi nói chuyện. Điều này tạo cảm giác bạn đang thực sự quan tâm và lắng nghe họ. Nhưng nhớ đừng nhìn chằm chằm quá lâu nhé, không lại gây áp lực!
+
+**🔹 Mỉm cười chân thành:**
+Một nụ cười tươi và chân thành có thể phá vỡ mọi khoảng cách. Nhiều sinh viên thấy rằng một nụ cười thân thiện giúp mở đầu câu chuyện dễ dàng hơn.
+
+**🔹 Gật đầu nhẹ:**
+Khi ai đó đang nói, hãy gật đầu nhẹ để cho thấy bạn đồng tình và hiểu ý họ. Đây là cách đơn giản nhưng hiệu quả để tạo cảm giác thoải mái và thân thiện.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi bạn giao tiếp, hãy thử **giao tiếp bằng mắt và mỉm cười**. Bạn sẽ thấy đối phương mở lòng hơn và cuộc trò chuyện trở nên dễ dàng hơn.
+
+Tạo thiện cảm đã ổn chưa? Giờ thì hãy khám phá cách **thuyết phục người khác một cách hiệu quả** trong bài học tiếp theo nhé!
+
+---
+## ## Bài 5: Cách đặt câu hỏi mở đầu cuộc trò chuyện hiệu quả
+
+Đã bao giờ bạn cảm thấy lúng túng, không biết phải mở lời thế nào khi đứng trước người lạ hay trong một buổi họp quan trọng? Đừng lo, chỉ cần một câu hỏi mở đầu đúng cách là bạn có thể bắt nhịp cuộc trò chuyện một cách tự nhiên và dễ dàng. Hãy cùng khám phá bí quyết này!
+
+---
+
+### 📌 Giải pháp để đặt câu hỏi mở đầu hiệu quả:
+
+**🔹 Hỏi về sở thích hoặc ý kiến cá nhân:**  
+- Câu hỏi như "Bạn thích làm gì vào cuối tuần?" hay "Bạn nghĩ sao về xu hướng mới này?" giúp mở đầu cuộc trò chuyện một cách thoải mái.  
+- Nhiều sinh viên thấy rằng, hỏi về sở thích giúp phá vỡ băng và tạo sự gắn kết.
+
+**🔹 Dùng câu hỏi mở không mang tính chất phán xét:**  
+- Tránh những câu hỏi có thể khiến người khác cảm thấy không thoải mái như "Tại sao bạn lại làm thế?". Thay vào đó, hãy hỏi "Bạn có thể chia sẻ thêm về quyết định đó không?".  
+- Cách này thường hiệu quả vì nó tạo ra môi trường an toàn để chia sẻ.
+
+**🔹 Lắng nghe và đặt câu hỏi tiếp nối:**  
+- Khi người đối diện trả lời, hãy lắng nghe và đặt thêm câu hỏi dựa trên câu trả lời của họ.  
+- Hãy tưởng tượng bạn đang cùng họ đi dạo trong một cuộc trò chuyện thú vị!
+
+---
+
+### 🚀 Hành động:
+
+Hãy thực hành đặt một câu hỏi mở đầu trong cuộc trò chuyện tiếp theo bạn tham gia. Chú ý lắng nghe và đặt câu hỏi tiếp nối để duy trì cuộc trò chuyện.
+
+Xác định xong rồi? Giờ đến bước xây dựng kỹ năng giao tiếp chuyên sâu – xem ngay bài tiếp theo!
+
+---
+## ## Bài 6: Tổng kết khóa học – Tự tin hòa nhập vào nhóm mới
+
+Bạn có thấy mình như đang đóng vai khách mời trong một bữa tiệc mà ai cũng quen nhau trừ bạn? Hay cảm giác lạc lõng giữa một nhóm mới toanh? Đừng lo, bí quyết sau đây sẽ giúp bạn tự tin hòa nhập và biến mình thành một phần không thể thiếu của nhóm!
+
+---
+
+### 📌 Hòa nhập vào nhóm mới:
+
+**🔹 Chủ động làm quen:**
+- Nhiều sinh viên đã thấy rằng **chủ động giới thiệu bản thân** luôn là bước đầu tiên hiệu quả.
+- Ví dụ: “Chào mọi người, mình là A, rất vui được gặp và làm việc cùng các bạn!”
+
+**🔹 Lắng nghe và tham gia:**
+- **Lắng nghe tích cực** khi người khác nói và đóng góp ý kiến của mình.
+- Hãy tưởng tượng bạn đang tham gia một cuộc hội thoại thú vị và nêu ra quan điểm cá nhân.
+
+**🔹 Tham gia hoạt động nhóm:**
+- Tham gia **các hoạt động nhóm** như ăn trưa cùng nhau, trò chuyện hay thậm chí là tham gia trò chơi nhóm.
+- Điều này giúp tạo ra sự kết nối và tăng cường sự gắn bó.
+
+**🔹 Tôn trọng và hỗ trợ:**
+- **Tôn trọng ý kiến** của mọi người và luôn sẵn lòng hỗ trợ khi cần thiết.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi gia nhập nhóm mới, hãy **giới thiệu bản thân và tham gia một hoạt động nhóm**. Điều này sẽ giúp bạn nhanh chóng hòa nhập và tạo dựng mối quan hệ tốt đẹp.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để biết cách **lên kế hoạch học tập siêu hiệu quả**! Đừng bỏ lỡ nhé!
+
+---

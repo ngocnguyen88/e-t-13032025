@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, hào hứng ngồi trước máy tính đang mở ứng dụng Zoom, các biểu tượng mic, camera và màn hình chia sẻ nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, tạo cảm giác thân thiện và sẵn sàng tham gia cuộc họp online.

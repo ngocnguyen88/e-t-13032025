@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện với nụ cười thoải mái, xung quanh có các biểu tượng lời thoại tích cực và dấu hiệu thân thiện, tạo cảm giác vui vẻ và cởi mở. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo động lực cho việc học kỹ năng giao tiếp tích cực.

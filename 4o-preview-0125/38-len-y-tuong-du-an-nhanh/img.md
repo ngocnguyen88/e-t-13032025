@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui tươi, tự tin, đang thảo luận sôi nổi quanh bàn với các bảng ghi ý tưởng, laptop mở mindmap, và các công cụ hỗ trợ sáng tạo. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm hứng cho việc lên ý tưởng nhanh chóng và hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi xung quanh bàn họp, họ đang thảo luận sôi nổi nhưng thân thiện, phía sau là bảng trắng với các từ khóa quản lý xung đột, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác hợp tác, sáng tạo và hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn làm việc với nét mặt vui vẻ, hòa hợp. Trên bàn có các công cụ hỗ trợ giao tiếp như bảng viết, giấy ghi chú và đồng hồ đếm ngược 12 phút. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tích cực và đoàn kết trong nhóm.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ, ngồi bên nhau với laptop và sổ tay ghi chép ngân sách, biểu đồ chi tiêu được hiển thị rõ ràng trên màn hình, xung quanh là các biểu tượng giảm giá và tiết kiệm, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần tiết kiệm và quản lý tài chính hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn làm việc, nét mặt thư giãn, tự tin với laptop và tài liệu sắp xếp ngăn nắp. Đồng hồ chỉ thời gian làm việc Pomodoro và các ứng dụng quản lý thời gian hiển thị trên màn hình laptop, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, kích thích tinh thần làm việc hiệu quả.

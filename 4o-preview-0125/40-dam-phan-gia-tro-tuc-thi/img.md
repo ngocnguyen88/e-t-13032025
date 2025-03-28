@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin, đang trao đổi với chủ trọ trong một phòng khách sáng sủa. Trên bàn có laptop, giấy tờ và bút đánh dấu. Đồng hồ trên tường hiển thị thời gian còn lại, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thân thiện và chuyên nghiệp, khuyến khích sự tự tin trong đàm phán.

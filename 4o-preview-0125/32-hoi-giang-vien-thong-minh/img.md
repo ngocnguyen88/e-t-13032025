@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi tích cực với một giảng viên trong không gian lớp học hiện đại, với bảng trắng và máy chiếu, phong cách đồ họa 3D Render sắc nét, màu sắc tươi sáng, thể hiện sự tự tin và kết nối hiệu quả giữa sinh viên và giảng viên.
