@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi bàn bạc vui vẻ trong một phòng trọ, với một bảng tiêu chí chọn bạn cùng phòng và các biểu tượng công nghệ hiện đại xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sáng tạo, tạo cảm giác hòa đồng, thoải mái.

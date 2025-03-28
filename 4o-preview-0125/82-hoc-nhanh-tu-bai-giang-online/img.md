@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú học từ laptop, xung quanh là các ghi chú và biểu đồ kiến thức 3D, thể hiện sự tập trung và hứng thú. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khuyến khích tinh thần học tập siêu tốc và hiệu quả.

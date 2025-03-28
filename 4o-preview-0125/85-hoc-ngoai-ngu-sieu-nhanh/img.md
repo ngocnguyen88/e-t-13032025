@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á ngồi học với flashcard và sách vở, nét mặt tập trung và hào hứng. Xung quanh là các biểu tượng từ vựng và hình ảnh minh họa, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động, kích thích tinh thần học tập ngoại ngữ siêu nhanh.

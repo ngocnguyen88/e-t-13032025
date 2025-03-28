@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin và hào hứng, đang cùng nhau chuẩn bị thuyết trình với máy chiếu và laptop, biểu đồ và tài liệu sắp xếp gọn gàng trên bàn, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện tinh thần hợp tác và năng động.
