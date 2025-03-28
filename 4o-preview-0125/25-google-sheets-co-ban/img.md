@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tập trung xung quanh laptop, tay chỉ vào màn hình hiển thị Google Sheets, khuôn mặt thể hiện sự hào hứng và tập trung. Phong cách 3D Render hiện đại, màu sắc tươi sáng và năng động, thể hiện sự hợp tác và hiệu quả công việc nhóm, kích thích tinh thần học tập và làm việc nhóm.

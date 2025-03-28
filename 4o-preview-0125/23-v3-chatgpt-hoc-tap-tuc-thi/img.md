@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Sinh viên châu Á nét mặt tập trung cao độ, ngồi trước máy tính với màn hình hiển thị ChatGPT, ánh sáng từ màn hình chiếu lên khuôn mặt họ, tạo cảm giác hứng khởi và hiện đại. Phong cách 3D Render, màu sắc nổi bật và tinh tế, khích lệ tinh thần tự học và khám phá công nghệ mới.

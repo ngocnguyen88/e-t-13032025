@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á đang đứng tự tin trước màn hình hiển thị slide PowerPoint ấn tượng, với hình ảnh đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, tạo cảm hứng và sự tự tin cho người thuyết trình, khung hình 16:9, phong cách nghệ thuật.

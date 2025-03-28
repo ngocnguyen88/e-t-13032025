@@ -1,7 +1,7 @@
-Bài 1: Giới thiệu ChatGPT - Người bạn đồng hành cùng học vụ  
-Bài 2: Cài đặt và khởi chạy - Bắt đầu nhanh chóng  
-Bài 3: Cách hỏi hiệu quả - Tăng cường chất lượng trả lời  
-Bài 4: Sử dụng ChatGPT để tìm kiếm và tổng hợp thông tin  
-Bài 5: ChatGPT giải đề, soạn thảo và sửa bài  
-Bài 6: Tối ưu hóa việc học cùng ChatGPT - Mẹo và thủ thuật  
-Bài 7: Tổng kết khóa học – Trở thành chuyên gia ChatGPT trong 14 phút!
+Bài 1: Giới thiệu ChatGPT - Trợ lý học tập thông minh  
+Bài 2: Cài đặt và khởi chạy ChatGPT đầu tiên của bạn  
+Bài 3: Làm thế nào để đặt câu hỏi hiệu quả trong ChatGPT  
+Bài 4: Tìm kiếm và tổng hợp thông tin cùng ChatGPT  
+Bài 5: Sử dụng ChatGPT để soạn thảo và chỉnh sửa văn bản  
+Bài 6: Mẹo và thủ thuật nâng cao với ChatGPT  
+Bài 7: Tổng kết khóa học – Tận dụng ChatGPT để học tập hiệu quả và tiết kiệm thời gian
