@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á ngồi quanh bàn, một người cầm bảng KPI với biểu đồ và số liệu, nét mặt tự tin và hào hứng, không gian văn phòng sáng tạo với máy tính và tài liệu, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác chuyên nghiệp và năng động.

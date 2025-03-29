@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hăng say thảo luận với nhau trước máy chiếu, hình ảnh slide thuyết trình rõ ràng, các biểu đồ và hình ảnh trực quan nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tự tin và đầy hứng khởi trong việc chuẩn bị thuyết trình.

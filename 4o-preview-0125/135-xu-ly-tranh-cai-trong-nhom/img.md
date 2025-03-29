@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cười nói vui vẻ, bắt tay hòa giải, bên cạnh là bảng viết với những từ khóa như "Lắng nghe", "Thấu hiểu", "Đồng thuận", phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự hòa hợp và đoàn kết, kích thích tinh thần giải quyết xung đột nhanh chóng và hiệu quả.

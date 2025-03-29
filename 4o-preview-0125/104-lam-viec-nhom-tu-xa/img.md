@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng thảo luận qua Zoom, trên màn hình hiển thị các tính năng Zoom đang được sử dụng như chia sẻ màn hình, chat nhóm, với bối cảnh sống động, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự hợp tác hiệu quả và đầy năng lượng.

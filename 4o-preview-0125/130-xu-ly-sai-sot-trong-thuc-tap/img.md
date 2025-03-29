@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi, nét mặt tập trung và quyết tâm, với biểu đồ phân tích lỗi và kế hoạch sửa chữa trên bảng trắng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo động lực học tập và phát triển kỹ năng thực tập.

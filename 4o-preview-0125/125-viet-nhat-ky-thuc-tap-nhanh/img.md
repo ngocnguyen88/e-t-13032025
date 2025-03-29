@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi tại một quán cà phê, mỗi người đang chăm chú viết nhật ký thực tập với laptop hoặc sổ ghi chép, trên bàn có đồng hồ cát đang chảy nhanh. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, tạo cảm giác hứng khởi cho việc viết nhật ký nhanh chóng.

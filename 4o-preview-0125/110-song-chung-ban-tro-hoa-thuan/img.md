@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quây quần, vui vẻ trò chuyện trong căn phòng trọ gọn gàng, với ánh sáng ấm áp, biểu hiện sự hòa thuận và gắn kết. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thoải mái và dễ chịu.

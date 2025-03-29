@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi, nét mặt tự tin và thoải mái, xung quanh là các biểu tượng phản hồi tích cực và tiêu cực được chuyển đổi thành biểu tượng tích cực, phong cách đồ họa 3D Render tươi sáng và hiện đại, tạo cảm giác gần gũi và khích lệ tinh thần học tập.

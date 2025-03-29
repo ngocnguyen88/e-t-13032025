@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, tươi cười, đang thảo luận và thực hành trả lời câu hỏi trong lớp học với bảng trắng phía sau đầy ghi chú, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, truyền cảm hứng học tập và sự tự tin trong giao tiếp.

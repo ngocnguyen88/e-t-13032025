@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi quanh bàn với máy tính xách tay, bảng trắng ghi chú ý tưởng và sơ đồ công việc, nét mặt tự tin và hăng say, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, kích thích tinh thần hợp tác và sáng tạo.

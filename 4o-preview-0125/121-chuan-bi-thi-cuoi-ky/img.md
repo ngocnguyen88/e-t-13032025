@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt chăm chú và quyết tâm, ngồi quanh bàn học với laptop, flashcard, và mindmap. Trên tường là bảng kế hoạch ôn thi chi tiết, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và sinh động, tạo động lực cho học tập hiệu quả và nhanh chóng.

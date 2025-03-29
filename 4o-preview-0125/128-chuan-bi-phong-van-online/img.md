@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, ngồi trước máy tính với ánh sáng và góc quay hoàn hảo, màn hình Zoom mở sẵn, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trang phục lịch sự, không gian xung quanh gọn gàng, chuyên nghiệp, tạo cảm giác sẵn sàng cho buổi phỏng vấn.

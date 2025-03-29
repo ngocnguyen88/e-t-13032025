@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ và hào hứng nhìn vào màn hình máy tính với các hình ảnh từ vựng được hiển thị sinh động, xung quanh là các bảng từ vựng và hình ảnh minh họa, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, kích thích sự sáng tạo và học tập hiệu quả.

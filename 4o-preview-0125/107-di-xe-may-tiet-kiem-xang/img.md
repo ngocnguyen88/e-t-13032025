@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đứng bên cạnh xe máy với nụ cười tự tin, một sinh viên chỉ vào bảng biểu tiết kiệm xăng, nền là các biểu tượng tiết kiệm năng lượng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện tinh thần thân thiện với môi trường và tiết kiệm hiệu quả.

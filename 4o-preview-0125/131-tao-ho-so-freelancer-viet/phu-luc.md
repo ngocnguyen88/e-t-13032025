@@ -1,0 +1,6 @@
+Bài 1: Hiểu rõ nền tảng Freelancer Việt – Nắm bắt cơ hội ngay từ đầu (2 phút)  
+Bài 2: Tạo tiêu đề hồ sơ ấn tượng – Thu hút nhà tuyển dụng trong 2 giây (2 phút)  
+Bài 3: Viết mô tả cá nhân chuyên nghiệp – Kể câu chuyện của bạn một cách cuốn hút (2 phút)  
+Bài 4: Chọn ảnh đại diện phù hợp – Tạo dấu ấn với cái nhìn đầu tiên (2 phút)  
+Bài 5: Đính kèm kỹ năng và chứng chỉ – Khẳng định năng lực của bạn (2 phút)  
+Bài 6: Tổng kết khóa học – Hoàn thiện hồ sơ, sẵn sàng nhận việc (2 phút)

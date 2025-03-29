@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, hào hứng, đang đứng phát biểu trong một cuộc họp với màn hình trình chiếu phía sau, ánh sáng rực rỡ chiếu vào, xung quanh là đồng nghiệp chăm chú lắng nghe, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, thể hiện không khí chuyên nghiệp và tự tin.

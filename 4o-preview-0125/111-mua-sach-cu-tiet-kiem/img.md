@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ, đang tìm kiếm sách trên máy tính và điện thoại, xung quanh là sách cũ được sắp xếp ngăn nắp, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tiết kiệm và hiệu quả.

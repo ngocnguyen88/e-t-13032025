@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm bài tập trắc nghiệm với đồng hồ đếm ngược lớn ở phía trước, nét mặt tự tin và tập trung, các câu hỏi trắc nghiệm và các mẹo làm bài xuất hiện nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, khơi dậy cảm giác cấp bách và hào hứng.

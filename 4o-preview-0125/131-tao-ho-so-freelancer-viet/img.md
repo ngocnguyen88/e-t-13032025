@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á hào hứng ngồi trước máy tính, cùng tạo hồ sơ Freelancer trên màn hình, nét mặt tự tin, phía sau là những biểu tượng công nghệ và kỹ năng nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, khơi dậy cảm hứng sáng tạo và chuyên nghiệp.

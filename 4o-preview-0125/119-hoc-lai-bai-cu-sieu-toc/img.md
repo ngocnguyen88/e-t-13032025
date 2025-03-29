@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin, chăm chú nhìn vào màn hình laptop với các bản đồ tư duy đầy màu sắc, đồng hồ đếm ngược chỉ 12 phút nổi bật, không gian học tập hiện đại, phong cách 3D Render sống động, kích thích sự tập trung và sáng tạo trong việc học lại bài cũ.

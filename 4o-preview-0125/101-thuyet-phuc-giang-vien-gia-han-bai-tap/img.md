@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi với giảng viên với nét mặt tự tin và nghiêm túc, trong không gian lớp học hiện đại, với bảng trắng hiển thị các bước thuyết phục, phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, thể hiện tinh thần quyết tâm và sự chuyên nghiệp.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tươi cười vui vẻ, họ đang trao đổi và khen ngợi lẫn nhau trong một không gian học tập hiện đại. Màu sắc trẻ trung, phong cách đồ họa 3D Render sống động, khung cảnh ấm áp, thể hiện sự tự tin và hòa đồng trong giao tiếp.

@@ -1,0 +1,171 @@
+## ## Bài 1: Xác định nhanh cấu trúc thuyết trình trong 2 phút
+
+Đã bao lần bạn đứng trước đám đông mà cảm thấy như đang đóng vai chính trong bộ phim kinh dị "Nói gì đây"? Đừng lo, chỉ cần vài bước đơn giản, bạn sẽ biến mình thành một diễn giả tự tin và thu hút!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Mở đầu ấn tượng:**
+Bắt đầu bằng một câu hỏi thú vị hoặc một câu chuyện ngắn. Điều này giúp thu hút sự chú ý ngay từ đầu. Ví dụ: *"Bạn có biết vì sao…?"* hoặc *"Ngày hôm qua tôi đã gặp một tình huống rất thú vị…"*
+
+**🔹 Nội dung chính rõ ràng:**
+Chia nội dung thành 3 phần chính, giống như công thức "3 điểm chính". Mỗi phần hãy trình bày một ý tưởng lớn. Ví dụ: Nếu thuyết trình về "Lợi ích của việc đọc sách", hãy có các phần như "Phát triển tư duy", "Mở rộng kiến thức", và "Giảm căng thẳng".
+
+**🔹 Kết luận mạnh mẽ:**
+Tóm tắt lại những điểm chính và đưa ra một lời kêu gọi hành động. Ví dụ: *"Hãy bắt đầu đọc một cuốn sách mỗi tháng và cảm nhận sự thay đổi!"*
+
+---
+
+### 🚀 Hành động:
+
+Khi chuẩn bị thuyết trình, hãy **liệt kê 3 điểm chính bạn muốn truyền tải**. Điều này sẽ giúp bạn **tập trung và tự tin hơn khi trình bày**.
+
+Xác định xong rồi? Giờ đến bước luyện tập và hoàn thiện – xem ngay bài tiếp theo!
+
+---
+## ## Bài 2: Phương pháp chọn lọc nội dung chính - Trình bày trọng tâm
+
+Bạn đã bao giờ cảm thấy như mình đang chìm ngập trong núi thông tin và không biết phải tập trung vào đâu chưa? Đừng lo, chỉ cần nắm chắc phương pháp chọn lọc nội dung chính, bạn sẽ vượt qua mọi bài giảng dài dòng như một siêu anh hùng.
+
+---
+
+### 📌 Phương pháp chọn lọc nội dung chính:
+
+**🔹 Xác định mục tiêu:**
+- Trước tiên, hãy xác định **mục tiêu học tập** của bạn. Ví dụ: Nếu đang học để thi, hãy tập trung vào những phần thường xuất hiện trong đề thi.
+
+**🔹 Tìm từ khóa quan trọng:**
+- Lướt nhanh qua tài liệu và **tìm các từ khóa chính**. Những từ này thường xuất hiện nhiều lần và mang ý nghĩa trọng tâm.
+
+**🔹 Tóm tắt ngắn gọn:**
+- Sau khi đã nhận diện được từ khóa, hãy tóm tắt nội dung thành **một câu ngắn**. Ví dụ: "Chương này nói về cách tế bào phân chia và tạo ra năng lượng."
+
+**🔹 Sử dụng sơ đồ tư duy:**
+- Vẽ một **sơ đồ tư duy** để liên kết các ý tưởng chính. Điều này giúp bạn dễ dàng hình dung và nhớ lâu hơn.
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy thử chọn một đoạn văn trong tài liệu của bạn và áp dụng phương pháp chọn lọc nội dung chính. Bạn sẽ ngạc nhiên vì nó hiệu quả đến nhường nào!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để biết cách **tổ chức thời gian học tập hiệu quả** nhé!
+
+---
+## ## Bài 3: Kỹ thuật ghi nhớ ý chính - Không cần nhìn giấy
+
+Bạn đã bao giờ đứng trước lớp, tay không tờ giấy mà đầu óc lại trống rỗng chưa? Như thể mọi ý tưởng rơi xuống hố đen vậy! Đừng lo, với vài kỹ thuật dưới đây, bạn sẽ nhớ được ý chính mà không cần dựa vào mảnh giấy nào.
+
+---
+
+### 📌 Kỹ thuật ghi nhớ:
+
+**🔹 Tạo câu chuyện:**
+- Biến thông tin cần nhớ thành một câu chuyện vui nhộn. Ví dụ: Nếu bạn cần nhớ "Công chúa, Lâu đài, Rồng", hãy tưởng tượng công chúa cưỡi rồng đi chơi lâu đài!
+
+**🔹 Sử dụng từ khóa:**
+- Chọn một từ khóa cho mỗi ý chính. Ví dụ: "Năng lượng" có thể gắn với hình ảnh của một tia sét, giúp bạn nhớ về chủ đề năng lượng.
+
+**🔹 Hình ảnh hóa thông tin:**
+- Tưởng tượng một hình ảnh sống động gắn liền với thông tin. Ví dụ, để nhớ "Nước biển xanh", hãy hình dung mình đang bơi giữa biển xanh mát.
+
+**🔹 Phân đoạn thông tin:**
+- Chia thông tin thành các phần nhỏ hơn và dễ quản lý. Ví dụ: Thay vì ghi nhớ toàn bộ bài giảng, chỉ cần nhớ từng ý chính một.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử áp dụng kỹ thuật này với một đoạn văn ngắn trong sách giáo trình. Đọc và tạo hình ảnh hoặc câu chuyện cho mỗi ý chính. Bạn sẽ ngạc nhiên vì khả năng ghi nhớ của mình!
+
+Và khi đã nắm vững kỹ thuật này, hãy chuẩn bị cho bài tiếp theo, nơi chúng ta sẽ học cách **tối ưu hóa thời gian học tập** để không phải chạy đua với đồng hồ nữa!
+
+---
+## ## Bài 4: Bí quyết thu hút khán giả - Tương tác hiệu quả
+
+Đã bao giờ bạn đứng trước một đám đông mà cảm giác như đang nói chuyện với tường không? Khán giả thì ngơ ngác, còn bạn thì căng thẳng như đang thi vấn đáp! Đừng lo, vài mẹo nhỏ dưới đây sẽ giúp bạn trở thành "nam châm hút khán giả"!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Bắt đầu bằng câu hỏi thú vị:**
+- Mở đầu với một câu hỏi bất ngờ hay thú vị, như "Ai ở đây đã từng ngủ gật trong giờ học?", để khán giả phải suy nghĩ và phản hồi ngay lập tức.
+
+**🔹 Dùng ngôn ngữ cơ thể:**
+- Đừng đứng yên như tượng! Hãy di chuyển nhẹ nhàng, sử dụng tay để nhấn mạnh các ý quan trọng. Nhiều người thấy rằng động tác cơ thể giúp tăng cường sự chú ý của khán giả.
+
+**🔹 Kể chuyện ngắn gọn:**
+- Một câu chuyện ngắn gọn, hài hước liên quan đến chủ đề sẽ giúp khán giả nhớ lâu hơn. Ví dụ: Kể về lần bạn "trót" ngủ gật và giấc mơ hài hước mà bạn đã trải qua.
+
+**🔹 Tương tác trực tiếp:**
+- Hãy thử hỏi ý kiến khán giả, mời họ chia sẻ suy nghĩ của mình. Điều này không chỉ tạo không khí thoải mái mà còn giúp bạn hiểu rõ khán giả hơn.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi thuyết trình, hãy thử áp dụng ngay một trong những mẹo trên. Chọn một câu hỏi thú vị để bắt đầu, và xem phản ứng của khán giả thay đổi thế nào nhé!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để **phát triển nội dung thuyết trình** nhé!
+
+---
+## ## Bài 5: Kỹ năng sử dụng công cụ hỗ trợ - Tạo điểm nhấn
+
+Bạn có bao giờ cảm thấy như đang bơi giữa biển thông tin mà không có phao cứu sinh? Công cụ hỗ trợ là chiếc phao giúp bạn nổi lên giữa dòng chảy kiến thức, nhưng làm sao để sử dụng chúng một cách thông minh? Hãy cùng nhau khám phá!
+
+---
+
+### 📌 Giải pháp sử dụng công cụ hỗ trợ:
+
+**🔹 Chọn đúng công cụ:**
+- Đừng tải hết mọi ứng dụng chỉ vì nghe người khác khen. Nhiều sinh viên đã thấy việc chọn một công cụ phù hợp với nhu cầu như **Quizlet** cho thẻ ghi nhớ hay **Trello** cho quản lý dự án giúp tối ưu hóa thời gian hơn rất nhiều.
+
+**🔹 Tối ưu hóa tính năng:**
+- Công cụ nào cũng có vô số tính năng hay ho, nhưng đừng để bị cuốn vào vòng xoáy đó. Hãy chỉ tập trung vào các tính năng thực sự giúp bạn như chức năng nhắc nhở của **Google Calendar** hay chế độ tối của **Evernote** để bảo vệ mắt.
+
+**🔹 Tích hợp vào thói quen hàng ngày:**
+- Công cụ sẽ chẳng giúp ích gì nếu bạn không sử dụng nó đều đặn. Hãy tưởng tượng bạn biến nó thành một phần thói quen hàng ngày, giống như việc đánh răng vậy!
+
+**🔹 Chia sẻ và học hỏi:**
+- Đừng ngại chia sẻ kinh nghiệm và học hỏi từ bạn bè. Nhiều nhóm học đã thấy rằng việc chia sẻ mẹo dùng công cụ giúp cải thiện hiệu quả làm việc nhóm.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử chọn một công cụ hỗ trợ mà bạn cảm thấy hữu ích nhất và **dành 10 phút mỗi ngày để khám phá và sử dụng**. Bạn sẽ bất ngờ với sự tiến bộ đấy!
+
+Với công cụ trong tay, bạn đã sẵn sàng cho bài tiếp theo: **Xây dựng kế hoạch học tập hiệu quả**. Đừng bỏ lỡ nhé!
+
+---
+## ## Bài 6: Tổng kết khóa học – Tự tin thuyết trình dài, chinh phục khán giả!
+
+Đã bao giờ bạn đứng trước đám đông, cảm thấy như mình đang trong cơn ác mộng với ánh đèn sân khấu chiếu thẳng vào mắt? Tim đập thình thịch, miệng thì khô khốc! Đừng lo, bí kíp sau đây sẽ giúp bạn tỏa sáng như một ngôi sao thuyết trình!
+
+---
+
+### 📌 Bí quyết thuyết trình tự tin:
+
+**🔹 Chuẩn bị kỹ lưỡng:**
+- **Lên dàn ý rõ ràng:** Xác định 3 điểm chính bạn muốn truyền tải. Ví dụ: "Giới thiệu sản phẩm, lợi ích nổi bật, và cách sử dụng."
+- **Luyện tập trước gương:** Nhiều sinh viên thấy rằng việc tự nói trước gương giúp họ nắm bắt ngôn ngữ cơ thể và biểu cảm tốt hơn.
+
+**🔹 Tương tác với khán giả:**
+- **Đặt câu hỏi mở:** Kích thích sự tham gia của khán giả. Ví dụ: "Ai đã từng gặp tình huống này?"
+- **Sử dụng câu chuyện:** Mọi người yêu thích những câu chuyện thú vị, hãy kể một câu chuyện ngắn để minh họa ý của bạn.
+
+**🔹 Kiểm soát tâm lý:**
+- **Thở sâu trước khi bắt đầu:** Điều này giúp làm dịu thần kinh và ổn định nhịp tim.
+- **Nhớ rằng bạn là người hiểu rõ nhất về chủ đề:** Điều này sẽ tăng cường sự tự tin của bạn.
+
+---
+
+### 🚀 Hành động:
+
+Tối nay, hãy chọn một chủ đề yêu thích và thử thuyết trình trước gương trong 5 phút. Tập trung vào việc tương tác và kiểm soát tâm lý của mình.
+
+Xác định xong rồi? Giờ đến bước luyện tập với những kỹ thuật nâng cao – xem ngay bài tiếp theo để không bỏ lỡ cơ hội tỏa sáng nhé!
+
+---

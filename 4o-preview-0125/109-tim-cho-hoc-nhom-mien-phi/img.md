@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng, ngồi quanh một chiếc bàn trong thư viện hiện đại, xung quanh là sách vở, laptop và không gian yên tĩnh. Phong cách đồ họa 3D Render với màu sắc tươi sáng, trẻ trung, thể hiện tinh thần học tập và khám phá nhanh chóng.

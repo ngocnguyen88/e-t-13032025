@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng sử dụng điện thoại và laptop với giao diện Facebook hiển thị trên màn hình, có các biểu tượng mạng xã hội nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, kích thích tinh thần học hỏi và khám phá.

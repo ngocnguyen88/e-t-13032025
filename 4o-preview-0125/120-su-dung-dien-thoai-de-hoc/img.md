@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt chăm chú, hào hứng, sử dụng điện thoại để học, xung quanh là các biểu tượng ứng dụng học tập, lịch học và ghi chú nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sinh động, khuyến khích tinh thần học tập thông minh và hiệu quả.

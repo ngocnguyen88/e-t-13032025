@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tự tin, nắm tay nhau như một đội nhóm mạnh mẽ trong môi trường làm việc chuyên nghiệp, với hình ảnh văn phòng hiện đại và hình ảnh biểu tượng của thành công nổi bật, phong cách 3D Render sống động, màu sắc hài hòa, tạo cảm giác quyết tâm và sẵn sàng cho sự nghiệp.

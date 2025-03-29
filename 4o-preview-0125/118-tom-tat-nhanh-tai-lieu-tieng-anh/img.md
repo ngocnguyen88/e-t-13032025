@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú đọc tài liệu tiếng Anh, sử dụng laptop và ghi chép bằng mindmap, ánh sáng tập trung vào từng người với nét mặt tự tin và hào hứng, phong cách 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác nhanh chóng, hiệu quả trong việc học tập.

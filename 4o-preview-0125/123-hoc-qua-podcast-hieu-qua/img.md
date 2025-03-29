@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, hào hứng nghe podcast bằng tai nghe, xung quanh có laptop, điện thoại mở podcast, ghi chú và các biểu tượng âm thanh, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, năng động, tạo cảm giác cuốn hút và hứng thú trong việc học qua podcast.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tươi cười, hào hứng, đang sử dụng laptop và điện thoại để tìm việc làm thêm, với hình ảnh HUTECH phía sau, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, tạo cảm giác năng động và sẵn sàng hành động.

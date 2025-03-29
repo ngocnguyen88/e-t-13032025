@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện vui vẻ trong lớp học, nét mặt tự tin và thân thiện, tạo cảm giác hòa nhập, đồ họa 3D Render hiện đại, màu sắc tươi sáng, không gian lớp học sôi động, khuyến khích tinh thần kết nối nhanh chóng.

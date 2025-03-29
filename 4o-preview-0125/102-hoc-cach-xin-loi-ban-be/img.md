@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đứng trò chuyện với vẻ mặt chân thành và thoải mái, tay bắt tay nhau thể hiện sự hòa giải. Bối cảnh là một quán cà phê trẻ trung, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác dễ chịu và thân thiện.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tập trung, ngồi quanh bàn học với lịch ôn tập rõ ràng, đồng hồ Pomodoro đang chạy, laptop và sách vở gọn gàng, phong cách 3D Render hiện đại, màu sắc tươi sáng, truyền cảm hứng cho việc quản lý thời gian ôn thi hiệu quả.

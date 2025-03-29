@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ bàn bạc xung quanh một chiếc bàn, trên đó có laptop hiển thị biểu đồ chi tiêu đơn giản, bảng quản lý tài chính, với vẻ mặt tự tin và hài lòng. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác quản lý tài chính dễ dàng và hiệu quả.

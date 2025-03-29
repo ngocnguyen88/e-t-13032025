@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện sôi nổi trong khuôn viên trường, thể hiện sự đa dạng ngành học thông qua trang phục và vật dụng đặc trưng ngành. Phong cách đồ họa 3D Render với màu sắc tươi sáng, năng động, tạo cảm giác giao lưu vui vẻ và tự tin.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tập trung và tự tin, ngồi quây quần quanh một bàn tròn, cùng nhau thảo luận, với một bảng trắng lớn có ghi chú và biểu đồ, đồng hồ hiển thị thời gian còn lại. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo không khí làm việc nhóm năng động và hiệu quả.

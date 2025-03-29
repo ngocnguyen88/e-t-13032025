@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt rạng rỡ, tự tin, thảo luận sôi nổi tại một văn phòng hiện đại. Trên bàn là laptop, sổ tay và bút ghi chú, thể hiện sự sẵn sàng và tinh thần học hỏi. Phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tươi sáng, tạo cảm giác chuyên nghiệp và năng động.

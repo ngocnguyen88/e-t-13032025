@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi và ghi chép trước màn hình máy tính, nét mặt chăm chú và tự tin, xung quanh là các ghi chú phản hồi từ sếp, phong cách đồ họa 3D Render, màu sắc sáng tạo, hiện đại, tạo cảm giác học tập hăng say và hiệu quả.
