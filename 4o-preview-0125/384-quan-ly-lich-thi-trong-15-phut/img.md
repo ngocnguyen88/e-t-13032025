@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hứng khởi, tập trung quanh một bàn lớn với lịch thi rõ ràng và bảng kế hoạch chi tiết trên màn hình laptop, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, khơi gợi tinh thần quản lý thời gian hiệu quả.

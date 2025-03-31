@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú nghe giảng với tai nghe và máy tính xách tay, nét mặt hào hứng và tự tin, với các ghi chú nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tích cực và lôi cuốn.

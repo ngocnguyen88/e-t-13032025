@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi với biểu cảm tự tin và vui vẻ, giữa bàn là một bảng trắng với các giải pháp sáng tạo được ghi chú, môi trường học tập hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng, trẻ trung, tạo cảm giác hứng khởi và năng lượng tích cực.

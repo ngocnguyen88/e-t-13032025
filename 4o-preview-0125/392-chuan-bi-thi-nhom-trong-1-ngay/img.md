@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng thảo luận, cùng nhau phân chia công việc trên một bàn học hiện đại với laptop và tài liệu, biểu đồ kế hoạch rõ ràng nổi bật trên màn hình, phong cách đồ họa 3D Render trẻ trung, màu sắc tươi sáng, thể hiện tinh thần đoàn kết và sự sẵn sàng cho kỳ thi nhóm.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi trước máy tính, nét mặt tự tin, hăng say làm việc. Trên màn hình máy tính hiển thị bản nháp báo cáo tuần với các ghi chú rõ ràng. Xung quanh là các tài liệu và bảng ghi chú màu sắc. Phong cách đồ họa 3D Render hiện đại, sáng tạo, màu sắc trẻ trung, thể hiện tinh thần học tập hiệu quả và chuyên nghiệp.

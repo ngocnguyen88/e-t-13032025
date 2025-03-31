@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á nét mặt tự tin, hào hứng ngồi trước bàn học với laptop hiển thị ứng dụng quản lý thời gian, bảng kế hoạch học tập chi tiết bên cạnh, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, thể hiện sự tập trung và tổ chức học tập hiệu quả.

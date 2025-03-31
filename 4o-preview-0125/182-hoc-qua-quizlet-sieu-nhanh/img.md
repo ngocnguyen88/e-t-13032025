@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang sử dụng máy tính bảng và điện thoại với ứng dụng Quizlet mở trên màn hình, nét mặt chăm chú và hào hứng. Bên cạnh là các bộ flashcard và đồng hồ đếm ngược nhấn mạnh tính cấp tốc, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác học tập hiệu quả và vui tươi.

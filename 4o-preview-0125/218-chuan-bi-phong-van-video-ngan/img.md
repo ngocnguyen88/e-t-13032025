@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ, tự tin, ngồi trước máy tính trong không gian phỏng vấn được chuẩn bị kỹ lưỡng, trang phục chỉnh tề, ánh sáng và bố cục hoàn hảo, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích sự tự tin và chuyên nghiệp.

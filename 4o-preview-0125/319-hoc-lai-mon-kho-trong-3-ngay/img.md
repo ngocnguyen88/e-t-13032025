@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tập trung học tập tại thư viện, mỗi người cầm một flashcard, trên bàn có một mindmap chi tiết và đồng hồ hẹn giờ 3 ngày nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khơi gợi tinh thần học tập hiệu quả và nhanh chóng.

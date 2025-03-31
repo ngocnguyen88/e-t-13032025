@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi tài liệu với nụ cười thân thiện, trong một không gian học tập sáng sủa và hiện đại. Bối cảnh có các biểu tượng giao tiếp như bong bóng lời nói và dấu chấm hỏi, phong cách đồ họa 3D Render tươi sáng, tạo cảm giác kết nối và hỗ trợ lẫn nhau.

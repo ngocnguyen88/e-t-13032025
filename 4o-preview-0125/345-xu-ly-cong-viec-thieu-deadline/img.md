@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi quanh bàn làm việc, trên bàn có bảng Kanban và laptop mở với các công cụ quản lý thời gian. Các nhân vật thể hiện sự tập trung và tự tin, phong cách đồ họa 3D Render tươi sáng, hiện đại, kích thích sự sáng tạo và tinh thần làm việc hiệu quả.

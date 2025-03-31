@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú làm bài tập lập trình trên máy tính xách tay, với đồng hồ đếm ngược nổi bật trên màn hình, các công cụ lập trình hiển thị rõ ràng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện không khí làm việc khẩn trương nhưng tự tin và hiệu quả.

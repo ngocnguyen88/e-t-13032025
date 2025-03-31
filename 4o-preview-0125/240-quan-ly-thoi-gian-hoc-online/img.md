@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú học online qua Zoom, với lịch học rõ ràng trên màn hình máy tính, khuôn mặt tự tin, hào hứng. Hình ảnh sử dụng phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác chuyên nghiệp và hiệu quả trong quản lý thời gian học tập.

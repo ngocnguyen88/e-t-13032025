@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú xem lịch trình học tập trên máy tính bảng, với biểu đồ thời gian và công cụ quản lý thời gian hiện đại. Màu sắc tươi sáng, sinh động, phong cách đồ họa 3D Render, tạo cảm giác năng động và hiệu quả trong việc quản lý thời gian.

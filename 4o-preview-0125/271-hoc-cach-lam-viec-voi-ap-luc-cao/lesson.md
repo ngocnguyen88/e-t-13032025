@@ -1,0 +1,212 @@
+## ## Bài 1: Xác định mục tiêu công việc cấp tốc trong 2 phút
+
+Bạn có bao giờ cảm thấy như mình đang điều khiển một chiếc xe không có bản đồ khi đi làm? Đừng lo, xác định mục tiêu công việc sẽ giúp bạn định hướng rõ ràng và tiến thẳng đến đích mà không lạc lối!
+
+---
+
+### 📌 Xác định mục tiêu công việc:
+
+**🔹 Xác định rõ mục tiêu chính:**
+Nhiều sinh viên đã thấy rằng việc biết rõ mình muốn gì giúp họ tập trung và làm việc hiệu quả hơn.
+
+- Ví dụ: "Mục tiêu của mình là hoàn thành báo cáo dự án trước thứ Sáu tuần này."
+
+**🔹 Chia nhỏ mục tiêu:**
+Cách này thường hiệu quả vì bạn sẽ không bị choáng ngợp trước một mục tiêu lớn.
+
+- Ví dụ: "Hôm nay mình sẽ thu thập dữ liệu, ngày mai phân tích, và ngày mốt viết báo cáo."
+
+**🔹 Thiết lập thời gian cụ thể:**
+Đặt ra thời hạn giúp bạn không bị trì hoãn và quản lý thời gian tốt hơn.
+
+- Ví dụ: "Mình sẽ dành 2 giờ mỗi ngày để làm việc trên dự án này."
+
+**🔹 Liên tục theo dõi tiến độ:**
+Hãy tưởng tượng bạn đang chạy marathon – việc theo dõi tiến độ giúp bạn biết mình đang ở đâu và cần làm gì tiếp theo.
+
+- Ví dụ: "Cuối ngày, mình sẽ kiểm tra lại danh sách công việc để đảm bảo mọi thứ đang đi đúng hướng."
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử viết một mục tiêu công việc cụ thể cho tuần này và chia nhỏ nó thành các bước thực hiện.
+
+Xác định mục tiêu công việc xong rồi? Giờ đến bước lập kế hoạch chi tiết – xem ngay bài tiếp theo để tối ưu hóa hiệu suất làm việc của bạn!
+
+---
+## ## Bài 2: Kỹ thuật ưu tiên công việc – Làm điều quan trọng trước  
+
+Bạn đã bao giờ cảm thấy mình đang vướng trong một mớ công việc lộn xộn mà không biết bắt đầu từ đâu chưa? Đừng lo, kỹ thuật ưu tiên công việc sẽ giúp bạn xác định điều gì cần làm trước, để bạn không phải giống như một chú mèo rối rắm trong cơn lốc công việc!
+
+---
+
+### 📌 Kỹ thuật ưu tiên công việc:
+
+**🔹 Sử dụng ma trận Eisenhower:**
+- Phân loại công việc của bạn thành bốn nhóm: Khẩn cấp và quan trọng, Quan trọng nhưng không khẩn cấp, Khẩn cấp nhưng không quan trọng, Không khẩn cấp và không quan trọng. Ví dụ, "Gửi báo cáo cho sếp" là khẩn cấp và quan trọng.
+
+**🔹 Đặt mục tiêu SMART cho từng công việc:**
+- Đảm bảo rằng mỗi công việc có mục tiêu cụ thể, đo lường được, khả thi, thực tế và có thời hạn. Điều này giúp bạn tập trung và không bị lạc hướng.
+
+**🔹 Xác định thời gian thực hiện:**
+- Đặt một khung thời gian cụ thể cho mỗi công việc để tránh việc trôi dạt. Hãy tưởng tượng bạn là một đầu bếp chuyên nghiệp, không có gì bỏ qua mà không có thời gian cụ thể!
+
+**🔹 Tập trung vào một việc tại một thời điểm:**
+- Đừng làm vậy không được, nhảy từ việc này sang việc kia chỉ làm bạn mất tập trung. Tập trung vào một công việc cho đến khi hoàn thành trước khi chuyển sang việc khác.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử ngay bằng cách **sử dụng ma trận Eisenhower để sắp xếp công việc của bạn trong tuần này**.
+
+Xác định xong rồi? Giờ đến bước tối ưu hóa thời gian – xem ngay bài tiếp theo để biết cách thực hiện hiệu quả hơn!
+
+---
+## ## Bài 3: Phương pháp quản lý thời gian hiệu quả – Tối ưu từng phút giây
+
+Bạn có bao giờ cảm thấy như mình đang chạy marathon mà không có đích đến rõ ràng, trong khi ngày làm việc cứ trôi đi như một cơn gió? Đừng lo, bạn không cần phải là người điều khiển thời gian để tối ưu hóa từng phút giây! Hãy cùng khám phá các phương pháp quản lý thời gian hiệu quả nhé!
+
+---
+
+### 📌 Giải pháp quản lý thời gian hiệu quả:
+
+**🔹 Lên danh sách ưu tiên:**
+- **Phân loại công việc theo thứ tự ưu tiên**. Hãy tưởng tượng bạn đang tạo danh sách "việc cần làm" cho một cuộc phiêu lưu thú vị!
+
+**🔹 Sử dụng phương pháp Pomodoro:**
+- **Chia thời gian học thành các phiên 25 phút**, sau đó nghỉ 5 phút. Phương pháp này giúp bạn tập trung và tăng năng suất.
+
+**🔹 Lập kế hoạch hàng ngày:**
+- **Dành 10 phút mỗi sáng để lập kế hoạch** cho ngày hôm đó. Nhiều sinh viên thấy rằng việc này giúp họ tiết kiệm đến 30% thời gian.
+
+**🔹 Giảm thiểu phiền nhiễu:**
+- **Tắt thông báo điện thoại và máy tính** khi làm việc. Bạn sẽ bất ngờ về sự tập trung mà mình có thể đạt được!
+
+**🔹 Đánh giá và điều chỉnh:**
+- **Cuối ngày, đánh giá lại tiến độ công việc** và điều chỉnh kế hoạch cho ngày tiếp theo nếu cần.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **áp dụng phương pháp Pomodoro trong 1 giờ** học hoặc làm việc tiếp theo. Cảm nhận sự khác biệt khi công việc trở nên hiệu quả hơn!
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch quản lý thời gian cho cả tuần** – xem ngay bài tiếp theo!
+
+---
+## ## Bài 4: Bí quyết làm việc nhóm dưới áp lực – Phối hợp nhanh, hiệu quả cao
+
+Bạn có bao giờ cảm thấy như mình đang tham gia một cuộc đua marathon mà không ai biết đường đua ở đâu? Đừng lo, bí quyết làm việc nhóm dưới áp lực sẽ giúp bạn và đồng đội "chạy đua" một cách hiệu quả và nhanh chóng!
+
+---
+
+### 📌 Phối hợp nhanh, hiệu quả cao:
+
+**🔹 Xác định rõ vai trò:**
+- **Đừng để "ai cũng là thuyền trưởng":** Nhiều nhóm thấy rằng việc xác định rõ vai trò cho từng thành viên giúp công việc trôi chảy hơn. Ví dụ, ai sẽ là người tổ chức, ai sẽ là người ghi chép, ai sẽ là người thuyết trình.
+
+**🔹 Sử dụng công cụ giao tiếp:**
+- **Dùng Slack hoặc Microsoft Teams:** Các công cụ này giúp nhóm giữ liên lạc và cập nhật thông tin liên tục. Điều này giúp tránh sự hiểu lầm và giữ mọi người cùng một hướng.
+
+**🔹 Tạo không gian để thảo luận:**
+- **Khuyến khích mọi người chia sẻ ý kiến:** Điều này giúp tạo sự đồng thuận và cảm giác được lắng nghe, từ đó tăng cường sự gắn kết trong nhóm.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi làm việc nhóm, hãy **lên danh sách vai trò cụ thể cho từng thành viên** và sử dụng công cụ giao tiếp để cập nhật thông tin. Điều này sẽ giúp nhóm bạn hoạt động hiệu quả và tự tin hơn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+---
+## ## Bài 5: Kỹ năng giao tiếp khi bị áp lực – Truyền tải thông điệp rõ ràng
+
+Bạn đã bao giờ cảm thấy như mình đang nói tiếng người ngoài hành tinh khi bị áp lực chưa? Đừng lo, nhiều người cũng trải qua cảm giác đó! Bí quyết để giao tiếp hiệu quả trong tình huống căng thẳng là biết cách truyền tải thông điệp một cách rõ ràng. Hãy cùng tìm hiểu nhé!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Thở sâu và giữ bình tĩnh:**
+
+- Nhiều người đã thấy rằng việc thở sâu giúp làm dịu tâm trạng và giữ cho đầu óc sáng suốt.  
+- Ví dụ: Trước khi bắt đầu nói, hãy hít thở sâu vài lần để giảm căng thẳng.
+
+**🔹 Sử dụng câu ngắn và rõ ràng:**
+
+- Khi bị áp lực, hãy nói câu ngắn gọn, tránh sử dụng những câu phức tạp. Điều này giúp người nghe dễ dàng hiểu ý bạn.  
+- Mẹo nhỏ: Tập trung vào ý chính và tránh lan man.
+
+**🔹 Nghe và phản hồi:**
+
+- Đừng chỉ chăm chăm vào việc nói, mà hãy lắng nghe phản hồi từ người khác để điều chỉnh thông điệp của mình.  
+- Ví dụ: Sau khi nói xong, hãy hỏi người nghe xem họ có hiểu không và sẵn sàng giải thích thêm nếu cần.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử thực hành truyền tải một thông điệp ngắn gọn và rõ ràng khi bạn cảm thấy căng thẳng. Điều này sẽ giúp bạn tự tin hơn khi giao tiếp trong tình huống áp lực.
+
+Xác định xong rồi? Giờ thì hãy học cách phát triển kỹ năng giao tiếp – xem ngay bài tiếp theo nhé!
+
+---
+## ## Bài 6: Tự chăm sóc bản thân để giữ vững tinh thần – Giảm stress, tăng hiệu suất
+
+Bạn có bao giờ cảm thấy như mình đang cố gắng điều khiển một chiếc xe không phanh khi công việc cứ ùn ùn kéo đến? Stress cứ như "bóng ma" bám riết khiến bạn không thể tập trung? Đừng lo, hãy cùng khám phá những cách tự chăm sóc để giữ vững tinh thần nhé!
+
+---
+
+### 📌 Bí quyết giảm stress, tăng hiệu suất:
+
+**🔹 Nghỉ ngơi đúng cách:**
+- Đừng cố gắng làm việc liên tục mà không nghỉ ngơi. Hãy thử áp dụng phương pháp Pomodoro: làm việc 25 phút, nghỉ 5 phút. Nhiều sinh viên thấy cách này giúp họ làm việc hiệu quả hơn.
+
+**🔹 Tập thể dục thường xuyên:**
+- Chỉ cần 30 phút đi bộ mỗi ngày cũng giúp giảm căng thẳng đáng kể. Hãy tưởng tượng bạn đang "đá" stress ra khỏi cuộc đời mình!
+
+**🔹 Ăn uống lành mạnh:**
+- Đừng để chế độ ăn uống "đánh bại" tinh thần của bạn. Hãy bổ sung các loại thực phẩm giàu vitamin và khoáng chất để duy trì năng lượng.
+
+**🔹 Thực hành thiền hoặc yoga:**
+- Nhiều người đã thấy thiền hoặc yoga giúp họ tĩnh tâm và giảm stress. Hãy thử dành 10 phút mỗi ngày để thiền và cảm nhận sự khác biệt.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử dành 5 phút để thực hiện một vài động tác yoga hoặc đơn giản là thả lỏng và hít thở sâu. Điều này sẽ giúp bạn cảm thấy thư giãn và tràn đầy năng lượng hơn.
+
+Giờ thì bạn đã sẵn sàng "đối mặt" với mọi thử thách một cách tỉnh táo và tự tin rồi đấy! Và đừng quên, bài học tiếp theo sẽ giúp bạn xây dựng thói quen làm việc lành mạnh. Đừng bỏ lỡ nhé!
+
+---
+## ## Bài 7: Tổng kết khóa học – Tự tin làm chủ áp lực công việc!
+
+Chào mừng bạn đến với điểm dừng chân cuối cùng trong chuyến hành trình siêu tốc này! Có phải bạn từng cảm thấy như công việc đang "bơi" qua đầu mình, như một cơn lũ không ngừng nghỉ? Áp lực có thể làm bạn mất ngủ, nhưng đừng lo, chúng ta sẽ biến "cơn lũ" đó thành "dòng suối êm đềm" chỉ trong 2 phút!
+
+---
+
+### 📌 Làm chủ áp lực công việc:
+
+**🔹 Tổ chức công việc:**
+- **Lập danh sách công việc ưu tiên**: Hãy sắp xếp công việc theo mức độ quan trọng. Những việc "cấp bách" không phải lúc nào cũng là "quan trọng". Ví dụ: Trả lời email có thể đợi, nhưng báo cáo cần nộp đúng hạn.
+- **Sử dụng công cụ quản lý thời gian**: Trello, Asana, hay một cuốn sổ tay đều là bạn đồng hành tuyệt vời. Chúng giúp bạn theo dõi tiến độ công việc và tránh bị quá tải.
+
+**🔹 Nghỉ ngơi đúng lúc:**
+- **Phương pháp Pomodoro**: Làm việc 25 phút, nghỉ 5 phút. Nghe đơn giản nhưng hiệu quả bất ngờ! Nhiều sinh viên đã thấy mình tập trung hơn và giảm stress đáng kể.
+
+**🔹 Kết nối và chia sẻ:**
+- **Chia sẻ với đồng nghiệp hoặc bạn bè**: Nhiều khi, chỉ cần một lời khuyên hoặc sự động viên là đủ để bạn thấy nhẹ nhõm hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử áp dụng phương pháp Pomodoro cho công việc của bạn. Đặt hẹn giờ và tận hưởng những phút nghỉ ngơi ngắn nhưng đầy hiệu quả!
+
+Bạn đã sẵn sàng biến áp lực thành động lực rồi đấy! Và nhớ, nếu bạn muốn tìm hiểu sâu hơn về cách lập kế hoạch dài hạn, hãy xem ngay bài tiếp theo nhé!
+
+---

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, tự tin, đang sử dụng mindmap và tài liệu học kỳ, đồng hồ đếm ngược vài ngày nổi bật, sách vở được sắp xếp khoa học, phong cách đồ họa 3D Render sinh động, màu sắc tươi sáng, tạo cảm giác quyết tâm và sẵn sàng cho kỳ thi.

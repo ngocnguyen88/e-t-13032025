@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tóm tắt tài liệu trên máy tính bảng và laptop, nét mặt chăm chú, tự tin, với bảng tóm tắt ngắn gọn và trực quan trên màn hình. Hình ảnh được thiết kế với phong cách 3D Render, màu sắc sáng tạo, hiện đại, khơi gợi tinh thần làm việc nhóm hiệu quả và nhanh chóng.

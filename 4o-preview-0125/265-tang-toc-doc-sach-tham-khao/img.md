@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt chăm chú, hào hứng đọc sách tham khảo với tốc độ nhanh, cuốn sách mở rộng, các ghi chú và sơ đồ tư duy được sắp xếp khoa học xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần đọc sách hiệu quả.

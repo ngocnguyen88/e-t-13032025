@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ và tự tin thảo luận xung quanh một bàn tròn. Trên bàn có laptop, tài liệu học tập, và một bảng trắng với các ghi chú đầy màu sắc. Mọi người đều tập trung và hào hứng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và khích lệ sự tự tin trong học tập nhóm.

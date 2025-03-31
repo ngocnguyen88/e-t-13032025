@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt thư giãn và tỉnh táo, nằm nghỉ ngơi trên ghế sofa trong một phòng học sáng sủa, với đồng hồ báo thức bên cạnh, phong cách đồ họa 3D Render hiện đại, màu sắc nhẹ nhàng, tạo cảm giác thư thái và sẵn sàng học tập hiệu quả.

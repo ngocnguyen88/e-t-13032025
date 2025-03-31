@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ và hào hứng ngồi học trong một không gian thoáng đãng, với các thiết bị học tập hiện đại, xung quanh là sách và tài liệu, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, mang lại cảm giác sáng tạo và năng động cho việc học nhóm.

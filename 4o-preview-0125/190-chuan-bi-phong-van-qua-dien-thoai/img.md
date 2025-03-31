@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, hào hứng ngồi quanh bàn với điện thoại trên tay, tai nghe kết nối, xung quanh là ghi chú và câu hỏi được sắp xếp gọn gàng, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, thể hiện sự chuẩn bị kỹ lưỡng và tự tin cho phỏng vấn.

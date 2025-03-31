@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin, hào hứng ngồi trước máy tính, chuẩn bị cho buổi phỏng vấn qua Viber. Họ sử dụng tai nghe, ánh sáng và góc quay hoàn hảo, với các biểu tượng Viber nổi bật trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và năng động, thể hiện sự tự tin và sẵn sàng cho phỏng vấn.

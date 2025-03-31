@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ thảo luận quanh bàn, với sơ đồ phân công nhiệm vụ rõ ràng trên bảng trắng phía sau. Đồng hồ hiển thị biểu tượng 1 tuần, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sôi động, kích thích tinh thần học nhóm hiệu quả.

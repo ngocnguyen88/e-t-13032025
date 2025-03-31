@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt hào hứng và tập trung, cùng nhau sử dụng laptop và điện thoại với giao diện Telegram hiển thị trên màn hình. Không gian hiện đại, màu sắc tươi sáng, phong cách đồ họa 3D Render, thể hiện sự kết nối và hợp tác trong học tập qua công nghệ.

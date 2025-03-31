@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú nghe audio qua tai nghe, với nét mặt tập trung và hào hứng, xung quanh là các công cụ hỗ trợ ghi chú và máy tính bảng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác nhẹ nhàng và hiệu quả trong học tập.

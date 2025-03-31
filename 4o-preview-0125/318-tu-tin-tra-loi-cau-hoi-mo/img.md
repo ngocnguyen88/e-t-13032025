@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi thảo luận sôi nổi, nét mặt tự tin, xung quanh là bảng trắng với các ghi chú và sơ đồ tư duy, ánh sáng rực rỡ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác động lực và hứng thú trong việc học tập.

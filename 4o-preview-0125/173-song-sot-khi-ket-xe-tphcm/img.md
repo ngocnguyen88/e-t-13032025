@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Nhóm sinh viên châu Á nét mặt tươi cười, thoải mái ngồi trên xe buýt, một người đang nghe sách nói qua tai nghe, một người khác sử dụng ứng dụng trên điện thoại, xung quanh là cảnh kẹt xe nhưng không khí rất tích cực, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thư giãn và năng động.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi sôi nổi, vây quanh một bảng trắng đầy các câu hỏi dự đoán, một đồng hồ đếm ngược thể hiện sự cấp bách, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, đầy năng lượng học tập tích cực.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Nhóm sinh viên châu Á đang hào hứng trong buổi học đàm phán, một sinh viên đang cầm bảng giá với nụ cười tự tin, xung quanh là laptop và hợp đồng, phong cách đồ họa 3D Render hiện đại, màu sắc năng động, tạo cảm giác chuyên nghiệp và tràn đầy năng lượng.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tự tin và hào hứng làm việc cùng nhau tại bàn họp trong môi trường văn phòng hiện đại, với biểu đồ và ghi chú nhóm nổi bật xung quanh. Phong cách đồ họa 3D Render tươi sáng và chuyên nghiệp, tạo cảm giác hứng khởi và sẵn sàng cho ngày làm việc đầu tiên.

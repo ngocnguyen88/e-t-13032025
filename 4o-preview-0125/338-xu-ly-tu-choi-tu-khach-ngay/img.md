@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi, với nét mặt tự tin và quyết tâm, bên cạnh các biểu đồ và bảng biểu về kỹ năng xử lý từ chối, không gian hiện đại, phong cách 3D Render trẻ trung, màu sắc tươi sáng, tạo cảm giác hứng khởi và năng động trong việc học hỏi và áp dụng kỹ năng mới.

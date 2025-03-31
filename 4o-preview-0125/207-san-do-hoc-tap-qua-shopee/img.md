@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ, hào hứng ngồi quanh máy tính với ứng dụng Shopee hiển thị trên màn hình, các sản phẩm học tập và mã giảm giá nổi bật xung quanh, phong cách đồ họa 3D Render, màu sắc tươi sáng, hiện đại, tạo cảm giác mua sắm thông minh và tiết kiệm.

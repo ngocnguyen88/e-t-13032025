@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin và hào hứng, đang thảo luận và làm việc cùng nhau trong một môi trường học tập hiện đại. Một sinh viên đang chia sẻ ý kiến với biểu cảm tự tin, trong khi các bạn khác lắng nghe chăm chú. Phong cách đồ họa 3D Render, màu sắc tươi sáng, truyền cảm hứng cho sự tự tin và tinh thần làm việc nhóm tích cực.

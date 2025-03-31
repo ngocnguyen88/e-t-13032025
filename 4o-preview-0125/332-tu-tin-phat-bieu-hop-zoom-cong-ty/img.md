@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tự tin tham gia họp Zoom, mỗi người đang nói chuyện với biểu cảm thoải mái, ánh sáng từ màn hình laptop rạng rỡ, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác chuyên nghiệp và năng động, tỉ lệ khung hình 16:9.

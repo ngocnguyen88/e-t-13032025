@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đi bộ trong công viên, nét mặt vui vẻ, thoải mái. Họ sử dụng điện thoại thông minh để theo dõi bước chân, với biểu tượng tiết kiệm nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện tinh thần năng động và lợi ích từ việc đi bộ.

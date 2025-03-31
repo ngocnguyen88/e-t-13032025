@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang họp nhóm, nét mặt tập trung và quyết tâm, trên bàn có đồng hồ đếm ngược deadline nổi bật, máy tính và tài liệu được sắp xếp gọn gàng. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác hứng khởi và quyết tâm làm việc nhóm hiệu quả.

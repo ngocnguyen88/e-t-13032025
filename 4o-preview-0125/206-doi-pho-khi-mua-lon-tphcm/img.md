@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt quyết tâm, đang sử dụng điện thoại để kiểm tra thời tiết và bản đồ lộ trình an toàn trong khi đứng dưới ô lớn, xung quanh là hình ảnh mưa lớn, phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, truyền tải thông điệp về sự chuẩn bị và an toàn khi đối mặt với mưa lớn.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tự tin đứng thuyết trình trước một nhóm khán giả, nét mặt rạng rỡ, sử dụng ngôn ngữ cơ thể linh hoạt, với ánh sáng tập trung vào người thuyết trình, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, tạo cảm giác tự tin và chuyên nghiệp.

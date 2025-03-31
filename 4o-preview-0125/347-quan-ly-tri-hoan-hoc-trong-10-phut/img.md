@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng, tập trung trước màn hình máy tính với đồng hồ Pomodoro đang chạy, không gian học tập gọn gàng, ánh sáng dịu nhẹ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác hứng khởi và động lực.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với gương mặt rạng ngời tự tin đang giơ tay đặt câu hỏi trong lớp học, giáo viên mỉm cười khuyến khích. Bảng trắng phía sau ghi dòng chữ "Hỏi mọi lúc, không ngại ngần!" với phong cách đồ họa 3D Render hiện đại, màu sắc sáng tạo, tạo cảm giác thân thiện và thúc đẩy tinh thần học hỏi.

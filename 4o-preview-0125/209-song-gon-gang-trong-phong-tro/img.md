@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ và hào hứng sắp xếp phòng trọ với các ngăn tủ, kệ sách được bố trí gọn gàng, không gian sáng sủa, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện không gian sống ngăn nắp và thoải mái.

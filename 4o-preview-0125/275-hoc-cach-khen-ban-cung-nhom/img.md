@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ trao đổi ý kiến, nét mặt rạng rỡ, tự tin. Họ đang cầm bảng nhỏ với các lời khen ngợi ngắn gọn như "Làm tốt lắm!", "Ý tưởng tuyệt vời!", phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác gần gũi và tích cực.

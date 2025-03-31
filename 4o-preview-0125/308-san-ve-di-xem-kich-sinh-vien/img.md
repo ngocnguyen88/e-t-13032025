@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui tươi, hào hứng, tay cầm vé kịch, đứng trước một nhà hát với biển quảng cáo "Vé rẻ cho sinh viên", phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, phản ánh tinh thần khám phá và trải nghiệm văn hóa.

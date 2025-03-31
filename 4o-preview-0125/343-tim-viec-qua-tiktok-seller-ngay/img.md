@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng, đang sử dụng điện thoại để xem TikTok, với biểu tượng TikTok nổi bật trên màn hình, xung quanh là các biểu tượng công việc bán hàng và kết nối mạng, phong cách đồ họa 3D Render hiện đại, màu sắc sống động, trẻ trung, khơi dậy tinh thần học tập và hành động ngay lập tức.

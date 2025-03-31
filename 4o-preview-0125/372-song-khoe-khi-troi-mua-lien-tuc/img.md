@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tươi tắn, hào hứng tập thể dục trong phòng, bên cạnh là bàn ăn đầy đủ dinh dưỡng với các món ăn lành mạnh. Ngoài cửa sổ là cảnh mưa, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác ấm áp và khỏe mạnh bất chấp thời tiết.

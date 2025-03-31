@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú đọc báo cáo trên máy tính bảng và máy tính xách tay, với biểu đồ và biểu tượng từ khóa nổi bật xung quanh, thể hiện sự tập trung và tự tin, phong cách đồ họa 3D Render hiện đại, màu sắc sáng tạo, kích thích tinh thần học tập nhanh chóng và hiệu quả.

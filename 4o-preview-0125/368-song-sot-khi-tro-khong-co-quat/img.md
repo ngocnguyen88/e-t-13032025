@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thư giãn trong phòng trọ với các chai nước đá đặt quanh phòng, cửa sổ mở rộng để đón gió, trang phục thoải mái, không khí vui vẻ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác mát mẻ và dễ chịu.

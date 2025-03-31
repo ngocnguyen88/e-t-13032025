@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hành gọi điện thoại với nét mặt tự tin, vui vẻ. Bên cạnh là các sổ ghi chú và điện thoại, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, hài hòa, tạo cảm giác năng động, chuyên nghiệp.

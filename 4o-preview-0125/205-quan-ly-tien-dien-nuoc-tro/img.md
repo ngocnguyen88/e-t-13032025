@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ, thoải mái tính toán chi phí điện nước trên máy tính bảng với biểu đồ và hóa đơn điện nước hiện ra rõ ràng. Không gian trọ thoáng đãng, hiện đại, phong cách đồ họa 3D Render trẻ trung, màu sắc tươi sáng, tạo cảm giác tích cực và hiệu quả trong việc quản lý tài chính sinh hoạt.

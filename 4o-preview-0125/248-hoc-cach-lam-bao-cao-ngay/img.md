@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm việc trên máy tính xách tay, với một màn hình hiển thị cấu trúc báo cáo ngày, có đồng hồ báo giờ và các ghi chú sắp xếp gọn gàng xung quanh. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác tự tin và hiệu quả trong việc học tập.

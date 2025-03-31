@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn, một bạn trẻ đang thực hành xin lỗi với nét mặt chân thành, các thành viên khác lắng nghe chăm chú, phong cách đồ họa 3D Render, màu sắc tươi sáng, tạo cảm giác thân thiện và cởi mở.

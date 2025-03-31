@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi sôi nổi, tự tin với điện thoại thông minh trong tay, xung quanh là biểu tượng tin nhắn và biểu đồ tăng trưởng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, tạo cảm giác chuyên nghiệp và thân thiện.

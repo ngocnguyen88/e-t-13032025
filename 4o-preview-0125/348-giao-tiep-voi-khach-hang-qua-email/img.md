@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm việc trên laptop, xung quanh là các biểu tượng email và biểu đồ giao tiếp, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự năng động và chuyên nghiệp trong giao tiếp.

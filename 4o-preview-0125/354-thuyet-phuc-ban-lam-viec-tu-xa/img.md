@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, đang sử dụng laptop và các công cụ giao tiếp online, thể hiện sự hợp tác và thuyết phục lẫn nhau trong môi trường làm việc từ xa, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và hiệu quả.

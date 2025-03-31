@@ -1,0 +1,6 @@
+Bài 1: Xác định mục tiêu và đối tượng – Tạo ấn tượng ngay từ đầu (2 phút)
+Bài 2: Lựa chọn sản phẩm thiết kế nổi bật – Chỉ cần điều tinh túy nhất (2 phút)
+Bài 3: Sắp xếp nội dung một cách logic – Dẫn dắt người xem hiệu quả (2 phút)
+Bài 4: Thiết kế bố cục và sử dụng màu sắc – Tạo sự hấp dẫn thị giác (2 phút)
+Bài 5: Sử dụng công cụ thiết kế nhanh và hiệu quả – Trình bày chuyên nghiệp (2 phút)
+Bài 6: Tổng kết khóa học – Ôn lại và hoàn thiện portfolio (2 phút)

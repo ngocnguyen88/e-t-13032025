@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, tự tin ngồi quanh bàn học với những tờ giấy ghi chú và công thức vật lý, một chiếc đồng hồ biểu thị thời gian đang chạy, phong cách đồ họa 3D Render hiện đại, màu sắc sống động, tạo động lực học tập nhanh chóng và hiệu quả.

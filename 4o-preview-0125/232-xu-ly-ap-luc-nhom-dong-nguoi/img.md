@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á ngồi thành vòng tròn, nét mặt thân thiện, thoải mái trao đổi ý kiến, với biểu đồ và ghi chú nhóm hiện trên màn hình lớn phía sau, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tích cực, hòa đồng và hợp tác hiệu quả.

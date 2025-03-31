@@ -1,0 +1,184 @@
+## ## Bài 1: Phân loại tin nhắn quan trọng - Xác định ưu tiên trong 2 phút
+
+Bạn có bao giờ mở hộp thư và cảm thấy như mình đang đứng giữa một "cơn bão" thông điệp? Đừng để những tin nhắn quan trọng bị lạc trong "biển cả" thông tin! Hãy cùng tìm hiểu cách phân loại và xác định ưu tiên nhanh chóng nhé!
+
+---
+
+### 📌 Phân loại tin nhắn quan trọng:
+
+**🔹 Sử dụng bộ lọc:**
+- Tận dụng các bộ lọc và nhãn trong ứng dụng email để tự động phân loại tin nhắn theo mức độ quan trọng. Ví dụ: "Khẩn cấp", "Công việc", "Cá nhân".
+
+**🔹 Xác định từ khóa quan trọng:**
+- Chú ý đến các từ khóa trong tiêu đề và nội dung để xác định mức độ ưu tiên. Ví dụ: "Hạn chót", "Yêu cầu ngay", "Cuộc họp".
+
+**🔹 Đánh dấu ưu tiên:**
+- Sử dụng tính năng đánh dấu sao hoặc quan trọng để dễ dàng nhận diện các tin nhắn cần chú ý ngay.
+
+**🔹 Lên lịch kiểm tra:**
+- Lên lịch kiểm tra hộp thư vào những thời điểm cố định trong ngày để tránh bị phân tâm và đảm bảo không bỏ sót tin nhắn quan trọng.
+
+**🔹 Xóa hoặc lưu trữ không cần thiết:**
+- Xóa hoặc lưu trữ các tin nhắn không quan trọng để giữ hộp thư luôn gọn gàng và dễ quản lý.
+
+---
+
+### 🚀 Hành động:
+
+Hãy dành 5 phút để thiết lập bộ lọc và nhãn cho hộp thư của bạn. Điều này sẽ giúp bạn tiết kiệm thời gian và luôn kiểm soát được thông tin quan trọng.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch quản lý thời gian hiệu quả – xem ngay bài tiếp theo!
+
+---
+## ## Bài 2: Kỹ thuật trả lời nhanh - Mẹo soạn tin nhắn tức thì
+
+Bạn đã bao giờ nhận được một tin nhắn và cảm thấy như mình đang lạc vào một mê cung chữ nghĩa không có lối thoát? Đừng để tin nhắn của bạn trở thành một cuộc phiêu lưu bất tận cho người đọc! Hãy cùng khám phá cách soạn tin nhắn nhanh và hiệu quả.
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Rút ngắn và rõ ràng:**
+- Nhiều người đã nhận ra rằng việc viết ngắn gọn giúp truyền tải thông điệp nhanh chóng hơn. Ví dụ: Thay vì viết “Bạn có thời gian rảnh để gặp không?”, hãy thử “Rảnh gặp không?”
+
+**🔹 Sử dụng từ khóa chính:**
+- Tập trung vào những từ khóa quan trọng để người đọc nắm bắt ý chính. Ví dụ: “Họp 3h, phòng A12.”
+
+**🔹 Tránh viết dài dòng:**
+- Cố gắng không làm cho tin nhắn trở nên dài như tiểu thuyết. Cách này thường hiệu quả vì giúp người đọc không bị mệt mỏi. 
+
+**🔹 Sử dụng biểu tượng cảm xúc đúng lúc:**
+- Biểu tượng cảm xúc giúp truyền tải cảm xúc mà không cần dùng nhiều từ. Ví dụ: “Tuyệt quá! 😄”
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử soạn một tin nhắn ngắn gọn cho bạn bè hoặc đồng nghiệp, áp dụng các mẹo trên. Xem họ có phản hồi nhanh hơn không nhé!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để tối ưu hóa kỹ năng giao tiếp của bạn! 📱
+
+---
+## ## Bài 3: Sử dụng công cụ hỗ trợ - Tăng hiệu suất trả lời nhóm
+
+Bạn có bao giờ cảm thấy mình như đang "bơi" trong hàng tá tin nhắn nhóm mà không biết trả lời từ đâu? Đừng lo, dưới đây là cách sử dụng công cụ hỗ trợ để tăng hiệu suất trả lời nhóm, giúp bạn "lướt" qua mọi vấn đề một cách mượt mà!
+
+---
+
+### 📌 Sử dụng công cụ hỗ trợ hiệu quả:
+
+**🔹 Slack hoặc Microsoft Teams:**
+Hãy sử dụng các công cụ này để tổ chức và quản lý giao tiếp nhóm. Tạo các kênh riêng biệt cho từng dự án hoặc chủ đề để tránh "loạn thông tin". Ví dụ: "Kênh #DựÁnA, #PhảnHồiKháchHàng."
+
+**🔹 Trello hoặc Asana:**
+Để theo dõi tiến độ công việc và nhiệm vụ của từng thành viên, Trello hoặc Asana sẽ là "người bạn đồng hành" không thể thiếu. Điều này giúp bạn biết ai đang làm gì và khi nào cần phản hồi.
+
+**🔹 Google Docs hoặc Notion:**
+Dùng Google Docs hoặc Notion để chia sẻ tài liệu và ghi chú chung. Việc này giúp mọi người có cái nhìn toàn diện về thông tin và dễ dàng đóng góp ý kiến.
+
+**🔹 Lên lịch họp ngắn gọn:**
+Sử dụng công cụ như Doodle để lên lịch họp nhóm nhanh chóng. Hãy đảm bảo các buổi họp ngắn gọn và đi vào trọng tâm.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử sử dụng một trong các công cụ trên trong tuần này để trả lời nhóm một cách hiệu quả. Bạn sẽ thấy công việc trở nên dễ dàng và trôi chảy hơn!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch hành động – xem ngay bài tiếp theo!
+
+---
+## ## Bài 4: Chiến thuật đọc nhanh và phản hồi chính xác
+
+Bạn đã bao giờ cảm thấy mình đang đọc một cuốn sách dày cộp mà không biết khi nào mới đến trang cuối không? Hay cảm giác như mắt đang chạy marathon nhưng não thì lại đi bộ? Đừng lo, dưới đây là cách để bạn đọc nhanh và phản hồi chính xác như một ninja!
+
+---
+
+### 📌 Kỹ thuật đọc nhanh và phản hồi:
+
+**🔹 Xác định mục tiêu đọc:**
+- Trước khi bắt đầu, hãy tự hỏi: "Mình cần thông tin gì từ tài liệu này?" Điều này giúp bạn tập trung vào những phần quan trọng và không lãng phí thời gian.
+
+**🔹 Sử dụng ngón tay làm chỉ dẫn:**
+- Sử dụng ngón tay hoặc bút để di chuyển dưới dòng chữ. Nhiều người đã thấy rằng cách này giúp mắt di chuyển nhanh hơn và tránh việc đọc lại.
+
+**🔹 Tập trung vào từ khóa:**
+- Hãy chỉ tập trung vào các từ khóa và bỏ qua những từ không quan trọng. Ví dụ: Tìm các từ như "quan trọng", "nguyên nhân", "kết quả".
+
+**🔹 Tóm tắt nội dung:**
+- Sau khi đọc, hãy tóm tắt lại nội dung chính trong đầu hoặc viết ra. Điều này giúp bạn nắm bắt ý chính và phản hồi một cách chính xác.
+
+**🔹 Luyện tập thường xuyên:**
+- Giống như bất kỳ kỹ năng nào, đọc nhanh cần luyện tập thường xuyên. Hãy tưởng tượng bạn làm thế này: "Mỗi ngày, mình sẽ dành 10 phút luyện đọc nhanh."
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử áp dụng kỹ thuật đọc nhanh vào một bài báo hoặc chương sách ngắn trong tuần này. Điều này sẽ giúp bạn cải thiện tốc độ đọc và phản hồi.
+
+Xác định xong rồi? Giờ đến bước phát triển kỹ năng học tập – xem ngay bài tiếp theo!
+
+---
+## ## Bài 5: Tối ưu hóa thông báo - Tránh phân tâm, tập trung xử lý
+
+Bạn có bao giờ cảm thấy điện thoại của mình như một quả bom nổ chậm không? Mỗi lần thông báo 'ting ting' là một lần bạn mất tập trung. Làm sao để tránh bị phân tâm và tập trung xử lý công việc? Đừng lo, dưới đây là cách để tối ưu hóa thông báo và giữ cho tinh thần luôn tỉnh táo!
+
+---
+
+### 📌 Mẹo tối ưu hóa thông báo:
+
+**🔹 Tắt thông báo không cần thiết:**
+Đừng để thông báo làm bạn mất tập trung.  
+- Nhiều sinh viên đã thấy rằng việc tắt thông báo từ các ứng dụng không cần thiết giúp họ tập trung hơn.  
+- Ví dụ: "Tắt thông báo từ mạng xã hội và chỉ giữ lại những thông báo quan trọng từ email hoặc ứng dụng học tập."
+
+**🔹 Sắp xếp thời gian kiểm tra thông báo:**
+Hãy lên lịch thời gian cụ thể để kiểm tra thông báo.  
+- Điều này giúp bạn không bị gián đoạn trong lúc làm việc.  
+- Ví dụ: "Kiểm tra thông báo 2 lần mỗi ngày vào buổi trưa và buổi tối."
+
+**🔹 Sử dụng chế độ không làm phiền:**
+Khi cần tập trung cao độ, hãy sử dụng chế độ không làm phiền.  
+- Điều này giúp bạn tránh bị gián đoạn bởi các thông báo không mong muốn.  
+- Ví dụ: "Kích hoạt chế độ không làm phiền khi đang học hoặc làm việc quan trọng."
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy tắt thông báo không cần thiết và thiết lập chế độ không làm phiền khi cần tập trung.  
+Điều này sẽ giúp bạn tập trung hơn và hoàn thành công việc một cách hiệu quả.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để khám phá cách quản lý thời gian hiệu quả nhé!
+
+---
+## ## Bài 6: Tổng kết khóa học – Tóm gọn kỹ năng, tự tin giao tiếp nhóm!
+
+Bạn đã bao giờ cảm thấy như mình đang cố gắng điều khiển một chiếc thuyền mà mỗi tay chèo lại hướng về một phía khác nhau chưa? Đó chính là cảm giác khi giao tiếp nhóm không hiệu quả. Nhưng đừng lo, nhiều sinh viên đã thấy rằng chỉ cần nắm vững những kỹ năng sau, bạn sẽ tự tin chèo lái nhóm mình đi đúng hướng!
+
+---
+
+### 📌 Tóm gọn kỹ năng, tự tin giao tiếp nhóm:
+
+**🔹 Tạo môi trường giao tiếp cởi mở:**
+- **Khuyến khích ý kiến đóng góp:** Đừng chỉ nói, hãy lắng nghe và khuyến khích mọi người trong nhóm chia sẻ ý kiến. Ví dụ: "Ai có ý tưởng gì về cách giải quyết vấn đề này không?"
+- **Tôn trọng lẫn nhau:** Luôn tôn trọng ý kiến của người khác, ngay cả khi bạn không đồng ý.
+
+**🔹 Kỹ thuật giao tiếp hiệu quả:**
+- **Sử dụng ngôn ngữ cơ thể:** Ánh mắt, nụ cười và cử chỉ tay thân thiện giúp bạn tạo sự kết nối mạnh mẽ hơn.
+- **Phân tích và phản hồi:** Đừng ngại phân tích ý kiến của đồng đội và đưa ra phản hồi xây dựng.
+
+**🔹 Quản lý xung đột:**
+- **Giải quyết xung đột một cách xây dựng:** Khi có mâu thuẫn, hãy tìm cách giải quyết thay vì né tránh. Ví dụ: "Chúng ta có thể thử cách này để cả hai bên đều hài lòng."
+- **Giữ thái độ tích cực:** Duy trì tinh thần lạc quan và xây dựng để nhóm luôn tiến về phía trước.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **thử áp dụng một kỹ năng giao tiếp nhóm** vào buổi họp nhóm tiếp theo của bạn và quan sát hiệu quả.
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch phát triển kỹ năng nhóm toàn diện** – xem ngay bài tiếp theo!
+
+---

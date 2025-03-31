@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tham gia phỏng vấn nhóm với nét mặt tự tin, hào hứng. Xung quanh là bảng trắng ghi chú chiến thuật, và đồng hồ đếm ngược, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, khơi gợi sự hứng thú và sẵn sàng cho phỏng vấn.

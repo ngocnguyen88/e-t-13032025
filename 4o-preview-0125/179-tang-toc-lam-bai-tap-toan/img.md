@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng giải bài tập toán trên laptop và giấy nháp, đồng hồ đếm ngược hiển thị thời gian còn lại, với các công cụ tính toán và sách vở sắp xếp gọn gàng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và tập trung.

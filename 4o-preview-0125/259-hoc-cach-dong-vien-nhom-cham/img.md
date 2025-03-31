@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt quyết tâm và phấn khởi, đứng xung quanh một bàn làm việc với các biểu đồ tiến độ và bảng kế hoạch rõ ràng. Không gian làm việc tích cực, phong cách đồ họa 3D Render tươi sáng, hiện đại, truyền cảm hứng động viên và tinh thần đồng đội mạnh mẽ.

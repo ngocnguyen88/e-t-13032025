@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tự tin trình bày trước lớp, nét mặt rạng rỡ, tự tin với ánh sáng chiếu từ máy chiếu, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, trẻ trung, tạo cảm giác mạnh mẽ và tràn đầy năng lượng.

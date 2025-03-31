@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đứng nói chuyện trước một lớp học, nét mặt rạng rỡ, tự tin. Họ sử dụng cử chỉ tay và ánh mắt giao tiếp một cách tự nhiên. Màu sắc trẻ trung, phong cách đồ họa 3D Render hiện đại, tạo cảm giác sinh động và khích lệ.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tập trung giải quyết vấn đề trước một bảng trắng với các bước xử lý vấn đề được ghi chú rõ ràng, biểu cảm tự tin, hào hứng. Không gian học tập hiện đại với đồ họa 3D Render tươi sáng, phong cách trẻ trung, tràn đầy năng lượng sáng tạo.

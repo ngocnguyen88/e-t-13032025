@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ, tự tin trò chuyện với nhau trong một không gian sinh hoạt chung tại trường, thể hiện sự kết nối và giao tiếp hiệu quả, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác hòa đồng và hấp dẫn.

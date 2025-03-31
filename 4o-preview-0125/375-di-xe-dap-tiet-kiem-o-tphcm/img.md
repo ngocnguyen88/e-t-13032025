@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng, tự tin đứng bên những chiếc xe đạp đa dạng, với bản đồ TP.HCM trên tay, xung quanh là các biểu tượng tiết kiệm chi phí và bảo vệ môi trường. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần khám phá, năng động.

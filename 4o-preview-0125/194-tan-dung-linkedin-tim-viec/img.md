@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng sử dụng máy tính, với giao diện LinkedIn hiển thị trên màn hình. Họ thể hiện sự tự tin và quyết tâm, xung quanh là biểu tượng mạng lưới và kết nối chuyên nghiệp. Phong cách đồ họa 3D Render, màu sắc hiện đại, năng động, kích thích tinh thần học hỏi và hành động tức thì.

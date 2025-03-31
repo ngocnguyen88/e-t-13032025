@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tương tác tích cực với nhau và một đối tác, nét mặt tự tin, với biểu đồ giao tiếp và các ký hiệu thuyết trình minh họa xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần làm việc chuyên nghiệp và hợp tác hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt thoải mái và tự tin, đang làm việc trên laptop và sổ tay kế hoạch với đồng hồ hiện giờ buổi tối nổi bật. Không gian học và làm việc hiện đại, phong cách đồ họa 3D Render trẻ trung, màu sắc hài hòa, mang lại cảm giác cân bằng và hiệu quả.

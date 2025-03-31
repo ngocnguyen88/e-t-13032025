@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú đọc tài liệu scan trên laptop, với ánh sáng từ màn hình chiếu sáng gương mặt tươi tắn, biểu hiện sự tập trung và hào hứng. Các công cụ hỗ trợ đọc tài liệu scan và phần mềm OCR hiển thị trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, truyền cảm hứng cho việc học tập hiệu quả.

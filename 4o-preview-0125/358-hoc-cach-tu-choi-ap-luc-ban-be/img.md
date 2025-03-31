@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ thảo luận, với một bạn đang tự tin nói "không" trong khi vẫn giữ nụ cười trên môi. Hình ảnh phong cách 3D Render, màu sắc tươi sáng, thể hiện sự tự tin và thoải mái trong giao tiếp, tạo cảm giác thân thiện và dễ chịu.

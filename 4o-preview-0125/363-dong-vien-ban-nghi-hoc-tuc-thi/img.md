@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn, một người đang chia sẻ câu chuyện thành công với nét mặt tự tin và cảm động, biểu tượng đồng hồ đếm ngược 12 phút nổi bật trên bàn, phong cách đồ họa 3D Render hiện đại, màu sắc ấm áp, gần gũi, tạo cảm giác khích lệ và động viên ngay lập tức.

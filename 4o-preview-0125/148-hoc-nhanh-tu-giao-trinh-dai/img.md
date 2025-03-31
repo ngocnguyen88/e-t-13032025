@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, chăm chú đọc giáo trình, xung quanh là sơ đồ tư duy và laptop hiển thị công cụ học tập, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và hiệu quả trong việc học từ giáo trình dài.

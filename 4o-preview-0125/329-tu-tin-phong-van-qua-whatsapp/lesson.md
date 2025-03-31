@@ -1,0 +1,177 @@
+## ## Bài 1: Chuẩn bị thiết bị và môi trường phỏng vấn – Đảm bảo không gián đoạn
+
+Đã bao giờ bạn đang phỏng vấn trực tuyến, bỗng dưng Wi-Fi "làm reo" hay chú mèo nhảy lên bàn làm việc chưa? Thật ngượng ngùng! Đừng để những khoảnh khắc oái oăm này làm hỏng buổi phỏng vấn quan trọng của bạn. Hãy cùng điểm qua vài mẹo để đảm bảo một buổi phỏng vấn "êm xuôi" nhất có thể!
+
+---
+
+### 📌 Chuẩn bị thiết bị và môi trường:
+
+**🔹 Kiểm tra kết nối Internet:**
+- Đảm bảo Wi-Fi mạnh và ổn định. Bạn không muốn bị "đóng băng" giữa chừng đâu!
+- Thử dùng dây cáp mạng nếu cần, để đảm bảo không bị giật lag.
+
+**🔹 Kiểm tra thiết bị:**
+- Kiểm tra trước xem camera và micro hoạt động tốt chưa. Nhiều người đã phải dở khóc dở cười vì âm thanh "mất tăm"!
+- Sạc đầy máy tính hoặc điện thoại, và có bộ sạc gần đó.
+
+**🔹 Tạo không gian yên tĩnh:**
+- Tìm một góc yên tĩnh, không có tiếng ồn và ánh sáng tốt. Đừng để bị phân tâm bởi tiếng xe cộ hoặc... tiếng gà gáy!
+- Báo trước với người nhà để tránh bất ngờ "khách mời không mong muốn".
+
+**🔹 Kiểm tra phần mềm:**
+- Đảm bảo phần mềm phỏng vấn (Zoom, Skype, v.v.) đã được cài đặt và cập nhật.
+
+---
+
+### 🚀 Hành động:
+
+Trước buổi phỏng vấn, hãy dành 5 phút để chạy thử mọi thứ một lần. Điều này sẽ giúp bạn tự tin hơn và giảm thiểu các sự cố bất ngờ.
+
+Đã chuẩn bị xong chưa? Giờ thì chuyển sang bài tiếp theo để tìm hiểu cách lên kế hoạch cho một buổi phỏng vấn "trăm trận trăm thắng"!
+
+---
+## ## Bài 2: Kỹ năng giao tiếp qua WhatsApp – Nói chuyện lưu loát, tự tin
+
+Bạn đã từng gửi một tin nhắn WhatsApp rồi chờ đợi hồi âm như chờ nắng lên giữa mùa mưa chưa? Hay bạn đã viết những đoạn văn dài như tiểu thuyết chỉ để nhận được một chữ "Ok"? Đừng lo, chúng ta sẽ biến những cuộc trò chuyện nhàm chán thành những cuộc hội thoại sống động chỉ trong 2 phút!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Rút ngắn và súc tích:**
+- Hãy làm bạn với những câu ngắn gọn. Nhiều sinh viên đã nhận ra rằng người đọc thường chỉ lướt qua những dòng dài ngoằng. Ví dụ: Thay vì "Bạn có thời gian không? Tôi muốn hỏi bạn về tài liệu hôm qua", hãy thử "Rảnh không? Hỏi chút tài liệu hôm qua."
+
+**🔹 Sử dụng biểu tượng cảm xúc:**
+- Biểu tượng cảm xúc không chỉ là để "thêm màu" cho tin nhắn mà còn giúp truyền tải cảm xúc. Một nghiên cứu cho thấy rằng tin nhắn có biểu tượng cảm xúc thường được phản hồi nhanh hơn. Thay vì chỉ viết "Hay quá!", bạn có thể thêm "Hay quá! 😄"
+
+**🔹 Tránh lối viết dài dòng:**
+- Nếu cảm thấy cần viết dài, hãy xem có thể tách thành nhiều ý ngắn không. Điều này giúp người đọc dễ theo dõi hơn. Ví dụ: "Về việc hôm qua, mình nghĩ là chúng ta cần thảo luận thêm. Có thể là vào chiều mai. Bạn thấy thế nào?" – chia thành: "Về hôm qua, cần thảo luận thêm. Chiều mai được không?"
+
+**🔹 Tạo câu hỏi mở:**
+- Đặt câu hỏi mở để khuyến khích người đối diện trò chuyện thêm. Thay vì "Bạn có thích không?", hãy hỏi "Bạn nghĩ sao về điều đó?"
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử nhắn tin cho một người bạn hôm nay, áp dụng các mẹo trên. Chú ý phản hồi của họ xem có nhanh hơn không nhé! 
+
+Sau khi đã làm chủ kỹ năng nhắn tin, hãy chuẩn bị cho bước tiếp theo: "Lên kế hoạch cuộc trò chuyện hoàn hảo" trong bài học tiếp theo! 📲
+
+---
+## ## Bài 3: Tạo ấn tượng đầu tiên tốt nhất – Cách giới thiệu bản thân hấp dẫn
+
+Bạn có từng gặp tình huống đứng trước một đám đông và cảm giác như hàng trăm ánh mắt đang soi xét từng lời nói của mình? Giới thiệu bản thân không phải là điều dễ dàng, nhưng không lo, vì dưới đây là những bí kíp giúp bạn "toả sáng" ngay từ phút đầu tiên!
+
+---
+
+### 📌 Cách giới thiệu bản thân hấp dẫn:
+
+**🔹 Ngắn gọn mà chất:**
+Hãy giữ phần giới thiệu của bạn dưới 60 giây. Tập trung vào những điểm nổi bật nhất mà bạn muốn người khác nhớ đến. Ví dụ: "Tôi là Lan, chuyên gia sáng tạo nội dung với 5 năm kinh nghiệm giúp các thương hiệu nổi tiếng."
+
+**🔹 Kể chuyện thú vị:**
+Con người yêu thích câu chuyện. Hãy lồng ghép một câu chuyện ngắn gọn vào phần giới thiệu để gây ấn tượng mạnh. Ví dụ: "Tôi từng giúp một thương hiệu tăng 50% lượng người theo dõi chỉ trong 3 tháng nhờ chiến dịch 'Làm Mới Mỗi Ngày'."
+
+**🔹 Tự tin và thân thiện:**
+Duy trì giao tiếp bằng mắt và cười nhẹ. Điều này giúp bạn trông tự tin và dễ gần hơn. Nhiều nghiên cứu cho thấy, người ta thường nhớ đến người có nụ cười thân thiện.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi bạn giới thiệu bản thân, hãy thử áp dụng ba bước trên. Đặt một hẹn giờ và luyện tập trước gương để đảm bảo phần giới thiệu của bạn vừa ngắn gọn vừa hấp dẫn.
+
+Đã tạo được ấn tượng đầu tiên rồi? Giờ đến lúc nâng cấp kỹ năng giao tiếp của bạn – xem ngay bài tiếp theo!
+
+---
+## ## Bài 4: Kỹ thuật trả lời câu hỏi phỏng vấn – Ngắn gọn, súc tích, đi vào trọng tâm
+
+Bạn có từng ngồi trong buổi phỏng vấn mà cảm giác như mình đang kể chuyện đời dài lê thê không điểm dừng? Hay thấy ánh mắt nhà tuyển dụng dần mờ đi vì câu trả lời của bạn dài như sông Hồng? Đừng lo, bí quyết sau đây sẽ giúp bạn trả lời phỏng vấn ngắn gọn và sắc bén như một ninja!  
+
+---
+
+### 📌 Kỹ thuật trả lời phỏng vấn:
+
+**🔹 Chuẩn bị trước:**
+- Trước khi đi phỏng vấn, hãy chuẩn bị một danh sách các câu hỏi phổ biến và tự luyện trả lời. Nhớ rằng, chuẩn bị tốt là chìa khóa của thành công!
+
+**🔹 Sử dụng phương pháp STAR:**
+- STAR là viết tắt của **Situation (Tình huống), Task (Nhiệm vụ), Action (Hành động), Result (Kết quả)**. Mỗi khi trả lời, hãy kể ngắn gọn theo cấu trúc này để câu trả lời của bạn rõ ràng và súc tích. Ví dụ: "Khi làm quản lý dự án (Situation), tôi cần hoàn thành dự án trước thời hạn (Task). Tôi đã điều chỉnh kế hoạch và phân công lại công việc (Action), kết quả là dự án hoàn thành sớm một tuần (Result)."
+
+**🔹 Tập trung vào điểm mạnh:**
+- Chọn những điểm mạnh liên quan nhất đến vị trí ứng tuyển và nhấn mạnh chúng. Đừng lan man sang những thông tin không cần thiết.
+
+**🔹 Ngừng lại để suy nghĩ:**
+- Nếu cần thời gian suy nghĩ, hãy ngừng lại vài giây. Đừng sợ im lặng, vì điều này giúp bạn có câu trả lời súc tích hơn.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi chuẩn bị cho phỏng vấn, hãy chọn một câu hỏi phổ biến và thử trả lời theo phương pháp STAR. Thực hành đều đặn sẽ giúp bạn tự tin và hiệu quả hơn trong mọi buổi phỏng vấn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch chuẩn bị kỹ năng mềm – xem ngay bài tiếp theo!
+
+---
+## ## Bài 5: Kết thúc phỏng vấn chuyên nghiệp – Cách cảm ơn và hứa hẹn hiệu quả
+
+Bạn vừa hoàn thành buổi phỏng vấn, nhưng lại bối rối không biết làm thế nào để kết thúc một cách ấn tượng? Đừng để buổi trò chuyện tuyệt vời ấy kết thúc bằng sự ngượng ngùng. Dưới đây là cách kết thúc chuyên nghiệp mà không kém phần thân thiện!
+
+---
+
+### 📌 Cách cảm ơn và hứa hẹn hiệu quả:
+
+**🔹 Cảm ơn chân thành:**
+Hãy tưởng tượng bạn đang đứng trước cửa, đã đến lúc cảm ơn người phỏng vấn vì thời gian và cơ hội.  
+- Một câu cảm ơn ngắn gọn, nhưng sâu sắc sẽ khiến người đối diện cảm thấy bạn là người biết trân trọng.  
+- Ví dụ: "Cảm ơn anh/chị đã dành thời gian chia sẻ về công ty. Em thực sự học được rất nhiều."
+
+**🔹 Nhấn mạnh điểm nổi bật:**
+Đừng quên nhắc lại một hoặc hai điểm mạnh của mình mà bạn nghĩ là nổi bật nhất.  
+- Điều này không chỉ củng cố ấn tượng mà còn giúp người phỏng vấn nhớ đến bạn lâu hơn.  
+- Ví dụ: "Em tin rằng kỹ năng giải quyết vấn đề của mình sẽ phù hợp với vị trí này."
+
+**🔹 Hứa hẹn hợp lý:**
+Cuối cùng, một lời hứa hẹn nhẹ nhàng về sự mong đợi của bạn.  
+- Ví dụ: "Em rất mong được làm việc cùng đội ngũ tuyệt vời của công ty."
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi bạn kết thúc phỏng vấn, hãy thử áp dụng những bí kíp trên.  
+Ghi nhớ rằng một kết thúc tốt đẹp có thể là cầu nối cho một khởi đầu mới.
+
+Và nếu bạn đã sẵn sàng, hãy bước vào bài tiếp theo để học cách **lên kế hoạch sau khi phỏng vấn**. Đừng bỏ lỡ cơ hội nắm chắc thành công trong tay nhé!
+
+---
+## ## Bài 6: Tổng kết khóa học – Ôn lại kỹ năng và chuẩn bị cho phỏng vấn thành công!
+
+Tình huống quen thuộc: Bạn đã học xong cả một khóa học siêu tốc, đầu đầy kiến thức, nhưng khi đối mặt với phỏng vấn, mọi thứ lại như... bay biến! Đừng lo, dưới đây là cách để bạn nhớ lại và vận dụng hiệu quả các kỹ năng đã học, giúp bạn chuẩn bị cho một buổi phỏng vấn thành công.
+
+---
+
+### 📌 Ôn lại kỹ năng và chuẩn bị phỏng vấn:
+
+**🔹 Tóm tắt nhanh kiến thức:**
+- **Lập danh sách** các kỹ năng và kiến thức đã học. Đối với mỗi kỹ năng, hãy ghi lại một ví dụ thực tế bạn có thể sử dụng nó.
+- **Tạo flashcards** để ôn tập nhanh. Mỗi thẻ ghi một câu hỏi phỏng vấn phổ biến và cách bạn sẽ trả lời bằng kiến thức từ khóa học.
+
+**🔹 Luyện tập phỏng vấn:**
+- **Thực hành phỏng vấn thử** với bạn bè hoặc trước gương. Hãy tập trung vào việc trả lời một cách tự tin và mạch lạc.
+- **Ghi âm lại** buổi luyện tập của bạn. Nghe lại để điều chỉnh cách diễn đạt và phát hiện những điểm cần cải thiện.
+
+**🔹 Tạo ấn tượng tốt:**
+- **Chuẩn bị một câu chuyện ngắn** về trải nghiệm học tập của bạn. Câu chuyện này sẽ giúp bạn nổi bật và gắn kết kiến thức với thực tiễn.
+- **Đừng quên nụ cười!** Nó không chỉ giúp bạn tự tin hơn mà còn tạo thiện cảm với nhà tuyển dụng.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **dành 15 phút mỗi ngày** để ôn lại và thực hành theo các gợi ý trên. Nhờ đó, bạn sẽ tự tin hơn khi bước vào phỏng vấn. 
+
+Đã sẵn sàng chưa? Tiếp theo, chúng ta sẽ khám phá cách **lên kế hoạch cho sự nghiệp** – xem ngay bài tiếp theo để không bỏ lỡ!
+
+---

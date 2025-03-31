@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi trước máy tính, khuôn mặt rạng rỡ và hào hứng khi viết email, trên màn hình là một email cảm ơn với các biểu tượng cảm xúc tích cực. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và sáng tạo trong việc viết email.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc online từ nhà, ánh mắt chăm chú vào màn hình máy tính, với nhiều biểu tượng công nghệ và giao tiếp nổi bật xung quanh, phong cách 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác thoải mái và hứng thú khi làm việc từ xa.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, hào hứng, đang thảo luận sôi nổi trong một buổi học nhóm. Có một sinh viên đứng lên phát biểu với ngôn ngữ cơ thể tự tin, xung quanh là bảng trắng với các biểu đồ và ghi chú sinh động. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền tải tinh thần tự tin và hòa nhập.

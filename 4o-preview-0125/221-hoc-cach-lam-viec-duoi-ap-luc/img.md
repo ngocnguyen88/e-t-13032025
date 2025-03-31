@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, tự tin, đang làm việc trong một không gian hiện đại với biểu đồ thời gian và công cụ tổ chức công việc rõ ràng trên bàn, phong cách đồ họa 3D Render, màu sắc tươi sáng, thể hiện sự hiệu quả và tràn đầy năng lượng trong công việc dưới áp lực.

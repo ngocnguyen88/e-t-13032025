@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú ghi chú, xung quanh là sách vở và bút màu sắc, màn hình laptop hiển thị một bản ghi chú hiệu quả, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần học tập và sáng tạo.

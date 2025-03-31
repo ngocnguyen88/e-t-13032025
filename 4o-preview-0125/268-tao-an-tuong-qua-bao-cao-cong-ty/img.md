@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc chăm chỉ trên laptop với biểu đồ và bảng biểu hiện đại, một sinh viên đứng thuyết trình trước nhóm với biểu cảm tự tin và hào hứng. Phong cách đồ họa 3D Render tươi sáng, màu sắc chuyên nghiệp và hiện đại, thể hiện tinh thần sáng tạo và hiệu quả trong công việc.

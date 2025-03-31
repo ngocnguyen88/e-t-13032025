@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện qua Zalo với nét mặt tự tin và vui vẻ, điện thoại trong tay, màn hình hiện rõ các cuộc hội thoại, không gian xung quanh hiện đại với tông màu sáng tạo, phong cách đồ họa 3D Render sống động và thu hút.

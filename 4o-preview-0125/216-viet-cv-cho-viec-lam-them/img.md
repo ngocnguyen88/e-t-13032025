@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng tạo CV trên laptop, với màn hình hiển thị CV hoàn chỉnh, xung quanh là biểu tượng công việc và những dấu tick xanh lá tượng trưng cho sự chấp nhận, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự tự tin và chuyên nghiệp.

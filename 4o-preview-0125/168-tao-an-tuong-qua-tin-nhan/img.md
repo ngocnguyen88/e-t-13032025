@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang nhắn tin với nét mặt vui vẻ, hào hứng, điện thoại trên tay với các biểu tượng emoji nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự kết nối và giao tiếp hiệu quả.

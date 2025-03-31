@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện vui vẻ, tự tin và thoải mái trong một không gian lớp học hiện đại. Hình ảnh thể hiện sự lạc quan, với ánh sáng tươi sáng và phong cách đồ họa 3D Render, màu sắc hài hòa, tạo cảm giác yên tâm và động lực cho sinh viên.

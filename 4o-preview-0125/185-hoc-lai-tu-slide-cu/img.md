@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú ôn tập với laptop và các slide cũ, xung quanh là các mindmap và flashcard tự tạo, tất cả tạo thành một không gian học tập hiện đại và sinh động, phong cách đồ họa 3D Render, màu sắc tươi sáng và trẻ trung, thể hiện sự tự tin và năng động trong việc ôn tập.

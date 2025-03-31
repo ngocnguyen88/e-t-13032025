@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc nhóm với nét mặt tự tin, xung quanh là laptop và bảng công việc với các mốc thời gian nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, kích thích tinh thần làm việc hiệu quả dưới áp lực.

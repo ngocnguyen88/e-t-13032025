@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ, hứng khởi, cùng nhau thảo luận và làm việc, với các bảng biểu đầy màu sắc thể hiện sự sáng tạo và động lực, phong cách đồ họa 3D Render hiện đại, tông màu tươi sáng, trẻ trung, khơi gợi cảm hứng tích cực và tinh thần đồng đội.

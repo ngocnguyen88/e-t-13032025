@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á ngồi xung quanh máy tính, với biểu đồ chi tiêu và danh sách mua sắm trên màn hình, nét mặt tươi cười tự tin, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác vui vẻ, năng động và tiết kiệm.

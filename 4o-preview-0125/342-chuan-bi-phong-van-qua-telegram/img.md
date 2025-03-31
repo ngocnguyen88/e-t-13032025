@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh một bàn, tất cả đều đang chăm chú vào màn hình máy tính với biểu tượng Telegram nổi bật. Không khí hiện đại, chuyên nghiệp với phong cách đồ họa 3D Render, màu sắc tươi sáng, sống động, tạo cảm giác hứng thú và tự tin khi chuẩn bị phỏng vấn.

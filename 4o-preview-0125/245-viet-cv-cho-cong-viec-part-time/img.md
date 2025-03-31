@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm CV trên laptop, nét mặt hào hứng, có một chiếc CV mẫu nổi bật trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khơi gợi tinh thần sáng tạo và tự tin trong việc ứng tuyển.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng ôn tập thực hành, trên bàn là laptop và các công cụ học tập, màn hình hiển thị video hướng dẫn, nét mặt tự tin, phong cách đồ họa 3D Render với màu sắc tươi sáng, hiện đại, tạo động lực học tập siêu tốc.

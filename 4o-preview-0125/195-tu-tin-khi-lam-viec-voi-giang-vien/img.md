@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Nhóm sinh viên châu Á đang trao đổi vui vẻ với giảng viên trong không gian học tập mở, nét mặt tươi cười, tự tin. Bàn học có laptop và tài liệu, phong cách đồ họa 3D Render với màu sắc tươi sáng, năng động, thể hiện tinh thần giao tiếp tích cực và hiệu quả.

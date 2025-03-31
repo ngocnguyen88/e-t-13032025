@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ, chăm chú nhìn vào điện thoại với giao diện GrabFood trên màn hình, xung quanh là các biểu tượng thức ăn và mã giảm giá, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, truyền tải tinh thần tiết kiệm và hiệu quả.

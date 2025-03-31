@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú vẽ sơ đồ tư duy và biểu đồ trên bảng trắng, xung quanh là các hình ảnh màu sắc sinh động, thể hiện sự sáng tạo và hứng thú, phong cách 3D Render hiện đại, không gian học tập trẻ trung, năng động, kích thích sự tò mò và khả năng sáng tạo.

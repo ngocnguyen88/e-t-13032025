@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú tóm tắt giáo trình, nét mặt tươi sáng, tự tin. Trên bàn là laptop mở với phần mềm tóm tắt văn bản, sách vở, và sơ đồ tư duy được sắp xếp khoa học. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khơi dậy tinh thần học tập siêu tốc.

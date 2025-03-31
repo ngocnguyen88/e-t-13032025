@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin và hào hứng, đang cùng nhau tạo và sử dụng sơ đồ tư duy trên một bàn học rộng rãi. Xung quanh là sách vở và laptop với các sơ đồ tư duy nổi bật trên màn hình. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và trẻ trung, tạo cảm giác năng động và thúc đẩy tinh thần học tập tích cực.

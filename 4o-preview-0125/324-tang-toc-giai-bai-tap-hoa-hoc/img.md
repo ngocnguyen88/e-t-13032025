@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng và tập trung, ngồi quanh bàn học, có laptop hiển thị bài tập hóa học và bảng tuần hoàn, đồng hồ đếm ngược hiển thị thời gian, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác hứng khởi và động lực cho việc học tập nhanh chóng và hiệu quả.

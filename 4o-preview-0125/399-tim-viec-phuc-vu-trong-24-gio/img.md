@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng cùng nhau chuẩn bị hồ sơ ứng tuyển, với máy tính và tài liệu xung quanh. Trên tường là một đồng hồ đếm ngược 24 giờ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự tự tin và quyết tâm trong việc tìm kiếm công việc.

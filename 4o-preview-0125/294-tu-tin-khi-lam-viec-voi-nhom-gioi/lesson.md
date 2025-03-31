@@ -1,0 +1,185 @@
+## ## Bài 1: Hiểu đúng về vai trò của mình trong nhóm - Nền tảng tự tin
+
+Bạn có bao giờ cảm thấy như mình đang cố gắng chơi một bản nhạc mà không biết mình đang cầm nhạc cụ gì? Đừng lo, hiểu đúng về vai trò của mình trong nhóm là bước đầu tiên để bạn tự tin và tỏa sáng như một nghệ sĩ thực thụ!
+
+---
+
+### 📌 Hiểu đúng về vai trò của mình trong nhóm:
+
+**🔹 Xác định vai trò rõ ràng:**
+Nhiều sinh viên đã thấy rằng việc biết rõ vai trò của mình giúp họ tập trung và làm việc hiệu quả hơn.
+
+- Ví dụ: "Bạn là người lập kế hoạch, người giám sát hay người thực hiện chính?"
+
+**🔹 Hiểu rõ trách nhiệm:**
+Cách này thường hiệu quả vì khi bạn biết mình cần làm gì, bạn sẽ không lạc lối trong đống công việc nhóm.
+
+- Ví dụ: "Bạn có trách nhiệm chuẩn bị tài liệu, liên hệ với khách hàng hay giám sát tiến độ?"
+
+**🔹 Kết nối với các thành viên khác:**
+Hãy tưởng tượng bạn đang chơi một bản nhạc giao hưởng – mọi người đều cần kết nối và hiểu nhau để tạo ra một bản nhạc hoàn hảo.
+
+- Ví dụ: "Hãy thường xuyên trao đổi với các thành viên khác để đảm bảo mọi người đều đi đúng hướng."
+
+**🔹 Phát triển kỹ năng:**
+Không ai sinh ra đã hoàn hảo. Hãy tìm cách phát triển kỹ năng của mình để đóng góp tốt hơn cho nhóm.
+
+- Ví dụ: "Nếu bạn là người thuyết trình, hãy luyện tập kỹ năng nói trước đám đông."
+
+---
+
+### 🚀 Hành động:
+
+Hãy xác định vai trò của bạn trong nhóm và viết ra một nhiệm vụ cụ thể mà bạn sẽ hoàn thành trong tuần này.
+
+Hiểu rõ vai trò của mình rồi? Giờ đến bước nâng cao kỹ năng làm việc nhóm – xem ngay bài tiếp theo để phát triển bản thân và nhóm của bạn!
+
+---
+## ## Bài 2: Kỹ năng giao tiếp hiệu quả - Trò chuyện tự nhiên với đồng đội  
+
+Bạn đã bao giờ cảm thấy như mình đang nói chuyện với một bức tường khi cố gắng giao tiếp với đồng đội chưa? Đừng lo, với một vài kỹ thuật giao tiếp hiệu quả, bạn sẽ biến cuộc trò chuyện thành một cuộc dạo chơi vui vẻ!
+
+---
+
+### 📌 Kỹ năng giao tiếp hiệu quả:
+
+**🔹 Bắt đầu bằng một lời chào thân thiện:**
+- Đừng quên mở đầu bằng một lời chào thân thiện và nụ cười. Ví dụ: "Chào mọi người, hôm nay thế nào?"
+
+**🔹 Lắng nghe chủ động:**
+- Hãy tưởng tượng bạn là một thám tử đang tìm manh mối từ câu chuyện. Lắng nghe không chỉ bằng tai mà còn bằng cả trái tim. Gật đầu, mỉm cười và giữ eye contact để thể hiện rằng bạn đang lắng nghe.
+
+**🔹 Đặt câu hỏi mở:**
+- Đừng làm vậy không được, chỉ hỏi những câu "có" hoặc "không" sẽ dễ làm cuộc trò chuyện kết thúc sớm. Hãy đặt câu hỏi mở để khuyến khích người khác chia sẻ nhiều hơn. Ví dụ: "Bạn nghĩ sao về ý tưởng này?"
+
+**🔹 Chia sẻ cảm nhận và phản hồi:**
+- Sau khi lắng nghe, hãy chia sẻ cảm nhận của bạn và đưa ra phản hồi. Điều này không chỉ giúp cuộc trò chuyện thêm phong phú mà còn tạo cơ hội để hiểu nhau hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử ngay bằng cách **bắt đầu một cuộc trò chuyện với đồng đội** và áp dụng các kỹ thuật trên.
+
+Xác định xong rồi? Giờ đến bước phát triển kỹ năng giao tiếp – xem ngay bài tiếp theo để biết cách giao tiếp hiệu quả hơn!
+
+---
+## ## Bài 3: Lắng nghe chủ động - Tận dụng cơ hội học hỏi từ người giỏi
+
+Bạn có bao giờ cảm thấy như mình đang đứng bên cạnh một kho báu kiến thức mà không biết cách mở khóa không? Đừng để cơ hội trôi qua như một cơn gió thoảng! Hãy cùng khám phá cách lắng nghe chủ động để học hỏi từ những người giỏi nhé!
+
+---
+
+### 📌 Giải pháp lắng nghe chủ động:
+
+**🔹 Tập trung 100% vào người nói:**
+- **Gạt bỏ mọi phiền nhiễu** như điện thoại hay những suy nghĩ lan man. Hãy tưởng tượng bạn đang nghe một câu chuyện thú vị từ một nhà thám hiểm!
+
+**🔹 Giao tiếp bằng ánh mắt:**
+- **Nhìn thẳng vào người nói để thể hiện sự chú ý**. Điều này giúp tạo cảm giác kết nối mạnh mẽ hơn.
+
+**🔹 Đặt câu hỏi sâu sắc:**
+- **Hỏi những câu hỏi mở rộng kiến thức**, như "Làm thế nào bạn đã đạt được điều đó?" Điều này giúp bạn hiểu sâu hơn và khơi gợi thêm thông tin.
+
+**🔹 Ghi chú nhanh:**
+- **Ghi lại những điểm quan trọng** để không bỏ sót bất kỳ thông tin quý giá nào.
+
+**🔹 Thể hiện sự đồng cảm:**
+- **Chia sẻ cảm xúc và thể hiện sự hiểu biết**, như "Tôi rất ấn tượng với cách bạn xử lý tình huống đó."
+
+---
+
+### 🚀 Hành động:
+
+Hãy **thực hành lắng nghe chủ động trong một cuộc trò chuyện với người bạn ngưỡng mộ**. Quan sát cách họ phản ứng và điều chỉnh cách lắng nghe của bạn cho phù hợp!
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch phát triển kỹ năng giao tiếp tổng thể** – xem ngay bài tiếp theo!
+
+---
+## ## Bài 4: Khả năng đóng góp - Tìm ra giá trị bản thân mang lại cho nhóm
+
+Bạn có bao giờ cảm thấy như mình đang cố gắng ghép một bức tranh mà không biết mảnh ghép của mình ở đâu? Đừng lo, việc tìm ra giá trị bản thân mang lại cho nhóm sẽ giúp bạn trở thành mảnh ghép hoàn hảo trong bức tranh đó!
+
+---
+
+### 📌 Tìm ra giá trị bản thân:
+
+**🔹 Xác định điểm mạnh cá nhân:**
+- **Đừng ngại tự hào về bản thân:** Nhiều người thấy rằng việc nhận diện điểm mạnh giúp họ tự tin hơn trong nhóm. Hãy tưởng tượng bạn là siêu anh hùng, cần biết sức mạnh đặc biệt của mình!
+
+**🔹 Lắng nghe phản hồi từ đồng nghiệp:**
+- **Đừng ngại hỏi ý kiến từ người khác:** Họ có thể chỉ ra những giá trị mà bạn chưa nhận ra. Ví dụ, "Bạn giỏi trong việc quản lý thời gian và tạo động lực cho nhóm."
+
+**🔹 Tìm cách áp dụng kỹ năng vào công việc nhóm:**
+- **Đừng để kỹ năng bị lãng phí:** Hãy tìm cách sử dụng điểm mạnh của mình để hỗ trợ nhóm. Ví dụ, nếu bạn giỏi giao tiếp, hãy đảm nhận vai trò liên lạc giữa các thành viên.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi làm việc nhóm, hãy **xác định điểm mạnh của mình và tìm cách áp dụng vào công việc**. Điều này sẽ giúp bạn tạo dấu ấn cá nhân và đóng góp tích cực cho nhóm.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+---
+## ## Bài 5: Xử lý áp lực trong nhóm - Cách giữ bình tĩnh và tự tin
+
+Bạn đã bao giờ cảm thấy như mình đang đứng trên bờ vực của một cuộc khủng hoảng trong nhóm chưa? Đừng lo, nhiều người cũng đã trải qua điều đó! Bí quyết để xử lý áp lực là giữ bình tĩnh và tự tin trong mọi tình huống. Hãy cùng tìm hiểu nhé!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Tập trung vào giải pháp, không phải vấn đề:**
+
+- Nhiều người đã thấy rằng việc chuyển hướng từ việc lo lắng về vấn đề sang tìm kiếm giải pháp giúp giảm bớt áp lực.  
+- Ví dụ: Thay vì lo lắng về hạn chót, hãy lập danh sách các công việc cần làm và bắt đầu từng bước một.
+
+**🔹 Thực hành kỹ thuật thở sâu:**
+
+- Thở sâu giúp làm dịu tâm trạng và giữ cho bạn tỉnh táo trong tình huống căng thẳng.  
+- Mẹo nhỏ: Hãy dành vài phút để hít thở sâu khi bạn cảm thấy căng thẳng đang gia tăng.
+
+**🔹 Chia sẻ và lắng nghe:**
+
+- Đừng ngại chia sẻ cảm giác của bạn với nhóm và lắng nghe ý kiến của họ. Điều này không chỉ giúp bạn cảm thấy nhẹ nhõm hơn mà còn tạo ra sự đồng cảm trong nhóm.  
+- Ví dụ: "Mình cảm thấy áp lực về dự án này, chúng ta có thể cùng nhau thảo luận để tìm giải pháp không?"
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi bạn cảm thấy áp lực trong nhóm, hãy thử áp dụng một trong những kỹ thuật trên để giữ bình tĩnh và tự tin. Điều này sẽ giúp bạn xử lý tình huống một cách hiệu quả hơn.
+
+Xác định xong rồi? Giờ thì hãy học cách nâng cao kỹ năng làm việc nhóm – xem ngay bài tiếp theo nhé!
+
+---
+## ## Bài 6: Tổng kết khóa học – Tự tin bước vào bất kỳ nhóm nào!
+
+Bạn có bao giờ cảm thấy như mình đang bước vào một "vũ hội" mà không biết phải nhảy theo điệu nào khi tham gia vào một nhóm mới? Đừng lo, với những bí quyết sau đây, bạn sẽ tự tin bước vào bất kỳ nhóm nào và tạo dựng sự gắn kết ngay lập tức!
+
+---
+
+### 📌 Bí quyết hòa nhập và làm việc nhóm hiệu quả:
+
+**🔹 Hiểu rõ vai trò của mình:**
+- Đừng để mình "lạc trôi"! Hãy tìm hiểu vai trò của bạn trong nhóm và chuẩn bị trước những gì bạn có thể đóng góp. Ví dụ, nếu bạn giỏi phân tích dữ liệu, hãy xung phong giúp nhóm với kỹ năng đó.
+
+**🔹 Giao tiếp cởi mở:**
+- Nhiều sinh viên thấy rằng việc trao đổi ý kiến và lắng nghe người khác giúp nhóm hoạt động trơn tru hơn. Đừng ngại chia sẻ ý tưởng và đặt câu hỏi.
+
+**🔹 Tôn trọng sự đa dạng:**
+- Mỗi người trong nhóm đều có một góc nhìn riêng. Hãy tôn trọng sự khác biệt và học hỏi từ nó. Điều này giúp nhóm đưa ra quyết định tốt hơn.
+
+**🔹 Hỗ trợ và động viên:**
+- Hãy sẵn sàng hỗ trợ đồng đội khi họ gặp khó khăn và đừng quên động viên nhau. Một lời khen ngợi đúng lúc có thể làm nên điều kỳ diệu!
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy tìm hiểu kỹ về nhóm mà bạn sắp tham gia và chuẩn bị một danh sách những gì bạn có thể đóng góp. Điều này sẽ giúp bạn tự tin hơn khi hòa nhập vào nhóm.
+
+Giờ thì bạn đã sẵn sàng để "hòa âm" cùng nhóm và thể hiện bản thân một cách tự tin rồi đấy! Và đừng quên, bài học tiếp theo sẽ giúp bạn phát triển kỹ năng lãnh đạo trong nhóm. Đừng bỏ lỡ nhé!
+
+---

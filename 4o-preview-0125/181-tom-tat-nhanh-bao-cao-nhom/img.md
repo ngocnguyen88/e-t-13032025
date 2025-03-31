@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc cùng nhau, nét mặt tập trung và hào hứng, xung quanh là bảng trắng với sơ đồ tư duy và các ghi chú nổi bật. Đồng hồ đếm ngược 12 phút để nhấn mạnh tốc độ, phong cách đồ họa 3D Render hiện đại, màu sắc sáng tạo, kích thích tinh thần học tập và làm việc nhóm hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng sử dụng điện thoại và máy tính bảng để ôn thi với ứng dụng, xung quanh là biểu tượng các ứng dụng học tập nổi bật, không gian học tập hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng, mang lại cảm giác sôi nổi và động lực học tập.

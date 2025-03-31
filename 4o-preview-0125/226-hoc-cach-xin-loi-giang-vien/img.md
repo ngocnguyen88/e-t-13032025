@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin và chân thành, đang thực hành giao tiếp với một giảng viên trong khung cảnh lớp học, với bảng trắng ghi chú các bước xin lỗi khéo léo. Phong cách đồ họa 3D Render hiện đại, màu sắc ấm áp, tạo cảm giác thân thiện và dễ tiếp cận.

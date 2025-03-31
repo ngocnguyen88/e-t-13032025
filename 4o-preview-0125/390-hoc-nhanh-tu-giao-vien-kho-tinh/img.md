@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú học bài trong lớp học, với một giáo viên nghiêm khắc phía trước. Sinh viên có nét mặt tự tin, tập trung, tay cầm bút và sổ ghi chú. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo không khí học tập tích cực và hiệu quả.

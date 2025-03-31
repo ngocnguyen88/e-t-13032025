@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, hào hứng, đang ngồi quanh máy tính, mỗi người sử dụng một công cụ khác nhau, màn hình hiển thị các biểu đồ và bảng điều khiển, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, thể hiện tinh thần học và làm việc hiệu quả.

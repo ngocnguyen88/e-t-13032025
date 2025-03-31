@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một sinh viên châu Á đang ngồi trước máy tính với vẻ mặt quyết tâm, xung quanh là các biểu tượng đại diện cho kế hoạch mới và mục tiêu cá nhân, màu sắc tươi sáng và phong cách đồ họa 3D Render hiện đại, tạo cảm giác động lực và quyết tâm mạnh mẽ.

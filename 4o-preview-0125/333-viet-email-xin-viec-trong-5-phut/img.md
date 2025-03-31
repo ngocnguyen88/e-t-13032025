@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á ngồi trước laptop, nét mặt tập trung và hào hứng, bên cạnh là đồng hồ chỉ 5 phút, màn hình laptop hiển thị bản nháp email với các tiêu đề và nội dung nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, truyền cảm hứng sáng tạo và tự tin.

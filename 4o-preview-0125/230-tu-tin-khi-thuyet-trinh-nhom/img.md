@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tự tin, đứng thuyết trình trước một nhóm bạn học, biểu cảm hào hứng và tự nhiên. Không gian lớp học hiện đại, trang thiết bị đầy đủ, phong cách đồ họa 3D Render tươi sáng, trẻ trung và sinh động, truyền cảm hứng cho việc học tập và thực hành.

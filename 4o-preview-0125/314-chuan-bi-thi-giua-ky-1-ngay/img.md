@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, hào hứng, ngồi quanh bàn học với đồng hồ đếm ngược 24 giờ nổi bật, sách vở và sơ đồ tư duy sắp xếp rõ ràng, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, kích thích tinh thần học tập cấp tốc.

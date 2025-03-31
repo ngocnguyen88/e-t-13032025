@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cười tươi, thảo luận sôi nổi quanh một chiếc laptop với các biểu đồ ngân sách và danh sách hoạt động hiện trên màn hình, xung quanh có vali và bảng ghi chú, phong cách đồ họa 3D Render, màu sắc tươi sáng, hài hòa, tạo cảm giác hứng thú và sẵn sàng cho chuyến đi.

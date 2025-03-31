@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, tập trung viết bài tại bàn học, xung quanh là đồng hồ đếm ngược, giấy nháp và bút, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, tạo cảm giác hào hứng và sẵn sàng cho kỳ thi tự luận.

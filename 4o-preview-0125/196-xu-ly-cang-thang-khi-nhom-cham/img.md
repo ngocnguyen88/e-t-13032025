@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt vui vẻ, hợp tác, cùng nhau lên kế hoạch trên một bảng trắng, đồng hồ biểu thị thời gian 12 phút, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự đoàn kết và tinh thần làm việc nhóm hiệu quả.

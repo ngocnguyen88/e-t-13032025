@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ, tự tin cùng nhau thảo luận sôi nổi xung quanh bàn, với các biểu tượng giao tiếp và hợp tác nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, tươi sáng, thể hiện sự hòa hợp và sáng tạo trong làm việc nhóm.

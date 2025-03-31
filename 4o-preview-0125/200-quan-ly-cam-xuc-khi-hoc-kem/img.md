@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt vui vẻ và tự tin, ngồi trong không gian học tập thoải mái, có bảng trắng ghi chú tích cực và hình ảnh động viên. Màu sắc tươi sáng, phong cách đồ họa 3D Render, tạo cảm giác lạc quan và tràn đầy năng lượng tích cực.

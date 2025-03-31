@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với biểu cảm đầy năng lượng, hào hứng, đang cùng nhau học tập. Hình ảnh có biểu tượng Pomodoro và các mảnh ghép động lực xung quanh, phong cách đồ họa 3D Render, màu sắc tươi sáng, đầy sức sống, mang lại cảm giác tích cực và khích lệ.

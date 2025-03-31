@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn, nét mặt tích cực và tươi cười, với các biểu tượng cảm xúc như nụ cười, động lực và sự thấu hiểu nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự chuyển biến cảm xúc tích cực.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận vui vẻ và hăng say, cùng nhau làm việc quanh bàn với máy tính xách tay và lịch trình rõ ràng. Ánh sáng ấm áp, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác hợp tác và hiệu quả cao.

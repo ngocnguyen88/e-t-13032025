@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi trước máy tính, tập trung vào việc thiết kế CV với màn hình hiển thị CV ấn tượng, nét mặt hào hứng và tự tin. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và năng động, biểu thị sự sáng tạo và chuyên nghiệp trong công việc freelance.

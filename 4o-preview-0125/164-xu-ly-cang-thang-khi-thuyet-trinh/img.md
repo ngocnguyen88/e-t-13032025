@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tươi cười, đứng trước lớp thuyết trình với phong thái tự tin, bên cạnh là bảng trắng ghi chú các kỹ thuật giảm căng thẳng, phong cách đồ họa 3D Render sinh động, màu sắc tươi sáng, tạo cảm giác tích cực và tự tin cho người xem.

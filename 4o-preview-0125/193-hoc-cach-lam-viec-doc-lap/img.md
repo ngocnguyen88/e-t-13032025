@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi làm việc độc lập với laptop và sổ tay, nét mặt tự tin và tập trung, xung quanh là không gian làm việc hiện đại, phong cách đồ họa 3D Render sinh động, màu sắc hài hòa, truyền tải tinh thần làm việc tự chủ và hiệu quả.

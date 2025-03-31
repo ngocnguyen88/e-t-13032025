@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm việc cùng nhau, sử dụng laptop và các công cụ quản lý thời gian, với một biểu đồ thời gian nổi bật trên màn hình. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, năng động, tạo cảm giác hứng khởi và tập trung.

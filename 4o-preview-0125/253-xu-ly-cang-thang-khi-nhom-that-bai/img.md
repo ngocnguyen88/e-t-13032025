@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt bình tĩnh và quyết tâm, ngồi xung quanh một bàn họp với biểu đồ và kế hoạch mới hiện rõ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tích cực và động lực.

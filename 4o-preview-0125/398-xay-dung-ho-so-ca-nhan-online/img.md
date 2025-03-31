@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú vào máy tính, với màn hình hiển thị giao diện hồ sơ cá nhân trực tuyến, cùng biểu đồ và hình ảnh động nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và năng động, thể hiện sự sáng tạo và chuyên nghiệp trong việc xây dựng hồ sơ online.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ, hào hứng ngồi quanh bàn ăn với các món ăn đa dạng và hấp dẫn, điện thoại trên tay với ứng dụng tìm kiếm quán ăn nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc ấm áp và thân thiện, tạo cảm giác no đủ và hài lòng.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực tập trong một văn phòng hiện đại, mỗi người tự tin trao đổi và làm việc, xung quanh là các biểu tượng biểu thị thương hiệu cá nhân như laptop, sổ ghi chép, và các tấm bảng trắng với ý tưởng sáng tạo. Phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, thể hiện sự chuyên nghiệp và năng động của thế hệ trẻ.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi thành vòng tròn, vui vẻ trò chuyện và cười đùa, xung quanh có biểu tượng hòa bình và trái tim, thể hiện tinh thần hòa giải và kết nối, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thân thiện và gắn kết.

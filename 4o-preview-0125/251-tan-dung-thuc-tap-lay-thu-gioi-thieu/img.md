@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, vui vẻ, đang thảo luận cùng cấp trên trong môi trường văn phòng hiện đại. Một sinh viên cầm trên tay thư giới thiệu, xung quanh là đồng nghiệp đang hỗ trợ, phong cách đồ họa 3D Render, màu sắc tươi sáng, chuyên nghiệp, tạo cảm giác thành công và đầy động lực.

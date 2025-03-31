@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng ngời, tự tin, đang cùng nhau thảo luận, vây quanh bảng trắng với các kế hoạch và ý tưởng mới, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khơi gợi sự tích cực và quyết tâm.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, hào hứng ngồi trong thư viện, với sách tiếng Anh mở trên bàn và một màn hình hiển thị các từ khóa nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, tạo cảm giác học tập thú vị và nhanh chóng.

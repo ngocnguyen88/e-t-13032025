@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui vẻ, tươi cười, trao nhau lời cảm ơn và cái bắt tay, xung quanh là biểu tượng trái tim và các biểu tượng giao tiếp xã hội, phong cách đồ họa 3D Render sống động, màu sắc ấm áp, truyền tải thông điệp về sự kết nối và lòng biết ơn.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng, tập trung trước màn hình máy tính với sơ đồ tư duy trực tuyến hiện lên rõ ràng, xung quanh là các biểu tượng công cụ kỹ thuật số, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khuyến khích tinh thần học tập nhanh chóng và hiệu quả.

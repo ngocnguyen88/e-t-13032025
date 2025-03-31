@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, đang thực hiện phỏng vấn qua điện thoại với biểu tượng WhatsApp nổi bật trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, sống động, thể hiện tinh thần lạc quan và tự tin khi phỏng vấn trực tuyến.

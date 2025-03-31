@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, chăm chú học tập với đồng hồ đếm ngược 48 giờ nổi bật, sách vở và sơ đồ tư duy sắp xếp rõ ràng, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, năng động, tạo cảm giác học tập hiệu quả và nhanh chóng.

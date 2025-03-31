@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt vui vẻ, tự tin, đang làm việc cùng nhau, xung quanh là các biểu tượng cảm xúc tích cực, đồng hồ đếm ngược 12 phút nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, kích thích tinh thần làm việc nhóm hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, hào hứng đang trao đổi và làm việc với nhau, cùng với một bảng trắng hiển thị các từ khóa giao tiếp, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện tinh thần hợp tác và giao tiếp hiệu quả.

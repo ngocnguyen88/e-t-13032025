@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận kế hoạch học hè với biểu đồ thời gian và lịch trình nổi bật, nét mặt phấn khởi và tự tin. Không gian học tập được trang trí bằng các dụng cụ học tập và biểu tượng mùa hè, phong cách đồ họa 3D Render tươi sáng, trẻ trung, tạo cảm hứng học tập và vui chơi hiệu quả.

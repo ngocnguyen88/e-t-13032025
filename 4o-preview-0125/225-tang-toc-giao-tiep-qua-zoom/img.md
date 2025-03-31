@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, hào hứng, tham gia cuộc họp nhóm qua Zoom. Mỗi người đều có máy tính và tai nghe, ánh sáng màn hình chiếu sáng gương mặt. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sinh động, tạo cảm giác kết nối và giao tiếp hiệu quả.

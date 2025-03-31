@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc tại văn phòng, nét mặt tự tin, tập trung vào máy tính và tài liệu, biểu thị sự chủ động và sáng tạo. Hình ảnh được thể hiện bằng phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, thể hiện tinh thần học hỏi và làm việc độc lập.

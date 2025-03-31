@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tập trung, tự tin làm việc trên máy tính và tài liệu báo cáo KPI, một bảng biểu 3D rõ ràng hiển thị trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự nhanh chóng và hiệu quả trong việc hoàn thành báo cáo.

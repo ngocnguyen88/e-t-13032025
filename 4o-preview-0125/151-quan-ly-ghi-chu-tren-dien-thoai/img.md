@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, mỗi người đang hào hứng sử dụng điện thoại với các ứng dụng ghi chú mở ra, giao diện trực quan, màu sắc tươi sáng, phong cách đồ họa 3D Render hiện đại, xung quanh là biểu tượng ghi chú và nhãn dán nổi bật, tạo cảm giác sáng tạo và thông minh trong việc quản lý thông tin.

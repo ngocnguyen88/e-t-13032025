@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ và sáng tạo tìm cách xử lý nước trong không gian sống trọ, với các vật dụng như chai nước dự trữ, chậu rửa tạm thời, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và sáng tạo trong xử lý tình huống.

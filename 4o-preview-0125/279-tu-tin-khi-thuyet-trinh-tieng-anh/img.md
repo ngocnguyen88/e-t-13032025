@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt rạng ngời tự tin, đang thuyết trình trước lớp với sự hỗ trợ của laptop và tài liệu, xung quanh là những biểu tượng thuyết trình như micro, bảng biểu, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động, tràn đầy năng lượng và tự tin.

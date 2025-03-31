@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng thử và chọn quần áo tại một cửa hàng với biển giảm giá lớn, xung quanh là những túi mua sắm đa dạng. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện niềm vui và sự hào hứng khi mua sắm với giá tiết kiệm.

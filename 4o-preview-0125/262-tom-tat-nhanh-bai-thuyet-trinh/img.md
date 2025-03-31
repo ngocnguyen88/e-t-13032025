@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm việc với laptop và bảng trắng, với biểu đồ và văn bản tóm tắt nổi bật, gương mặt tự tin và hào hứng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khơi gợi cảm hứng làm việc hiệu quả và nhanh chóng.

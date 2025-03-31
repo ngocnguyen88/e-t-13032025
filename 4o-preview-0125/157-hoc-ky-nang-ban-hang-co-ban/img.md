@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi với khách hàng, nét mặt tự tin, hào hứng, với biểu đồ doanh số và các sản phẩm mẫu trước mặt, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, thể hiện sự năng động và hiệu quả trong kỹ năng bán hàng.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi bàn bạc với nhau trong một phòng họp nhỏ, nét mặt tự tin và tập trung, trên bàn có laptop và tài liệu, một biểu tượng bông hoa sen tượng trưng cho sự bình tĩnh và phát triển, phong cách đồ họa 3D Render hiện đại, màu sắc nhã nhặn, hài hòa, kích thích tinh thần học hỏi và phát triển kỹ năng mềm.

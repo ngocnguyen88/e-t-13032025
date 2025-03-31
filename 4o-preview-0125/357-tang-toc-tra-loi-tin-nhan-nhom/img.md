@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt chăm chú và quyết tâm, ngồi cùng nhau, mỗi người cầm điện thoại di động, màn hình hiển thị tin nhắn nhóm với biểu tượng đồng hồ đếm ngược, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, năng động, tạo cảm giác hứng thú cho việc học tập và giao tiếp nhanh chóng.

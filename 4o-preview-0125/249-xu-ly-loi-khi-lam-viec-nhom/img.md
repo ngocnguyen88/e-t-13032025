@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt quyết tâm, đang cùng nhau thảo luận và viết lên bảng các giải pháp khắc phục lỗi, không gian xung quanh là một văn phòng làm việc hiện đại, phong cách 3D Render, màu sắc tươi sáng, trẻ trung, tạo cảm giác năng động và sáng tạo trong học tập và làm việc nhóm.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, hào hứng, đang giao tiếp và làm việc cùng nhau trong một không gian học tập hiện đại. Các sinh viên có vẻ ngoài Á Đông, phong cách 3D Render, màu sắc tươi sáng, trẻ trung, thể hiện sự hài hòa và đoàn kết trong nhóm.

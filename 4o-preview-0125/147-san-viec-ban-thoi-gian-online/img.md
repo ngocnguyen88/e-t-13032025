@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ và tự tin, ngồi quanh bàn với máy tính và điện thoại đang truy cập các trang web việc làm. Họ đang chỉ vào màn hình với sự hào hứng và quyết tâm. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, khuyến khích tinh thần học tập và tìm việc làm cấp tốc.

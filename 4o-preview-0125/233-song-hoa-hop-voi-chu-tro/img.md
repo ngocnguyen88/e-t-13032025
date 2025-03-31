@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện vui vẻ với chủ trọ, nét mặt thân thiện, hài lòng, không gian phòng trọ gọn gàng và sáng sủa, phong cách đồ họa 3D Render sống động, màu sắc ấm áp, tạo cảm giác hòa hợp và thân thiện.

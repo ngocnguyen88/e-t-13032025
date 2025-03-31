@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc trên máy tính xách tay, nét mặt tập trung và hào hứng, với màn hình hiển thị CV đang được hoàn thiện, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự sáng tạo và chuyên nghiệp trong việc viết CV.

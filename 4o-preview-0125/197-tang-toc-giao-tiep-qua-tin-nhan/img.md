@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cười nói vui vẻ, cùng nhau sử dụng điện thoại để nhắn tin, xung quanh có các biểu tượng tin nhắn và biểu tượng cảm xúc nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, tạo cảm giác năng động và hiệu quả trong giao tiếp.

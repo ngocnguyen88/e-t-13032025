@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt rạng rỡ, vui vẻ, một sinh viên đang động viên bạn mình bằng cách vỗ vai, trong khi các thành viên khác cười tươi và giơ ngón tay cái lên, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác ấm áp và đoàn kết.

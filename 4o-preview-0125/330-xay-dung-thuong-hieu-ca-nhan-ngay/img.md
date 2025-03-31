@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, mỗi người cầm một bảng tên thương hiệu cá nhân, xung quanh là các biểu tượng mạng xã hội nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, mang lại cảm giác chuyên nghiệp và đầy năng lượng.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với gương mặt tươi cười, tự tin đang ngồi quây quần quanh bàn, trên bàn có lịch học và kế hoạch học tập rõ ràng, xung quanh là không gian gia đình ấm cúng, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác yên bình và khích lệ tinh thần.

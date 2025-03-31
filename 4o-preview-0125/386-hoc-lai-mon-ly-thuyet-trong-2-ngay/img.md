@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi, xung quanh là các sơ đồ tư duy và tài liệu học tập, với biểu tượng đồng hồ đếm ngược 2 ngày, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và năng động, khơi gợi tinh thần học tập nhanh chóng và hiệu quả.

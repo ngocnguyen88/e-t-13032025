@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú nghe giảng và ghi chú, có một đồng hồ đếm ngược 15 phút bên cạnh, trên bàn có laptop và giấy ghi chú, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác nhanh gọn, hiệu quả trong học tập.

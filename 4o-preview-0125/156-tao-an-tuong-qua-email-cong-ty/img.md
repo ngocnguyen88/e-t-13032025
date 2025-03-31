@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin và chăm chú trước màn hình máy tính, trên đó hiển thị một email mẫu chuyên nghiệp. Các sinh viên đang thảo luận sôi nổi, xung quanh là những tài liệu hướng dẫn viết email, phong cách đồ họa 3D Render hiện đại, màu sắc sáng tạo và hấp dẫn, tạo cảm hứng viết email một cách tự tin và chuyên nghiệp.

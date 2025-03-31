@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh một bàn tròn, nét mặt quyết tâm, xung quanh là máy tính, giấy tờ và lịch trình công việc, cùng với đồng hồ đếm ngược nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc năng động, truyền cảm hứng cho việc giải quyết công việc cấp tốc.

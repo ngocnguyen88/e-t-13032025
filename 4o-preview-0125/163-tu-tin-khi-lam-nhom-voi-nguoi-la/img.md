@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin, vui vẻ, đang ngồi quanh một bàn họp, trao đổi và làm việc cùng nhau. Xung quanh là các biểu tượng giao tiếp như bong bóng hội thoại, biểu tượng lắng nghe, phối hợp và sáng tạo. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, kích thích tinh thần hợp tác và học tập hiệu quả.

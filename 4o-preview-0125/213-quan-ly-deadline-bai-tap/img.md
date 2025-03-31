@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú ngồi quanh bàn học, sử dụng laptop và bảng kế hoạch, với biểu đồ thời gian và lịch trình rõ ràng trên màn hình, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sinh động, thể hiện sự sắp xếp khoa học và tinh thần học tập hăng say.

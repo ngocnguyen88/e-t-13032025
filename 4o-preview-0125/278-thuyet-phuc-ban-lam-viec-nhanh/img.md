@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang họp nhóm, nét mặt tự tin và hào hứng, với biểu đồ tiến độ công việc tăng nhanh trên màn hình. Không gian xung quanh sôi động với máy tính, điện thoại và các ứng dụng hỗ trợ công việc, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện tinh thần làm việc nhóm hiệu quả và tốc độ.

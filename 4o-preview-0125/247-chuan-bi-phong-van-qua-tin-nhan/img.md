@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, chăm chú vào màn hình điện thoại khi đang thực hành phỏng vấn qua tin nhắn. Một chiếc điện thoại hiển thị các cuộc hội thoại chuyên nghiệp, xung quanh có các biểu tượng tin nhắn nổi bật, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tự tin và chuyên nghiệp.

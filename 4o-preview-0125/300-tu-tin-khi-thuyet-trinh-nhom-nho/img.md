@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thuyết trình tự tin trước nhóm nhỏ, với biểu cảm vui vẻ, ánh mắt hướng về phía khán giả, một bạn đang cầm tài liệu, các bạn còn lại chăm chú lắng nghe. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, nổi bật không khí tự tin, năng động, kích thích tinh thần học hỏi và thể hiện.

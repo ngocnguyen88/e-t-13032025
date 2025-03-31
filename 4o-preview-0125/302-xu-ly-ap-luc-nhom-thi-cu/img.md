@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tập trung nhưng thoải mái, ngồi xung quanh bàn với biểu đồ và tài liệu học tập, xung quanh có những biểu tượng động viên và khích lệ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền cảm hứng và tinh thần đoàn kết trong học tập nhóm.

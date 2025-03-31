@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tươi cười, tự tin đứng trước một bảng trắng với các biểu tượng động lực, gia đình, và mục tiêu nổi bật. Bầu không khí tích cực, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa và tươi sáng, thể hiện sự quyết tâm và tinh thần vượt qua áp lực.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú làm việc trên laptop, với một màn hình hiển thị CV chuyên nghiệp và các yếu tố nổi bật như biểu đồ tài chính, đồng hồ đếm ngược 10 phút thể hiện sự nhanh chóng, phong cách đồ họa 3D Render tươi sáng, hiện đại, thể hiện sự tự tin và thành công.

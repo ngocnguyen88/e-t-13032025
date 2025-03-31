@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú nhìn vào bảng trắng với các hình ảnh minh họa và sơ đồ tư duy sinh động, nét mặt tự tin và hào hứng. Không gian học tập hiện đại với phong cách 3D Render, màu sắc tươi sáng, kích thích sự sáng tạo và cảm hứng học tập.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú học tập với máy tính bảng và sổ ghi chép, hình ảnh các biểu đồ mindmap và flashcard xung quanh, nét mặt tự tin, phong cách 3D Render hiện đại, màu sắc trẻ trung, năng động, tạo cảm giác học tập hiệu quả và nhanh chóng.

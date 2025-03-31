@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt vui tươi, tự tin, ngồi quanh bàn với lịch trình rõ ràng, đồng hồ, và các biểu tượng học tập và giải trí hài hòa, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, năng động, truyền cảm hứng cho việc quản lý thời gian hiệu quả.

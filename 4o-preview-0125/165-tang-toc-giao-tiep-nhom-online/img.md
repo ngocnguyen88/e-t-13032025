@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tham gia cuộc họp Zoom với nét mặt tự tin, tập trung. Màn hình hiển thị các biểu đồ, ghi chú và đồng hồ đếm giờ, phong cách đồ họa 3D Render, màu sắc hiện đại và tươi sáng, tạo cảm giác năng động và hiệu quả trong giao tiếp online.

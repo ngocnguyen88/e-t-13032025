@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt chăm chú và tự tin, đang sử dụng laptop và smartphone để tóm tắt bài giảng, với không gian học tập hiện đại xung quanh, sơ đồ tư duy và ghi chú nổi bật trên màn hình. Phong cách đồ họa 3D Render, màu sắc tươi sáng và trẻ trung, tạo cảm giác hào hứng và hiệu quả.

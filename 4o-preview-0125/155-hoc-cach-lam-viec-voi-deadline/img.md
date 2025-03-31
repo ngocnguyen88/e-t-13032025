@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc cùng nhau, tập trung trước máy tính với màn hình hiển thị các công cụ quản lý thời gian, bảng kế hoạch và đồng hồ đếm ngược, nét mặt tự tin và quyết tâm. Phong cách 3D Render hiện đại, màu sắc tươi sáng, truyền tải tinh thần làm việc hiệu quả và năng động.

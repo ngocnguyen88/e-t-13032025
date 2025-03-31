@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ trò chuyện dưới một khuôn viên trường đại học, nét mặt tự tin và cởi mở. Xung quanh là các biểu tượng giao tiếp như tin nhắn, ánh mắt, nụ cười, thể hiện phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác thân thiện và hấp dẫn.

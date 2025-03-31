@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tham gia cuộc họp Zoom, nét mặt tự tin, thân thiện và chuyên nghiệp, với ánh sáng và góc quay hoàn hảo, phong cách đồ họa 3D Render sống động, màu sắc hài hòa, tạo cảm giác hiện đại và sẵn sàng cho cuộc họp thành công.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng sắp xếp lại căn phòng trọ của mình, với các hộp, giỏ và kệ sách được sử dụng hợp lý, không gian trông gọn gàng và sạch sẽ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thoải mái và hào hứng cho việc quản lý đồ dùng cá nhân.

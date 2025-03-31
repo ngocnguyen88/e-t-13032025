@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ trao đổi ý tưởng, nét mặt tươi cười, tự tin. Xung quanh họ là bảng ý tưởng và dụng cụ làm việc nhóm, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thân thiện và sáng tạo.

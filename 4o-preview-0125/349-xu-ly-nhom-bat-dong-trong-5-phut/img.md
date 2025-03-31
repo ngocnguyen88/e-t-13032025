@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt vui vẻ, đang bắt tay nhau, thể hiện sự hòa hợp và đồng lòng. Khung cảnh xung quanh là một bàn họp với bảng trắng ghi chú ý chính, đồng hồ đếm ngược 5 phút đang chạy, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác tích cực và thúc đẩy tinh thần hợp tác.

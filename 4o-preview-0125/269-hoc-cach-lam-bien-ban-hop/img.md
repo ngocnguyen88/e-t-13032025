@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi trong một cuộc họp, các bạn thể hiện sự tập trung và chăm chú ghi chép, bàn họp có laptop và tài liệu, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền cảm hứng cho việc học tập và làm việc hiệu quả.

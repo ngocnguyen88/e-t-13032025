@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng làm việc trên máy tính xách tay và giấy tờ, với biểu đồ và cấu trúc báo cáo hiển thị trên màn hình, trong một không gian học tập hiện đại, phong cách đồ họa 3D Render, màu sắc trẻ trung, sống động, truyền cảm hứng làm việc hiệu quả.

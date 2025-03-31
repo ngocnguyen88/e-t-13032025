@@ -1,0 +1,6 @@
+Bài 1: Giới thiệu sơ đồ tư duy và lợi ích trong ôn thi (2 phút)  
+Bài 2: Cách tạo sơ đồ tư duy chỉ trong 2 phút (2 phút)  
+Bài 3: Kỹ thuật chọn lọc thông tin quan trọng cho sơ đồ (2 phút)  
+Bài 4: Cách sử dụng sơ đồ tư duy để ghi nhớ nhanh (2 phút)  
+Bài 5: Mẹo áp dụng sơ đồ tư duy vào các môn học khác nhau (2 phút)  
+Bài 6: Tổng kết và áp dụng thực tế - Ôn thi tự tin, hiệu quả (2 phút)

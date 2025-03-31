@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tự tin và tập trung, ngồi quanh máy tính, màn hình Zoom hiển thị, cùng với các công cụ hỗ trợ học tập xung quanh. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện sự năng động và hiệu quả trong học nhóm trực tuyến.

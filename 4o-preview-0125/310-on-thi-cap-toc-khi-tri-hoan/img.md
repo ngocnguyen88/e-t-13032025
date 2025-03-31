@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với vẻ mặt tập trung, hào hứng ngồi quanh bàn học, trước mặt là đồng hồ đếm ngược chỉ còn vài giờ, sách vở và laptop mở sẵn ứng dụng ôn tập, phong cách đồ họa 3D Render hiện đại, màu sắc năng động, kích thích tinh thần học tập cấp tốc.

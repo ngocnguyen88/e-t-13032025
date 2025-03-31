@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi, nét mặt tự tin và hợp tác, với bảng trắng và các biểu đồ thuyết phục minh họa, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, thể hiện tinh thần làm việc nhóm hiệu quả và thuyết phục thành công.

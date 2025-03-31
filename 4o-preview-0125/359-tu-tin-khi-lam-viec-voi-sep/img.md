@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tự tin trò chuyện với sếp trong văn phòng hiện đại. Các sinh viên thể hiện ngôn ngữ cơ thể tích cực, ánh mắt thân thiện và chuyên nghiệp. Phong cách 3D Render với màu sắc tươi sáng, tạo cảm giác hứng khởi và tự tin trong môi trường làm việc.

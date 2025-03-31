@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ cùng nhau lên kế hoạch chi tiêu trên bàn với các biểu đồ tài chính và danh sách ưu đãi, ánh mắt hào hứng và tự tin, trong một không gian hiện đại với phong cách đồ họa 3D Render, màu sắc tươi sáng và năng động, truyền tải thông điệp tiết kiệm thông minh.

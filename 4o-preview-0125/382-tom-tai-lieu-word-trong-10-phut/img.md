@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á chăm chú tóm tắt tài liệu trên máy tính xách tay và máy tính bảng, bên cạnh là một bảng trắng với mindmap và bullet points, phong cách đồ họa 3D Render hiện đại, màu sắc sáng tạo, tạo cảm giác sôi nổi, tập trung và hiệu quả trong học tập.

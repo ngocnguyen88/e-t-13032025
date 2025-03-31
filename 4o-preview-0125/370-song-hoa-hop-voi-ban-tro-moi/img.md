@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện vui vẻ trong phòng trọ, nét mặt thân thiện và hòa hợp. Xung quanh là những vật dụng sinh hoạt chung như bàn ăn, tivi, và các vật dụng cá nhân. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác gần gũi và ấm cúng, kích thích tinh thần sống hòa hợp.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang làm việc nhóm online, họp qua video call trên laptop, nét mặt tự tin và vui vẻ. Màn hình hiển thị các công cụ làm việc nhóm như bảng phân công công việc, chat nhóm. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, tạo cảm giác chuyên nghiệp và tích cực.

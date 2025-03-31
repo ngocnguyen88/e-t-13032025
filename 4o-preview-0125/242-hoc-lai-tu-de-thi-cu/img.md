@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú xem xét và ghi chú trên các đề thi cũ, với biểu đồ và các ký hiệu ôn tập nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác tập trung và hiệu quả.

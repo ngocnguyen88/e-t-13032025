@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú xem ghi chú, nét mặt tự tin và tập trung, với một bảng ghi chú lớn ở phía trước, sơ đồ tư duy và tài liệu học tập sắp xếp rõ ràng. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và năng động, tạo cảm giác tràn đầy năng lượng và cảm hứng học tập.

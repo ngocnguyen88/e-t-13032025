@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tham gia một cuộc gọi nhóm trực tuyến, mỗi người tự tin giao tiếp qua laptop với biểu cảm hào hứng. Cảnh nền là một không gian học tập hiện đại với các biểu tượng giao tiếp nổi bật, phong cách đồ họa 3D Render sống động, màu sắc tươi sáng, kích thích sự tự tin và năng động trong giao tiếp qua điện thoại.

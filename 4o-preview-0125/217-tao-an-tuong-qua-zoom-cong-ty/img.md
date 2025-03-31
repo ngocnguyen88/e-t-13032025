@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tham gia một cuộc họp Zoom, nét mặt tự tin, rạng rỡ. Trên màn hình có các biểu đồ, slide thuyết trình, biểu tượng Zoom nổi bật. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, tạo cảm giác chuyên nghiệp và hứng khởi trong giao tiếp trực tuyến.

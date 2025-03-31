@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú đọc báo cáo, nét mặt tập trung và tự tin. Trên bàn là laptop và tài liệu được đánh dấu rõ ràng, xung quanh có các biểu tượng tốc độ và đồng hồ, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, thể hiện tinh thần học tập nhanh chóng và hiệu quả.

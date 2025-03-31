@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt tập trung, chăm chú đọc tài liệu xung quanh bàn học, bên cạnh là những sơ đồ tư duy đầy màu sắc và sách vở, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, hấp dẫn, tạo cảm giác học tập tích cực và hiệu quả.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, vui vẻ, đang sử dụng máy tính xách tay và điện thoại để tham gia Google Meet, với các biểu tượng ứng dụng Google nổi bật xung quanh. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, thể hiện sự hợp tác và năng động trong học nhóm trực tuyến.

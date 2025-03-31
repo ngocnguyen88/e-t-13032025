@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi thành vòng tròn, cùng nhau chia sẻ và lắng nghe, với biểu cảm tự tin và thoải mái, bên cạnh là những biểu tượng cảm xúc tích cực, tất cả được thể hiện trong phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và sống động, tạo cảm giác ấm áp và khích lệ.

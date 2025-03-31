@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tham gia họp trực tuyến qua Teams, nét mặt tự tin và hào hứng, với máy tính và tai nghe, không khí năng động. Bối cảnh 3D Render hiện đại, màu sắc trẻ trung, tươi sáng, tạo cảm giác thân thiện và chuyên nghiệp.

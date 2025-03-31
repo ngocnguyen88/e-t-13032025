@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi hào hứng, nét mặt vui vẻ, tự tin với những biểu tượng liên quan đến giao tiếp hiệu quả và làm việc nhóm xung quanh. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền tải tinh thần hợp tác và khuyến khích năng động.

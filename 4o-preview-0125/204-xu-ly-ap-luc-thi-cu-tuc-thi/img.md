@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với nét mặt thư thái, tự tin, ngồi thiền hoặc thực hiện kỹ thuật thở sâu trong phòng học, xung quanh là không gian yên tĩnh với cây xanh và ánh sáng nhẹ nhàng. Phong cách đồ họa 3D Render hiện đại, màu sắc nhẹ nhàng, tạo cảm giác bình yên và thư giãn.

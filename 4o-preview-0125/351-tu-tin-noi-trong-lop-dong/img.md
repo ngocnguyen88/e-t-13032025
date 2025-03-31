@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đứng trước lớp học, ánh mắt tự tin, vui vẻ, với một sinh viên đang phát biểu trước lớp. Xung quanh là các bạn học chăm chú lắng nghe. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền cảm hứng tự tin cho người học.

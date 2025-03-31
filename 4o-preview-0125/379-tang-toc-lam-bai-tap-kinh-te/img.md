@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang tập trung làm bài tập trên máy tính với biểu đồ và công cụ hỗ trợ hiện lên trên màn hình, nét mặt tự tin, vui vẻ, xung quanh là sách vở và tài liệu kinh tế, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sinh động, khơi gợi tinh thần học tập hiệu quả và nhanh chóng.

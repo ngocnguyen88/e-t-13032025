@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng học tập, với các biểu đồ và số liệu nổi bật xung quanh họ. Họ sử dụng mindmap và flashcards, môi trường xung quanh sáng tạo và kích thích, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác năng động và lôi cuốn.

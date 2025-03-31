@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ trò chuyện với giảng viên, nét mặt hào hứng và tự tin, với những biểu tượng lời khen (như biểu tượng trái tim và ngôi sao) nổi bật xung quanh. Phong cách đồ họa 3D Render hiện đại, màu sắc ấm áp, gợi cảm giác thân thiện và gắn kết.

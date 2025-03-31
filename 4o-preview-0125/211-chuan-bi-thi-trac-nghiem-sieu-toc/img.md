@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tập trung, hào hứng làm bài thi trắc nghiệm với đồng hồ đếm ngược 12 phút nổi bật, xung quanh là các tài liệu ôn tập, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, năng động, thể hiện sự tự tin và quyết tâm.

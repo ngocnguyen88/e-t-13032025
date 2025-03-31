@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt rạng rỡ, hào hứng tham gia một buổi học tập qua Kahoot trên màn hình lớn, với điện thoại trên tay, màu sắc tươi sáng, phong cách đồ họa 3D Render hiện đại, mang lại cảm giác vui tươi và năng động.

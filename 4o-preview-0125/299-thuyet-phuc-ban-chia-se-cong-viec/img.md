@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trao đổi sôi nổi, trên bàn có các tờ giấy ghi chú, laptop và điện thoại, biểu cảm của họ rất tự tin và tích cực. Đồng hồ trên tường chỉ 12 phút, thể hiện thời gian học tập hiệu quả, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng và năng động.

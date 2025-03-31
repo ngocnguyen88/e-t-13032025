@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn học với các bài kiểm tra cũ trải ra, nét mặt chăm chú và tự tin, với các biểu đồ và kế hoạch học tập hiện lên trên laptop, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần học tập và khám phá kiến thức từ bài kiểm tra cũ.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đứng phát biểu trước một đám đông ảo, nét mặt tự tin, ánh đèn spotlight chiếu sáng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, không khí hội thảo sống động, tạo cảm giác sẵn sàng và tự tin khi phát biểu.

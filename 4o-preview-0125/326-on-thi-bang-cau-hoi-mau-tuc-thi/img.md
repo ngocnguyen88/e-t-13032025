@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú ôn tập với câu hỏi mẫu, nét mặt tự tin, xung quanh có các bảng ghi chú và tài liệu ôn tập rõ ràng, phong cách đồ họa 3D Render với màu sắc tươi sáng, hiện đại, tạo cảm giác năng động và hiệu quả.

@@ -1,0 +1,178 @@
+## ## Bài 1: Kỹ thuật đọc lướt và tìm ý chính
+
+Đã bao giờ bạn cảm thấy như mình đang lạc giữa biển chữ trong cuốn sách dày cộp, mà thời gian thì như đang vội vã trôi đi? Đừng lo, kỹ thuật đọc lướt sẽ giúp bạn **"bơi"** qua biển chữ ấy một cách nhẹ nhàng và nhanh chóng tìm ra ý chính!
+
+---
+
+### 📌 Kỹ thuật đọc lướt và tìm ý chính:
+
+**🔹 Đọc tiêu đề và phần tóm tắt:**
+Đầu tiên, hãy đọc tiêu đề, phụ đề và phần tóm tắt (nếu có) để nắm bắt chủ đề chính.  
+- Ví dụ: Tiêu đề "Tầm quan trọng của bảo vệ môi trường" cho thấy nội dung sẽ xoay quanh vấn đề môi trường.
+
+**🔹 Tìm câu chủ đề:**
+Mỗi đoạn thường có một câu chủ đề chứa ý chính, thường nằm ở đầu hoặc cuối đoạn.  
+- Ví dụ: "Việc bảo vệ rừng là cần thiết để duy trì hệ sinh thái" là câu chủ đề của một đoạn về bảo vệ rừng.
+
+**🔹 Chú ý từ khóa:**
+Tìm các từ khóa hoặc cụm từ được lặp lại nhiều lần, chúng thường chứa ý chính của văn bản.  
+- Ví dụ: Các từ như "bảo tồn", "khí hậu", "bền vững" sẽ xuất hiện nhiều trong văn bản về môi trường.
+
+**🔹 Đọc lướt:**
+Di chuyển mắt nhanh qua trang, chú ý đến các từ in đậm, in nghiêng, hoặc các danh sách gạch đầu dòng.  
+- Ví dụ: Đọc lướt qua một danh sách các lợi ích của việc bảo vệ môi trường.
+
+---
+
+### 🚀 Hành động:
+
+Hãy chọn một bài báo ngắn và thực hành kỹ thuật đọc lướt, tìm ý chính trong 5 phút.  
+Điều này sẽ giúp bạn **nắm bắt thông tin nhanh chóng và hiệu quả hơn**.
+
+Xác định xong rồi? Giờ đến bước thực hành ghi nhớ thông tin – xem ngay bài tiếp theo!
+
+---
+## ## Bài 2: Cách sử dụng tiêu đề và mục lục để tóm tắt nhanh  
+
+Bạn đã bao giờ cảm thấy như mình đang lạc trong một mê cung tài liệu mà không tìm được lối ra? Cứ lật từ trang này sang trang khác, mà thông tin thì vẫn cứ lẩn trốn! Đừng lo, dưới đây là cách sử dụng tiêu đề và mục lục để tóm tắt nhanh, giúp bạn tiết kiệm thời gian và công sức.
+
+---
+
+### 📌 Sử dụng tiêu đề và mục lục:
+
+**🔹 Khai thác mục lục:**
+- **Dùng mục lục như bản đồ**: Mục lục chính là bản đồ giúp bạn tìm đến thông tin cần thiết. Nhiều sinh viên đã thấy việc xem nhanh mục lục giúp họ định hướng nội dung cần đọc ngay lập tức.
+- **Chọn phần quan trọng**: Tập trung vào những phần có tiêu đề liên quan đến chủ đề bạn cần tìm hiểu.
+
+**🔹 Tận dụng tiêu đề:**
+- **Đọc tiêu đề chính và phụ**: Tiêu đề chính và phụ thường chứa đựng ý chính của đoạn văn. Đọc qua một lượt để nắm bắt nhanh nội dung.
+- **Ghi chú từ khóa dưới tiêu đề**: Khi đọc tiêu đề, hãy ghi chú từ khóa hoặc ý chính để dễ dàng ôn tập sau này.
+
+**🔹 Tóm tắt từ tiêu đề:**
+- **Sử dụng tiêu đề để tạo dàn ý**: Dùng tiêu đề để lập dàn ý cho bài tóm tắt, giúp bạn hệ thống hóa thông tin nhanh chóng.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thực hành ngay bằng cách **xem mục lục và tiêu đề của một chương sách** bạn đang học. Ghi chú lại những ý chính để giúp việc ôn tập trở nên dễ dàng hơn!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch cho việc học tập hiệu quả hơn – xem ngay bài tiếp theo!
+
+---
+## ## Bài 3: Phương pháp ghi chú nhanh chóng với Bullet Points
+
+Bạn đã bao giờ ngồi trong lớp học, giáo viên nói như gió, mà tay bạn cứ ghi chép như chạy marathon không? Đừng lo, phương pháp ghi chú bằng Bullet Points sẽ giúp bạn bắt kịp thông tin mà không cần phải "đốt ngón tay"!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Sử dụng Bullet Points:**
+- **Gạch đầu dòng:** Mỗi ý chính được tách biệt bằng một dấu gạch đầu dòng. Điều này giúp bạn dễ dàng phân loại và tổ chức thông tin. Ví dụ, khi ghi chú về một bài giảng, mỗi ý lớn có thể là một gạch đầu dòng.
+
+**🔹 Tóm tắt ngắn gọn:**
+- **Chỉ ghi ý chính:** Đừng ghi cả câu, chỉ cần từ khóa và ý chính. Nhiều sinh viên thấy rằng việc này giúp họ tiết kiệm đến 40% thời gian ghi chép!
+
+**🔹 Sử dụng ký hiệu và viết tắt:**
+- **Ký hiệu riêng:** Tạo ra các ký hiệu riêng cho những từ hoặc cụm từ thường xuyên xuất hiện. Điều này giúp tăng tốc độ ghi chú của bạn đáng kể.
+
+**🔹 Tổ chức thông tin:**
+- **Phân cấp thông tin:** Sử dụng các cấp độ Bullet Points để phân biệt ý chính và ý phụ. Ví dụ, ý phụ có thể được đẩy lùi vào trong một chút.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử **áp dụng phương pháp Bullet Points trong buổi học tiếp theo**. Ghi lại các ý chính bằng gạch đầu dòng và sử dụng ký hiệu riêng để tăng tốc độ ghi chú.
+
+Xác định được cách ghi chú nhanh rồi? Giờ thì hãy chuyển sang bài tiếp theo để học cách **tổ chức thông tin hiệu quả**! Đừng bỏ lỡ nhé!
+
+---
+## ## Bài 4: Sử dụng công cụ Highlighter để nắm bắt ý quan trọng
+
+Có bao giờ bạn cảm thấy như mình đang lạc trong biển chữ mà không biết đâu là bờ? Đừng lo, công cụ highlighter sẽ giúp bạn tỏa sáng như một ngôi sao trên bầu trời kiến thức, giúp bạn nắm bắt ý quan trọng nhanh chóng!
+
+---
+
+### 📌 Sử dụng Highlighter hiệu quả:
+
+**🔹 Chọn màu sắc phù hợp:**
+Nhiều sinh viên đã thấy rằng **màu sắc khác nhau** giúp phân biệt các loại thông tin dễ dàng hơn.
+- Ví dụ: Dùng màu vàng cho ý chính, màu xanh cho định nghĩa, và màu hồng cho ví dụ.
+
+**🔹 Chỉ tô sáng từ khóa:**
+Hãy tưởng tượng mình là một nghệ sĩ, chỉ chọn những chi tiết nổi bật nhất để tô sáng!
+- Đừng tô cả đoạn văn dài, chỉ chọn những **từ khóa hoặc cụm từ quan trọng**.
+
+**🔹 Đọc lại và kiểm tra:**
+Sau khi tô sáng, hãy đọc lại để chắc chắn bạn không bỏ sót điều gì quan trọng.
+- Điều này giúp bạn **nhớ lâu hơn và dễ dàng ôn tập sau này**.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi đọc tài liệu, hãy **dành 5 phút để sử dụng highlighter** và chọn màu sắc cho từng loại thông tin. Điều này sẽ giúp bạn **nắm bắt ý chính nhanh chóng và hiệu quả**!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch ôn tập và ghi nhớ – xem ngay bài tiếp theo nhé!
+
+---
+## ## Bài 5: Cách tóm tắt nội dung qua Mindmap trong 2 phút
+
+Bạn đã bao giờ cảm thấy như mình đang lạc lối giữa một rừng thông tin mà không biết cách nào để tóm tắt nhanh chóng chưa? Mindmap chính là công cụ kỳ diệu giúp bạn thu gọn thông tin và hiểu sâu hơn chỉ trong nháy mắt!
+
+---
+
+### 📌 Cách tóm tắt nội dung qua Mindmap:
+
+**🔹 Bắt đầu với chủ đề chính:**
+Hãy tưởng tượng Mindmap là một bản đồ kho báu, và chủ đề chính chính là viên ngọc quý nằm ở trung tâm. Nhiều sinh viên đã thấy rằng bắt đầu từ trung tâm giúp mở rộng ý tưởng dễ dàng hơn.
+
+**🔹 Phân nhánh theo các ý phụ:**
+Mỗi nhánh là một ý phụ quan trọng. Ví dụ, nếu bạn đang tóm tắt một bài học về "Sinh học", các nhánh có thể là "Cấu trúc tế bào", "Chức năng", "Quá trình sinh học" – từng nhánh sẽ có thông tin chi tiết.
+
+**🔹 Sử dụng hình ảnh và màu sắc:**
+Không cần phải là nghệ sĩ, nhưng việc sử dụng hình ảnh và màu sắc làm nổi bật các ý chính giúp nhớ lâu hơn. Hãy tưởng tượng mỗi nhánh là một màu sắc khác nhau trong cầu vồng kiến thức của bạn!
+
+**🔹 Kết nối các ý tưởng:**
+Đừng để các ý tưởng nằm riêng rẽ. Hãy kết nối chúng để tạo thành một bức tranh tổng thể. Cách này giúp bạn thấy rõ mối quan hệ giữa các phần và nắm bắt thông tin nhanh hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử tạo một Mindmap cho bài học hoặc tài liệu bạn đang nghiên cứu. Đảm bảo bạn sẽ thấy việc tóm tắt và hiểu sâu hơn trở nên dễ dàng và thú vị hơn!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để biết cách áp dụng Mindmap vào các lĩnh vực khác nhau nhé!
+
+---
+## ## Bài 6: Tổng kết khóa học – Tóm tắt hiệu quả, làm chủ tài liệu ngay!
+
+Bạn đã bao giờ cảm thấy như mình đang "chìm đắm" trong biển tài liệu mà không biết bắt đầu từ đâu? Những trang sách dày cộp cứ như muốn "nuốt chửng" bạn? Đừng lo, hôm nay chúng ta sẽ giúp bạn tóm tắt tài liệu một cách nhanh chóng để tự tin làm chủ kiến thức!
+
+---
+
+### 📌 Tóm tắt hiệu quả:
+
+**🔹 Sử dụng kỹ thuật "SQ3R":**
+Hãy áp dụng **SQ3R**: Survey (Khảo sát), Question (Đặt câu hỏi), Read (Đọc), Recite (Nhắc lại), Review (Ôn tập).  
+- Nhiều sinh viên đã thấy rằng **kỹ thuật này giúp ghi nhớ** và hiểu sâu hơn.
+
+**🔹 Tạo ghi chú thông minh:**
+Viết **ghi chú ngắn gọn** với từ khóa và ý chính.  
+- Cách này thường hiệu quả vì bạn **dễ dàng ôn tập** mà không cần đọc lại toàn bộ tài liệu.
+
+**🔹 Sử dụng sơ đồ tư duy:**
+Tạo **sơ đồ tư duy** để kết nối các ý chính và chi tiết.  
+- Ví dụ: Đối với một chủ đề, hãy vẽ các nhánh để thể hiện các khía cạnh khác nhau. Điều này giúp bạn **nhìn thấy tổng quan** và mối liên hệ.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử **áp dụng kỹ thuật SQ3R** cho một chương trong tài liệu hôm nay. Bạn sẽ thấy mình nhớ lâu hơn và tự tin hơn khi áp dụng kiến thức!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch học tập chi tiết – xem ngay bài tiếp theo nhé!
+
+---

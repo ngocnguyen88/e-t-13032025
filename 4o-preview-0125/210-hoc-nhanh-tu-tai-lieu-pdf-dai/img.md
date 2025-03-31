@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú nhìn vào màn hình máy tính với tài liệu PDF đang mở, có biểu đồ và ghi chú xuất hiện nổi bật, xung quanh là các công cụ hỗ trợ học tập hiện đại. Phong cách đồ họa 3D Render, màu sắc trẻ trung, sáng tạo, thể hiện tinh thần học tập hiệu quả và nhanh chóng.

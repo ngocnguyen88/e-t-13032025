@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang học nhóm tại công viên xanh mướt, nét mặt tươi cười, hào hứng, xung quanh là cây xanh và bàn ghế picnic. Phong cách đồ họa 3D Render hiện đại, tỉ lệ khung hình 16:9, màu sắc tươi sáng, trẻ trung, tạo cảm giác thoải mái và sáng tạo.

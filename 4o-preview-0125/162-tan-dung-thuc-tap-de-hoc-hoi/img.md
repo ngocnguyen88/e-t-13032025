@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt chăm chú, tự tin ngồi trong một văn phòng hiện đại, sử dụng laptop và tài liệu để thảo luận và học hỏi, có biểu tượng đồng hồ hiển thị 12 phút, phong cách đồ họa 3D Render tươi sáng, hiện đại, thể hiện tinh thần học tập nhanh và hiệu quả trong môi trường thực tế.

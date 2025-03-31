@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú nghe ghi âm qua tai nghe, với các thiết bị ghi âm hiện đại xung quanh, nét mặt tự tin, hào hứng. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, tạo cảm giác học tập hiệu quả và sáng tạo.

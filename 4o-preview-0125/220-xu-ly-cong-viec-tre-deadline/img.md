@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi tại bàn làm việc với biểu cảm tập trung, một bảng danh sách công việc ưu tiên và một chiếc đồng hồ bấm giờ nổi bật trên bàn. Không gian xung quanh tràn đầy năng lượng tích cực, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, khuyến khích tinh thần xử lý công việc hiệu quả.

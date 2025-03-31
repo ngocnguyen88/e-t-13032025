@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á, nét mặt tập trung, đang ngồi trước máy tính với mẫu CV tiếng Anh trên màn hình. Bên cạnh là các tài liệu hướng dẫn viết CV và bút dạ màu. Phong cách đồ họa 3D Render hiện đại, màu sắc hài hòa, tạo cảm giác chuyên nghiệp và hứng khởi cho việc viết CV nhanh chóng.

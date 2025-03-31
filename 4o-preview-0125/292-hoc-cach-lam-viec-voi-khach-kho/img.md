@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thực hành kỹ năng giao tiếp với nét mặt tự tin và tập trung, một khách hàng khó tính đang ngồi đối diện, không gian làm việc hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng và chuyên nghiệp, thể hiện sự tự tin và năng động trong công việc.

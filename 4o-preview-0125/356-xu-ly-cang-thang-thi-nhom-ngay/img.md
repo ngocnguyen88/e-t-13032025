@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cười nói, tươi tắn và tự tin làm việc cùng nhau tại một bàn học với laptop, đồng hồ đếm ngược, biểu đồ và biểu tượng hợp tác, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích tinh thần đoàn kết và học tập hiệu quả.

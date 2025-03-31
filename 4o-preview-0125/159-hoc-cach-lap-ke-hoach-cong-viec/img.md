@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang thảo luận sôi nổi quanh một bảng kế hoạch công việc, với máy tính, sổ tay và đồng hồ bấm giờ nổi bật. Các bạn sinh viên có vẻ mặt đầy tự tin và tập trung, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, kích thích cảm hứng học hỏi và thực hành.

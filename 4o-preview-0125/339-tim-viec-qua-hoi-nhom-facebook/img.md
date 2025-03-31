@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú nhìn vào màn hình laptop, với giao diện Facebook mở trên màn hình, hình ảnh các hội nhóm việc làm hiện rõ, nét mặt tập trung và quyết tâm, phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sinh động, thể hiện sự tự tin và quyết tâm tìm việc.

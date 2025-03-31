@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, hào hứng ngồi thành vòng tròn, một sinh viên đang chia sẻ ý kiến với nụ cười rạng rỡ, ánh mắt của các bạn khác chăm chú lắng nghe. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sống động, kích thích tinh thần học tập và chia sẻ ý tưởng.

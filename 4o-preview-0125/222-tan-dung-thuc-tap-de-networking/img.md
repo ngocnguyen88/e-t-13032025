@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng tham gia một buổi networking, với gương mặt rạng rỡ, tự tin bắt tay và trò chuyện với các đồng nghiệp trong một không gian văn phòng hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng, truyền cảm hứng cho việc xây dựng mối quan hệ chuyên nghiệp.

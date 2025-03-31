@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú học tập, mỗi người đều có một cuốn sổ ghi chú thông minh với sơ đồ tư duy, nét mặt tự tin và tập trung, không gian học tập hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng, thể hiện sự năng động và hiệu quả học tập.

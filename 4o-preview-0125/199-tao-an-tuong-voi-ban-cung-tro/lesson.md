@@ -1,0 +1,177 @@
+## ## Bài 1: Làm quen và chào hỏi - Ấn tượng từ giây đầu tiên
+
+Bạn có bao giờ cảm thấy ngượng ngùng khi phải bắt chuyện với người lạ? Hoặc tự hỏi làm thế nào để tạo ấn tượng tốt ngay từ giây đầu tiên? Đừng lo, chỉ với vài mẹo nhỏ dưới đây, bạn sẽ trở thành "ngôi sao" trong mọi cuộc gặp gỡ!
+
+---
+
+### 📌 Làm quen và chào hỏi:
+
+**🔹 Nụ cười tự nhiên:**
+Một nụ cười chân thành có thể **làm tan băng** trong mọi tình huống. Hãy nhớ, nụ cười là ngôn ngữ chung của tất cả mọi người. Ví dụ: "Gặp gỡ ai đó mới, hãy mỉm cười và chào họ một cách thân thiện."
+
+**🔹 Giới thiệu ngắn gọn:**
+Khi giới thiệu bản thân, hãy **ngắn gọn và rõ ràng**. Ví dụ: "Xin chào, tôi là An, làm việc trong lĩnh vực Marketing."
+
+**🔹 Lắng nghe và phản hồi:**
+Lắng nghe chủ động và phản hồi một cách chân thành là cách tuyệt vời để **tạo ấn tượng tốt**. Ví dụ: "Khi họ chia sẻ về sở thích của mình, hãy đặt câu hỏi hoặc chia sẻ ý kiến của bạn."
+
+**🔹 Giao tiếp bằng mắt:**
+Đừng quên **giao tiếp bằng mắt**, điều này thể hiện sự tự tin và tôn trọng người đối diện. Ví dụ: "Khi nói chuyện, hãy nhìn vào mắt đối phương để thể hiện sự chú ý."
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi gặp gỡ ai đó mới, hãy **thực hành nụ cười và giới thiệu bản thân** một cách tự tin. Điều này sẽ giúp bạn tạo ấn tượng tốt ngay từ giây đầu tiên.
+
+Xác định xong rồi? Giờ đến bước xây dựng mối quan hệ – xem ngay bài tiếp theo!
+
+---
+## ## Bài 2: Hiểu và tôn trọng không gian cá nhân của nhau
+
+Đã bao giờ bạn bước vào một cuộc trò chuyện mà cảm giác như mình đang xâm phạm lãnh thổ của người khác chưa? Tôn trọng không gian cá nhân không chỉ giúp bạn tránh những khoảnh khắc "đỏ mặt", mà còn tạo ra những mối quan hệ tốt đẹp hơn.
+
+---
+
+### 📌 Hiểu và tôn trọng không gian cá nhân:
+
+**🔹 Giữ khoảng cách hợp lý:**
+- Nhiều sinh viên đã thấy rằng giữ một khoảng cách khoảng một sải tay là đủ thoải mái để trò chuyện mà không gây khó chịu. Đừng đứng quá gần như thể bạn đang chuẩn bị thi đấu đấu vật!
+
+**🔹 Nhận biết tín hiệu không gian:**
+- Nếu ai đó lùi lại khi bạn tiến tới, hãy xem đó như một dấu hiệu để giữ khoảng cách. Điều này giúp tránh những tình huống khó xử.
+
+**🔹 Tôn trọng không gian làm việc:**
+- Đừng tự ý xâm phạm bàn làm việc của người khác. Hãy tưởng tượng bàn làm việc là một hòn đảo riêng tư, chỉ ghé thăm khi được mời.
+
+**🔹 Sử dụng ngôn ngữ cơ thể:**
+- Hãy sử dụng ngôn ngữ cơ thể để thể hiện sự tôn trọng, như gật đầu nhẹ hoặc sử dụng tay để chỉ hướng thay vì chạm vào người đối diện.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi gặp gỡ ai đó, hãy **chú ý đến khoảng cách và tín hiệu cơ thể của họ**. Điều này sẽ giúp bạn **xây dựng mối quan hệ tốt đẹp hơn và tránh những hiểu lầm không đáng có**.
+
+Hiểu và tôn trọng không gian cá nhân rồi? Giờ đến bước tạo dựng lòng tin – xem ngay bài tiếp theo!
+
+---
+## ## Bài 3: Kỹ năng giao tiếp cơ bản - Nói chuyện tự nhiên, tạo thiện cảm
+
+Đã bao giờ bạn thấy mình đứng trước một nhóm người và không biết phải nói gì, hoặc nói xong lại tự hỏi "Mình có gây thiện cảm không nhỉ?"? Đừng lo, vài mẹo nhỏ sau đây sẽ giúp bạn **"tỏa sáng"** trong mọi cuộc trò chuyện!
+
+---
+
+### 📌 Giao tiếp tự nhiên, tạo thiện cảm:
+
+**🔹 Đặt câu hỏi mở:**
+Câu hỏi mở là chìa khóa để duy trì cuộc trò chuyện.  
+- Thay vì hỏi "Bạn có khỏe không?", hãy thử "Hôm nay bạn đã làm điều gì thú vị chưa?"  
+- Cách này khiến người đối diện cảm thấy **thoải mái** và dễ dàng chia sẻ hơn.
+
+**🔹 Thể hiện ngôn ngữ cơ thể tích cực:**
+Ngôn ngữ cơ thể nói lên nhiều điều hơn bạn nghĩ.  
+- Hãy **mỉm cười**, **gật đầu**, và **duy trì giao tiếp mắt** để thể hiện bạn đang chú ý và quan tâm.  
+- Điều này giúp bạn tạo ra **ấn tượng tốt** ngay từ đầu.
+
+**🔹 Lắng nghe chân thành:**
+Nghe không chỉ là im lặng mà còn là **phản hồi** một cách chân thành.  
+- Ví dụ: Khi người khác chia sẻ, hãy đáp lại bằng những câu như "Ồ, thật thú vị!" hoặc "Mình cũng cảm thấy vậy."  
+- Điều này giúp người đối diện cảm thấy **được tôn trọng và kết nối**.
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy thử áp dụng một trong những mẹo trên trong cuộc trò chuyện tiếp theo của bạn và chú ý đến phản ứng của người đối diện.
+
+Xác định xong rồi? Giờ đến bước **nâng cao kỹ năng giao tiếp chuyên sâu** – xem ngay bài tiếp theo nhé! 🗨️
+
+---
+## ## Bài 4: Giải quyết xung đột nhỏ - Bình tĩnh và hiệu quả
+
+Có bao giờ bạn cảm thấy mình bị cuốn vào một xung đột nhỏ mà tưởng như đang ở trong một trận chiến lớn? Đừng lo, mọi chuyện không phải lúc nào cũng nghiêm trọng như vậy đâu. Hãy thử những cách sau để giải quyết xung đột nhỏ một cách bình tĩnh và hiệu quả.
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Tạm dừng để suy nghĩ:**
+- Khi xung đột xảy ra, hãy tạm dừng một chút để suy nghĩ. Hít thở sâu vài lần để giữ bình tĩnh. Nhiều sinh viên đã thấy rằng điều này giúp họ lấy lại sự sáng suốt và tập trung.
+
+**🔹 Lắng nghe chủ động:**
+- Hãy lắng nghe đối phương một cách chân thành, đừng chỉ chờ đến lượt mình nói. Điều này giúp bạn hiểu rõ hơn vấn đề và tìm ra giải pháp thích hợp.
+
+**🔹 Thể hiện sự đồng cảm:**
+- Hãy cho thấy bạn thực sự quan tâm đến cảm xúc của người khác. Ví dụ, một câu như "Mình hiểu cảm giác của bạn" có thể giúp xoa dịu tình hình.
+
+**🔹 Tìm giải pháp đôi bên cùng có lợi:**
+- Hãy cùng nhau tìm ra giải pháp mà cả hai đều cảm thấy hài lòng. Điều này giúp xung đột không chỉ được giải quyết mà còn củng cố mối quan hệ.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi gặp xung đột nhỏ, hãy áp dụng một trong những giải pháp trên. Bạn sẽ thấy mọi thứ được giải quyết một cách nhẹ nhàng hơn!
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch duy trì hòa khí trong nhóm** – xem ngay bài tiếp theo!
+
+---
+## ## Bài 5: Cùng chia sẻ và hợp tác - Xây dựng mối quan hệ bền vững
+
+Bạn đã bao giờ cảm thấy mình đang "đơn thương độc mã" trong việc xây dựng mối quan hệ? Đừng lo, việc chia sẻ và hợp tác không chỉ giúp bạn tìm được những người đồng hành mà còn tạo ra những mối quan hệ bền vững. Hãy cùng khám phá cách làm việc nhóm trở nên thú vị hơn nhé!
+
+---
+
+### 📌 Mẹo chia sẻ và hợp tác:
+
+**🔹 Chia sẻ kiến thức và kinh nghiệm:**
+- Đừng giữ kiến thức cho riêng mình! Nhiều sinh viên đã thấy rằng việc chia sẻ kiến thức giúp họ ghi điểm trong mắt người khác và mở rộng mạng lưới quan hệ. Ví dụ: Tham gia các buổi thảo luận nhóm và đóng góp ý kiến tích cực.
+
+**🔹 Tìm kiếm cơ hội hợp tác:**
+- Luôn mở rộng tầm mắt để tìm kiếm cơ hội hợp tác. Ví dụ: Tham gia các dự án nhóm hoặc câu lạc bộ để cùng nhau thực hiện các ý tưởng sáng tạo.
+
+**🔹 Lắng nghe và tôn trọng ý kiến:**
+- Hãy lắng nghe ý kiến của người khác và tôn trọng sự khác biệt. Điều này không chỉ giúp tạo ra môi trường làm việc hòa thuận mà còn khuyến khích sự sáng tạo.
+
+**🔹 Giữ liên lạc thường xuyên:**
+- Đừng để mối quan hệ "nguội lạnh". Gửi những lời hỏi thăm hoặc chia sẻ thông tin hữu ích để duy trì sự kết nối.
+
+---
+
+### 🚀 Hành động:
+
+Hãy chọn một đồng nghiệp hoặc bạn cùng lớp và mời họ tham gia một hoạt động nhóm hoặc dự án. Điều này sẽ giúp bạn xây dựng mối quan hệ bền vững và học hỏi thêm nhiều điều mới mẻ.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch hợp tác – xem ngay bài tiếp theo!
+
+---
+## ## Bài 6: Tổng kết khóa học - Tự tin sống hòa thuận với bạn trọ mới
+
+Bạn đã bao giờ cảm thấy như mình đang sống cùng với một người ngoài hành tinh khi có bạn trọ mới chưa? Mọi thứ đều mới lạ và có thể gây ra chút lúng túng. Đừng lo, với những mẹo sau, bạn sẽ trở thành "người đồng hành" lý tưởng chỉ trong nháy mắt!
+
+---
+
+### 📌 Tự tin sống hòa thuận với bạn trọ mới:
+
+**🔹 Giao tiếp rõ ràng:**
+- Nhiều sinh viên đã thấy rằng việc **giao tiếp rõ ràng** từ đầu giúp tránh những hiểu lầm không đáng có. Hãy thảo luận về những điều cơ bản như thời gian yên tĩnh, lịch vệ sinh chung, và thói quen cá nhân.
+
+**🔹 Thỏa thuận nguyên tắc chung:**
+- Hãy cùng nhau **thiết lập các nguyên tắc sống chung**. Ví dụ, ai sẽ dọn dẹp bếp sau khi nấu ăn, hoặc ai sẽ đổ rác vào ngày nào. Nghe có vẻ nhỏ nhặt, nhưng cách này thường hiệu quả để giữ gìn hòa bình.
+
+**🔹 Tôn trọng không gian riêng:**
+- Hãy tưởng tượng bạn làm thế này: Luôn tôn trọng không gian và thời gian riêng của bạn trọ. Đừng tự ý vào phòng của nhau và luôn thông báo trước khi có khách đến.
+
+**🔹 Tạo cơ hội gắn kết:**
+- Thỉnh thoảng, hãy cùng nhau làm gì đó vui vẻ như nấu ăn, xem phim hoặc tham gia hoạt động ngoài trời. Những trải nghiệm này sẽ giúp bạn và bạn trọ hiểu nhau hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy tổ chức một buổi tối nấu ăn chung với bạn trọ để làm quen và tạo không khí thân thiện ngay từ đầu. Bạn sẽ thấy sự khác biệt ngay lập tức!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch cho những hoạt động chung thú vị hơn – xem ngay bài tiếp theo nhé!
+
+---

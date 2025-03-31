@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt chăm chú, tự tin, đang làm việc trên máy tính với giao diện phần mềm thiết kế, xung quanh là các bản vẽ và bảng ý tưởng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khuyến khích sự sáng tạo và năng suất.

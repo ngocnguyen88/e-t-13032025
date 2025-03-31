@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang hào hứng trao đổi và làm việc cùng nhau quanh một bàn lớn, với biểu đồ công việc và ghi chú rõ ràng trên tường, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác năng động và đoàn kết trong nhóm.

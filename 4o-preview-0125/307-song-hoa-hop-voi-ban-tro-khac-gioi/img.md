@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang trò chuyện vui vẻ trong căn phòng trọ gọn gàng, tươi sáng. Biểu cảm trên gương mặt thể hiện sự hài lòng và hòa hợp. Phong cách đồ họa 3D Render, màu sắc nhẹ nhàng, tươi mới, mang lại cảm giác dễ chịu và thân thiện.

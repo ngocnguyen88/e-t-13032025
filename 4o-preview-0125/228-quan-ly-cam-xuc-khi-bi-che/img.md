@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á với biểu cảm tự tin, vui vẻ, đang ngồi trong một không gian học tập hiện đại, một bạn cầm tấm bảng với dòng chữ "Phản hồi là động lực", phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, truyền tải cảm giác tích cực và quyết tâm.

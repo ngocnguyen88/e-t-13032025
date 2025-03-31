@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang vui vẻ sắp xếp và dọn dẹp phòng trọ nhỏ, với không gian sống gọn gàng, sạch sẽ xung quanh. Cảm giác hài lòng và thư giãn hiện rõ trên nét mặt của họ, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thoải mái và ấm cúng trong không gian sống nhỏ.

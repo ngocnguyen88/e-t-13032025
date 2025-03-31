@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á tươi cười đang kiểm tra đồ dùng học tập mới mua, xung quanh là các sản phẩm học tập giá rẻ như sách, bút, máy tính, tất cả được bày trí hài hòa, đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thân thiện và hấp dẫn.

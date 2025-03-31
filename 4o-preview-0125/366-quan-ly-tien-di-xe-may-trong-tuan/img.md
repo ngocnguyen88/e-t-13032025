@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang đứng cạnh xe máy với biểu đồ chi tiêu tuần và ứng dụng quản lý tài chính trên điện thoại, nét mặt vui vẻ, tự tin. Phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, đầy sức sống, tạo cảm giác tiết kiệm và quản lý chi tiêu hiệu quả.

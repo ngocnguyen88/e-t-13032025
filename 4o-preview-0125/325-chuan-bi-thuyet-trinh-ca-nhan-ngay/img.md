@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt tự tin, hào hứng đứng trước bảng thuyết trình, sử dụng ngôn ngữ cơ thể mạnh mẽ, với bảng viết đầy màu sắc và slide trình chiếu hấp dẫn, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, khích lệ tinh thần thuyết trình đầy tự tin.

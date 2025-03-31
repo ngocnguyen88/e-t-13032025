@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang sử dụng máy tính, tập trung và sáng tạo để hoàn thiện portfolio, với các bản thiết kế hiển thị nổi bật trên màn hình, không gian làm việc hiện đại với phong cách đồ họa 3D Render, màu sắc tươi sáng, đầy cảm hứng sáng tạo.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú xem slide trên laptop, xung quanh là các từ điển và tài liệu hỗ trợ, trên màn hình máy tính hiện rõ các từ khóa được tô đậm. Phong cách 3D Render hiện đại, với màu sắc tươi sáng, thể hiện sự tập trung và tự tin của sinh viên trong việc học tập.

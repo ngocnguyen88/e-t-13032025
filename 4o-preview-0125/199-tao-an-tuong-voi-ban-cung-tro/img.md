@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Hai sinh viên châu Á (một nam, một nữ) đang cười nói vui vẻ trong phòng trọ, với các đồ dùng như sách, máy tính, và cây xanh xung quanh tạo cảm giác thân thiện. Phong cách đồ họa 3D Render, màu sắc ấm áp, tươi sáng, thể hiện sự hòa thuận và hợp tác.

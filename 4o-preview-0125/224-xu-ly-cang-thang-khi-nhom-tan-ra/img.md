@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt bình tĩnh, tự tin, ngồi quanh bàn học với một cuốn sổ ghi chép kế hoạch và laptop mở ra, trên màn hình là một biểu đồ kế hoạch học tập. Phong cách đồ họa 3D Render hiện đại, màu sắc trẻ trung, sáng tạo, khơi dậy tinh thần vượt qua thử thách, tiếp tục hành trình học tập hiệu quả.

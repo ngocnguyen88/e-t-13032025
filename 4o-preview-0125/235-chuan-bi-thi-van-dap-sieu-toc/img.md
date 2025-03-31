@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang luyện tập thi vấn đáp, nét mặt hào hứng và tự tin. Có một chiếc đồng hồ đếm ngược nổi bật, kèm theo các tài liệu ôn tập, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác hứng khởi và sẵn sàng cho kỳ thi.

@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á nét mặt hào hứng, đang sắp xếp đồ đạc trong phòng trọ nhỏ, với các kệ và hộp đựng đồ thông minh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác không gian sống gọn gàng, ngăn nắp và thoải mái.

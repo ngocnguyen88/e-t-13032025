@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á vui vẻ và tự tin khi giao tiếp với một khách hàng trong văn phòng hiện đại. Các sinh viên đang lắng nghe chăm chú và ghi chép, với một không gian làm việc mở hiện đại, phong cách đồ họa 3D Render, màu sắc tươi sáng, thân thiện và chuyên nghiệp.

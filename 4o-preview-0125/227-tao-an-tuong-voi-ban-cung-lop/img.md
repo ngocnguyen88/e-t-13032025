@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang cười nói vui vẻ trong một lớp học sáng sủa, với các biểu tượng giao tiếp như lời chào, dấu vân tay cá nhân nổi bật xung quanh, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác thân thiện và dễ gần.

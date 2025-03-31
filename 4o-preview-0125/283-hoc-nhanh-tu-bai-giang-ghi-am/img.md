@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang ngồi quanh bàn với tai nghe, máy tính bảng và sổ ghi chú, nét mặt tập trung và vui vẻ, xung quanh là biểu tượng âm thanh và sóng âm, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, tạo cảm giác học tập hiệu quả và thú vị.

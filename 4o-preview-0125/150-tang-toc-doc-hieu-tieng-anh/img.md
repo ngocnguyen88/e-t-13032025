@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang chăm chú đọc tài liệu tiếng Anh, nét mặt tự tin và hào hứng, với màn hình máy tính hiển thị các công cụ hỗ trợ đọc hiểu, sách và giấy ghi chú xếp gọn gàng, phong cách đồ họa 3D Render hiện đại, màu sắc tươi sáng, trẻ trung, tạo cảm giác năng động và hiệu quả trong học tập.

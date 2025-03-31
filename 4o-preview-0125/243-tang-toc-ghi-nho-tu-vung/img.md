@@ -1,0 +1,1 @@
+Hình ảnh minh họa: Một nhóm sinh viên châu Á đang học từ vựng với flashcard và ứng dụng trên điện thoại, nét mặt tập trung, vui vẻ. Bên cạnh là hình ảnh các từ vựng nổi bật, màu sắc tươi sáng và hiện đại, phong cách 3D Render, tạo cảm giác hứng khởi và động lực học tập.
