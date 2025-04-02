@@ -1,0 +1,201 @@
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 1: Hiểu nhanh vai trò của biên bản họp trong 2 phút
+
+Bạn có bao giờ cảm thấy như mình vừa ra khỏi một cuộc họp dài lê thê mà không nhớ rõ mình đã bàn về những gì? Đừng lo, biên bản họp chính là chiếc "nhật ký" giúp bạn ghi lại mọi điều quan trọng và đảm bảo không bỏ sót ý nào!
+
+---
+
+### 📌 Hiểu vai trò của biên bản họp:
+
+**🔹 Ghi lại thông tin quan trọng:**
+Nhiều sinh viên đã thấy rằng biên bản họp giúp ghi nhớ và lưu trữ tất cả những thông tin quan trọng được bàn luận.
+
+- Ví dụ: "Quyết định về việc phân bổ ngân sách cho dự án mới."
+
+**🔹 Theo dõi tiến độ công việc:**
+Cách này thường hiệu quả vì biên bản họp giúp xác định trách nhiệm và thời gian hoàn thành của từng nhiệm vụ.
+
+- Ví dụ: "Anh A sẽ hoàn thành bản báo cáo vào thứ Hai tuần tới."
+
+**🔹 Cung cấp bằng chứng:**
+Biên bản họp giống như một "bằng chứng" ghi lại những gì đã được thảo luận và quyết định, rất hữu ích nếu có tranh cãi sau này.
+
+- Ví dụ: "Đã thống nhất tăng ngân sách cho phòng marketing."
+
+**🔹 Cải thiện giao tiếp:**
+Hãy tưởng tượng bạn có một "tài liệu tham khảo" cho mọi cuộc họp – biên bản giúp mọi người cùng hiểu rõ và tránh hiểu lầm.
+
+- Ví dụ: "Các thành viên nhóm đều nhận được bản sao biên bản để tham khảo."
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử viết một biên bản họp cho buổi họp nhóm tiếp theo, ghi lại các quyết định và nhiệm vụ được giao.
+
+Hiểu rõ vai trò của biên bản họp rồi? Giờ đến bước cải thiện kỹ năng giao tiếp trong nhóm – xem ngay bài tiếp theo để làm việc nhóm hiệu quả hơn!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 2: Chuẩn bị trước khi họp - Những điều cần lưu ý  
+
+Bạn đã bao giờ bước vào một cuộc họp mà cảm giác như đang lạc vào rừng rậm không biết đường ra chưa? Đừng lo, với một vài mẹo chuẩn bị trước khi họp, bạn sẽ trở thành "thủ lĩnh họp hành" chỉ trong nháy mắt!
+
+---
+
+### 📌 Những điều cần lưu ý trước khi họp:
+
+**🔹 Xác định mục tiêu cuộc họp:**
+- Trước tiên, hãy xác định mục tiêu của cuộc họp. Ví dụ, "Đánh giá tiến độ dự án" hay "Thảo luận chiến lược kinh doanh". Điều này giúp bạn không bị lạc lối trong cuộc họp.
+
+**🔹 Chuẩn bị tài liệu cần thiết:**
+- Nhiều sinh viên đã thấy rằng việc chuẩn bị tài liệu trước giúp họ tự tin hơn. Hãy tưởng tượng bạn là Sherlock Holmes với mọi manh mối cần thiết trong tay!
+
+**🔹 Ghi chú điểm cần thảo luận:**
+- Hãy viết ra các điểm bạn muốn thảo luận hoặc hỏi trong cuộc họp. Đừng làm vậy không được, đợi đến khi cuộc họp kết thúc mới nhớ ra thì đã muộn!
+
+**🔹 Kiểm tra thiết bị kỹ thuật:**
+- Nếu cuộc họp trực tuyến, hãy kiểm tra thiết bị và kết nối internet trước để tránh "ngượng ngùng" khi không thể tham gia.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử ngay bằng cách **chuẩn bị một danh sách các điểm cần thảo luận** cho cuộc họp tiếp theo.
+
+Xác định xong rồi? Giờ đến bước thực hiện trong cuộc họp – xem ngay bài tiếp theo để biết cách tham gia họp hiệu quả hơn!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 3: Cách ghi chép thông tin chính xác, ngắn gọn
+
+Bạn có bao giờ cảm thấy như mình đang cố gắng viết một cuốn tiểu thuyết khi chỉ cần ghi chú cho một buổi học? Đừng để ghi chú của bạn trở thành một "bài thơ dài không hồi kết"! Hãy cùng khám phá cách ghi chép thông tin chính xác và ngắn gọn nhé!
+
+---
+
+### 📌 Giải pháp ghi chép thông tin:
+
+**🔹 Sử dụng từ khóa:**
+- **Ghi chú bằng từ khóa chính**, không cần viết cả câu. Ví dụ: thay vì viết "Nước sôi ở 100 độ C", chỉ cần "Nước sôi: 100°C".
+
+**🔹 Sử dụng ký hiệu:**
+- **Dùng ký hiệu và viết tắt** để tiết kiệm thời gian. Ví dụ: "+" cho "và", "-" cho "không".
+
+**🔹 Tạo cấu trúc rõ ràng:**
+- **Sắp xếp thông tin theo dạng bullet hoặc số thứ tự** để dễ theo dõi. Điều này giúp bạn dễ dàng tìm lại thông tin sau này.
+
+**🔹 Ghi chép theo ý chính:**
+- **Tập trung vào ý chính và bỏ qua chi tiết không cần thiết**. Hãy tưởng tượng bạn đang viết tóm tắt cho một bộ phim!
+
+**🔹 Sử dụng màu sắc:**
+- **Đánh dấu các phần quan trọng bằng màu sắc khác nhau**. Màu sắc giúp bạn nhận ra thông tin quan trọng ngay lập tức.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **thử ghi chép một bài giảng ngắn** bằng cách áp dụng các kỹ thuật trên. Cảm nhận sự khác biệt khi ghi chú của bạn trở nên rõ ràng và dễ hiểu!
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch ôn tập chi tiết** – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 4: Sắp xếp và trình bày biên bản họp chuyên nghiệp
+
+Bạn có từng cảm thấy như mình đang cố gắng đọc một cuốn sách mà không có mục lục khi xem lại biên bản họp? Đừng lo, cách sắp xếp và trình bày biên bản họp chuyên nghiệp sẽ giúp bạn biến "mớ hỗn độn" thành một tài liệu dễ hiểu và rõ ràng!
+
+---
+
+### 📌 Sắp xếp và trình bày biên bản họp:
+
+**🔹 Bắt đầu với thông tin cơ bản:**
+- **Đừng quên "lời giới thiệu":** Đảm bảo biên bản họp của bạn bắt đầu với ngày, giờ, địa điểm và danh sách người tham dự. Điều này giúp người đọc dễ dàng theo dõi và biết bối cảnh cuộc họp.
+
+**🔹 Sử dụng tiêu đề và số thứ tự:**
+- **Phân chia rõ ràng từng phần:** Nhiều người thấy rằng việc sử dụng tiêu đề và số thứ tự giúp biên bản họp trở nên dễ đọc hơn. Ví dụ, sử dụng các mục như "Nội dung thảo luận", "Quyết định", và "Hành động cần thực hiện".
+
+**🔹 Tóm tắt ý chính:**
+- **Đừng viết cả "bài diễn văn":** Tóm tắt ý chính và quyết định quan trọng. Sử dụng gạch đầu dòng để làm rõ các điểm chính và đảm bảo không bỏ sót thông tin quan trọng.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi viết biên bản họp, hãy **sử dụng tiêu đề và số thứ tự để tổ chức nội dung**. Điều này sẽ giúp biên bản trở nên rõ ràng và dễ hiểu hơn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 5: Mẹo kiểm tra và chỉnh sửa biên bản để đạt độ chính xác cao
+
+Bạn đã bao giờ viết xong một biên bản mà cảm thấy như mình vừa viết một cuốn tiểu thuyết không? Đừng lo, nhiều người cũng thấy như vậy! Bí quyết để đạt độ chính xác cao là kiểm tra và chỉnh sửa một cách thông minh. Hãy cùng khám phá cách làm cho biên bản của bạn trở nên hoàn hảo hơn nhé!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Đọc lại với góc nhìn khách quan:**
+
+- Nhiều người đã thấy rằng việc đọc lại biên bản như thể bạn là một người ngoài cuộc giúp phát hiện những lỗi nhỏ mà bạn có thể bỏ qua.  
+- Ví dụ: Đọc to biên bản để dễ dàng nhận ra các lỗi về ngữ điệu và cấu trúc câu.
+
+**🔹 Sử dụng công cụ kiểm tra chính tả và ngữ pháp:**
+
+- Các công cụ như **Grammarly** hay **Microsoft Word** có thể giúp bạn phát hiện lỗi chính tả và ngữ pháp nhanh chóng.  
+- Mẹo nhỏ: Trước khi gửi đi, hãy chạy qua một lượt với công cụ này để đảm bảo không còn lỗi nào.
+
+**🔹 Kiểm tra thông tin thực tế:**
+
+- Đảm bảo rằng tất cả thông tin trong biên bản đều chính xác và nhất quán.  
+- Ví dụ: Kiểm tra lại số liệu, ngày tháng và tên riêng để đảm bảo không có sai sót nào.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử sử dụng Grammarly để kiểm tra một biên bản bạn đã viết. Điều này sẽ giúp bạn nhận ra những lỗi mà mình có thể đã bỏ sót.
+
+Xác định xong rồi? Giờ thì hãy học cách lập kế hoạch viết hiệu quả – xem ngay bài tiếp theo nhé!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 6: Tổng kết khóa học – Nắm vững kỹ năng, tự tin ghi biên bản!
+
+Bạn có bao giờ cảm thấy như mình đang cố bắt những chú bướm bay loạn xạ khi phải ghi biên bản cuộc họp? Mọi thứ diễn ra quá nhanh và bạn không biết làm sao để ghi lại tất cả mọi thứ? Đừng lo, với những mẹo dưới đây, bạn sẽ trở thành "bậc thầy" trong việc ghi biên bản!
+
+---
+
+### 📌 Bí quyết ghi biên bản tự tin:
+
+**🔹 Chuẩn bị trước cuộc họp:**
+- Đừng để mình "chơi vơi"! Hãy chuẩn bị một dàn ý cơ bản về các mục cần ghi lại, như thời gian, địa điểm, người tham gia, và các chủ đề chính.
+
+**🔹 Tập trung vào ý chính:**
+- Đừng cố ghi lại từng từ một. Nhiều sinh viên thấy rằng tập trung vào các quyết định, hành động và ý kiến chính giúp họ tiết kiệm thời gian và không bỏ sót thông tin quan trọng.
+
+**🔹 Sử dụng ký hiệu viết tắt:**
+- Hãy tạo ra một hệ thống ký hiệu viết tắt riêng để ghi nhanh hơn. Ví dụ, "QĐ" cho quyết định, "HV" cho hành vi.
+
+**🔹 Đọc lại và chỉnh sửa:**
+- Sau cuộc họp, hãy dành thời gian để đọc lại và chỉnh sửa biên bản. Điều này giúp bạn đảm bảo tính chính xác và dễ hiểu của tài liệu.
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy chuẩn bị một dàn ý cho biên bản cuộc họp tiếp theo của bạn. Điều này sẽ giúp bạn tự tin hơn khi ghi chép và tránh bỏ sót thông tin quan trọng.
+
+Giờ thì bạn đã sẵn sàng để "chinh phục" mọi biên bản cuộc họp rồi đấy! Đừng quên, bài học tiếp theo sẽ giúp bạn tối ưu hóa kỹ năng tổ chức cuộc họp hiệu quả. Đừng bỏ lỡ nhé!
+

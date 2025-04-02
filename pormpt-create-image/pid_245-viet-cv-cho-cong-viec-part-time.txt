@@ -1,0 +1,198 @@
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 1: Hiểu nhanh cấu trúc CV chuẩn - Tạo nền tảng vững chắc
+
+Bạn có bao giờ cảm thấy như mình đang cố gắng xếp một chiếc bánh sandwich mà không biết nên đặt lớp nào trước? Việc viết CV cũng tương tự như vậy: nếu bạn không sắp xếp đúng thứ tự, nhà tuyển dụng có thể sẽ "no bụng" mà chẳng thèm đọc tiếp. Hãy cùng khám phá cách làm cho CV của bạn trở nên ngon lành hơn!
+
+---
+
+### 📌 Hiểu nhanh cấu trúc CV chuẩn:
+
+**🔹 Thông tin cá nhân và liên hệ:**
+Đừng quên để lại dấu vết! Nhiều sinh viên đã thấy rằng việc thiếu thông tin liên hệ khiến nhà tuyển dụng không thể tìm thấy bạn.
+
+- Ví dụ: Hãy chắc chắn bạn đã ghi rõ tên, số điện thoại và email.
+
+**🔹 Mục tiêu nghề nghiệp:**
+Một mục tiêu rõ ràng như kim chỉ nam giúp nhà tuyển dụng biết bạn đang hướng tới đâu.
+
+- Ví dụ: "Tìm kiếm vị trí thực tập sinh trong lĩnh vực marketing để phát triển kỹ năng sáng tạo."
+
+**🔹 Kinh nghiệm làm việc:**
+Hãy tưởng tượng bạn đang kể một câu chuyện. Trình bày kinh nghiệm từ gần nhất đến xa nhất, và nhớ nêu rõ thành tựu cụ thể.
+
+- Ví dụ: "Tăng doanh số bán hàng lên 20% trong 6 tháng tại Công ty ABC."
+
+**🔹 Học vấn và kỹ năng:**
+Đây là phần giúp bạn tỏa sáng! Hãy liệt kê các bằng cấp và kỹ năng nổi bật mà bạn có.
+
+- Ví dụ: Bằng cử nhân Quản trị Kinh doanh, kỹ năng giao tiếp tốt.
+
+---
+
+### 🚀 Hành động:
+
+Hãy lấy CV của bạn ra và kiểm tra xem đã có đủ các phần cần thiết chưa. Nếu thiếu, hãy bổ sung ngay!
+
+Xác định xong cấu trúc CV rồi? Giờ đến bước làm cho CV thật nổi bật – xem ngay bài tiếp theo để biết cách tạo ấn tượng mạnh với nhà tuyển dụng!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 2: Cách chọn lọc thông tin cá nhân - Nổi bật ưu điểm cá nhân  
+
+Bạn đã bao giờ cố gắng viết một bản CV mà cảm giác như đang kể lại cả cuốn tiểu thuyết cuộc đời mình chưa? Đừng lo, với vài mẹo nhỏ dưới đây, bạn sẽ biến CV thành bản tóm tắt hấp dẫn mà nhà tuyển dụng không thể cưỡng lại!
+
+---
+
+### 📌 Cách chọn lọc thông tin cá nhân:
+
+**🔹 Xác định mục tiêu:**
+- Đầu tiên, hãy xác định rõ mục tiêu nghề nghiệp của bạn. Điều này giúp bạn chọn lọc thông tin phù hợp. Ví dụ, nếu mục tiêu là trở thành nhà thiết kế đồ họa, hãy nhấn mạnh kỹ năng Photoshop và Illustrator thay vì khả năng nấu ăn ngon!
+
+**🔹 Tập trung vào thành tựu nổi bật:**
+- Thay vì liệt kê tất cả công việc bạn đã từng làm, hãy chọn ra những thành tựu nổi bật nhất. Ví dụ, "Tăng doanh số bán hàng lên 30% trong vòng 6 tháng" nghe hấp dẫn hơn nhiều so với "Bán hàng tại cửa hàng ABC."
+
+**🔹 Chọn lọc thông tin liên quan:**
+- Đừng đưa vào những thông tin không liên quan đến vị trí ứng tuyển. Ví dụ, kỹ năng làm bánh giỏi chắc chắn không cần thiết cho vị trí lập trình viên đâu!
+
+**🔹 Sử dụng từ khóa cụ thể:**
+- Sử dụng từ khóa liên quan đến ngành nghề bạn ứng tuyển. Nhà tuyển dụng thường tìm kiếm từ khóa này trong CV để nhanh chóng tìm ra ứng viên phù hợp.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử ngay bằng cách **chọn lọc 3 thành tựu nổi bật nhất của bạn** và viết vào CV. 
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch phát triển kỹ năng – xem ngay bài tiếp theo để biết cách nâng cao kỹ năng chuyên môn của bạn!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 3: Bí quyết viết mục tiêu nghề nghiệp ngắn gọn, hấp dẫn
+
+Bạn có bao giờ cảm thấy như đang viết một bài văn luận khi chỉ cần viết mục tiêu nghề nghiệp? Đôi khi chỉ muốn nói "Tôi muốn một công việc tốt", nhưng làm vậy không được đâu! Hãy cùng biến mục tiêu nghề nghiệp của bạn thành một câu chuyện cuốn hút nhà tuyển dụng nhé!
+
+---
+
+### 📌 Giải pháp viết mục tiêu nghề nghiệp:
+
+**🔹 Ngắn gọn nhưng súc tích:**
+- **Giữ cho mục tiêu của bạn dưới 2 câu**, nhưng vẫn phải truyền tải đủ thông điệp. Ví dụ: "Tôi tìm kiếm cơ hội phát triển kỹ năng quản lý dự án trong môi trường sáng tạo."
+
+**🔹 Tập trung vào giá trị:**
+- **Nhấn mạnh giá trị bạn mang lại** cho công ty. Ví dụ: "Tôi mong muốn áp dụng kinh nghiệm trong quản lý nhóm để tăng hiệu quả công việc."
+
+**🔹 Thể hiện đam mê:**
+- **Đưa đam mê vào mục tiêu**. Nhiều sinh viên thấy rằng sự nhiệt huyết có thể tạo ấn tượng mạnh mẽ. Ví dụ: "Tôi đam mê sáng tạo và mong muốn góp phần phát triển sản phẩm đột phá."
+
+**🔹 Phù hợp với vị trí ứng tuyển:**
+- **Điều chỉnh mục tiêu** để phù hợp với từng công việc cụ thể. Hãy tưởng tượng bạn đang viết một bức thư tình cho công việc mơ ước!
+
+---
+
+### 🚀 Hành động:
+
+Hãy **viết lại mục tiêu nghề nghiệp của bạn** dựa trên những bí quyết trên. Đọc lại và đảm bảo rằng nó thực sự nổi bật!
+
+Xác định mục tiêu xong rồi? Giờ đến bước **lên kế hoạch phát triển bản thân** – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 4: Kỹ thuật ghi rõ kinh nghiệm và kỹ năng - Đánh trúng nhu cầu nhà tuyển dụng
+
+Bạn có từng cảm thấy như mình đang viết một "cuốn tiểu thuyết dài lê thê" khi mô tả kinh nghiệm và kỹ năng trong CV? Đừng lo, có cách giúp bạn biến bản CV của mình thành "tấm vé vàng" thu hút nhà tuyển dụng!
+
+---
+
+### 📌 Kỹ thuật ghi rõ kinh nghiệm và kỹ năng:
+
+**🔹 Tập trung vào từ khóa:**
+- **Nghiên cứu tin tuyển dụng:** Đọc kỹ mô tả công việc và tìm ra các từ khóa quan trọng. Nhiều sinh viên thấy rằng việc sử dụng từ khóa này giúp CV nổi bật hơn trong mắt nhà tuyển dụng.
+
+**🔹 Nêu rõ kết quả cụ thể:**
+- **Sử dụng số liệu:** Thay vì chỉ nói "Quản lý dự án", hãy viết "Quản lý dự án A giúp tăng doanh thu 20% trong 6 tháng". Cách này thường hiệu quả vì nó cho thấy bạn thực sự tạo ra giá trị.
+
+**🔹 Liệt kê kỹ năng liên quan:**
+- **Chọn kỹ năng phù hợp:** Không cần liệt kê tất cả kỹ năng của bạn, chỉ cần tập trung vào những kỹ năng phù hợp với công việc đang ứng tuyển.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi cập nhật CV, hãy **chọn 3 từ khóa quan trọng từ tin tuyển dụng và làm nổi bật chúng** trong phần kinh nghiệm và kỹ năng của bạn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 5: Mẹo trình bày CV đẹp mắt, chuyên nghiệp chỉ trong 2 phút
+
+Bạn đã bao giờ cảm thấy như CV của mình là một bức tranh hỗn độn không đầu không đuôi? Đừng lo, nhiều người cũng thế! Bí quyết để CV của bạn nổi bật chỉ trong 2 phút là gì? Hãy cùng khám phá những mẹo sau đây nhé!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Chọn mẫu CV tinh tế:**
+
+- Nhiều ứng viên đã thấy rằng việc sử dụng mẫu CV từ **Canva** hay **Google Docs** giúp họ có một nền tảng chuyên nghiệp ngay từ đầu.  
+- Ví dụ: Chọn mẫu có bố cục rõ ràng, dễ đọc và phù hợp với ngành nghề của bạn.
+
+**🔹 Tập trung vào nội dung quan trọng:**
+
+- Hãy nhớ rằng nhà tuyển dụng chỉ dành vài giây để lướt qua CV của bạn. Tập trung vào các thành tựu và kỹ năng nổi bật nhất.  
+- Mẹo nhỏ: Sử dụng các gạch đầu dòng để làm nổi bật nội dung quan trọng.
+
+**🔹 Sử dụng từ khóa phù hợp:**
+
+- Đọc kỹ mô tả công việc và chèn từ khóa vào CV của bạn. Điều này không chỉ giúp CV dễ lọt vào mắt xanh của nhà tuyển dụng mà còn qua được các hệ thống lọc tự động.  
+- Ví dụ: Nếu công việc yêu cầu kỹ năng "quản lý dự án", hãy chắc chắn bạn đã có cụm từ này trong CV.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy chọn một mẫu CV từ Canva và bắt đầu chỉnh sửa để làm nổi bật những kỹ năng và thành tựu của bạn. Điều này sẽ giúp bạn tự tin hơn khi ứng tuyển.
+
+Hoàn thành CV xong rồi? Giờ thì đến lúc chuẩn bị cho buổi phỏng vấn – xem ngay bài tiếp theo nhé!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 6: Tổng kết khóa học – Tóm gọn kiến thức, tự tin nộp CV!
+
+Bạn có từng cảm thấy việc tóm tắt tất cả những gì mình đã học và trải nghiệm vào một tờ CV nhỏ bé là điều bất khả thi? Tưởng tượng mình đang viết một cuốn tiểu thuyết dài tập chứ không phải là CV! Đừng lo, với những mẹo dưới đây, bạn sẽ "nén" được cả một "vũ trụ" kiến thức vào chiếc CV nhỏ gọn một cách dễ dàng.
+
+---
+
+### 📌 Bí quyết tóm gọn kiến thức vào CV:
+
+**🔹 Chọn lọc thông tin:**
+- Chỉ chọn những kỹ năng và kinh nghiệm liên quan nhất đến vị trí bạn ứng tuyển. Ví dụ, nếu ứng tuyển vào vị trí marketing, hãy tập trung vào kinh nghiệm làm việc nhóm, kỹ năng giao tiếp và các dự án marketing bạn đã tham gia.
+
+**🔹 Sử dụng từ khóa:**
+- Tìm kiếm từ khóa quan trọng trong mô tả công việc và chèn chúng vào CV của bạn. Nhiều nhà tuyển dụng sử dụng phần mềm để lọc CV theo từ khóa, vì vậy điều này sẽ giúp CV của bạn nổi bật hơn.
+
+**🔹 Sử dụng số liệu cụ thể:**
+- Thay vì nói "cải thiện doanh số", hãy nói "cải thiện doanh số lên 20% trong 3 tháng". Những con số cụ thể tạo ấn tượng mạnh mẽ và chứng minh được khả năng của bạn.
+
+**🔹 Ngắn gọn và súc tích:**
+- CV không nên dài quá 2 trang. Hãy đảm bảo mỗi câu đều mang lại giá trị và loại bỏ những thông tin không cần thiết.
+
+---
+
+### 🚀 Hành động:
+
+Hãy dành 15 phút để rà soát lại CV của bạn, loại bỏ những thông tin không liên quan và bổ sung các từ khóa quan trọng. Điều này sẽ giúp bạn tự tin hơn khi nộp CV.
+
+Giờ thì bạn đã có một CV "chất như nước cất" rồi đấy! Hãy tiếp tục với bài học tiếp theo để tìm hiểu cách chuẩn bị cho buổi phỏng vấn. Đừng bỏ lỡ nhé!
+

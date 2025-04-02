@@ -1,0 +1,194 @@
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 1: Giới thiệu sơ đồ tư duy và lợi ích trong ôn thi (2 phút)
+
+Bạn có bao giờ cảm thấy như mình đang bơi trong biển thông tin và không biết làm thế nào để nắm bắt tất cả? Đừng để kiến thức lộn xộn làm bạn bối rối! Hãy khám phá sức mạnh của sơ đồ tư duy để giúp bạn ôn thi hiệu quả và thú vị hơn!
+
+---
+
+### 📌 Lợi ích của sơ đồ tư duy:
+
+**🔹 Tạo mối liên kết:**
+Sơ đồ tư duy giúp bạn kết nối các ý tưởng và thông tin với nhau một cách trực quan. Nhiều sinh viên thấy rằng việc này giúp họ dễ dàng nhớ bài hơn và thấy toàn cảnh bức tranh kiến thức.
+
+**🔹 Tăng cường trí nhớ:**
+Với các hình ảnh và màu sắc, sơ đồ tư duy giúp kích thích não bộ và tăng cường khả năng ghi nhớ. Ví dụ: khi ôn thi môn lịch sử, bạn có thể dùng sơ đồ tư duy để kết nối các sự kiện theo dòng thời gian.
+
+**🔹 Tập trung vào ý chính:**
+Thay vì đọc đi đọc lại từng trang sách, sơ đồ tư duy giúp bạn tập trung vào những ý chính và thông tin quan trọng. Điều này giúp tiết kiệm thời gian ôn tập đáng kể.
+
+**🔹 Khuyến khích sự sáng tạo:**
+Việc tạo sơ đồ tư duy không chỉ giúp học mà còn kích thích sự sáng tạo của bạn. Bạn có thể thêm hình ảnh, biểu tượng để làm cho nó sinh động hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **thử tạo một sơ đồ tư duy** cho một chủ đề bạn đang ôn tập. Điều này sẽ giúp bạn **nắm bắt thông tin nhanh chóng và hiệu quả**.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 2: Cách tạo sơ đồ tư duy chỉ trong 2 phút  
+
+Bạn đã bao giờ cảm thấy mình đang cố nhét hàng trăm thông tin vào đầu mà không biết sắp xếp thế nào cho gọn gàng? Đừng lo, sơ đồ tư duy sẽ giúp bạn **biến mớ hỗn độn thành một bức tranh rõ ràng** chỉ trong 2 phút!  
+
+---
+
+### 📌 Cách tạo sơ đồ tư duy:  
+
+**🔹 Bắt đầu với ý chính:**
+- Đặt ý chính hoặc chủ đề vào trung tâm của tờ giấy. Nhiều sinh viên thấy rằng viết to và rõ ràng giúp tập trung hơn. Ví dụ: "Dự án học kỳ".
+
+**🔹 Tạo các nhánh chính:**
+- Từ ý chính, vẽ các nhánh lớn cho các ý phụ hoặc các phần chính. Mỗi nhánh là một chủ đề con. Ví dụ: "Mục tiêu", "Thời gian", "Tài liệu".
+
+**🔹 Thêm chi tiết:**
+- Từ các nhánh chính, vẽ thêm các nhánh nhỏ để đi sâu vào chi tiết. Sử dụng từ khóa ngắn gọn để ghi chú. Ví dụ: dưới "Thời gian" có "Lên kế hoạch hàng tuần".
+
+**🔹 Sử dụng màu sắc và hình ảnh:**
+- Thêm màu sắc và hình ảnh để tạo sự sinh động và dễ nhớ hơn. Màu sắc giúp phân biệt các phần và hình ảnh giúp kích thích trí nhớ.  
+
+---
+
+### 🚀 Hành động:  
+
+Hãy **chọn một chủ đề học tập và tạo sơ đồ tư duy** ngay bây giờ để thử nghiệm.  
+
+Xác định xong rồi? Giờ đến lúc **lên kế hoạch học tập chi tiết từ sơ đồ này** – xem ngay bài tiếp theo!  
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 3: Kỹ thuật chọn lọc thông tin quan trọng cho sơ đồ
+
+Bạn đã bao giờ nhìn vào sơ đồ của mình và cảm thấy như đang nhìn vào một bản đồ kho báu không có chỉ dẫn? Đừng lo, kỹ thuật chọn lọc thông tin sẽ giúp bạn tạo ra những sơ đồ rõ ràng, súc tích, và dễ hiểu hơn bao giờ hết!
+
+---
+
+### 📌 Kỹ thuật chọn lọc thông tin quan trọng:
+
+**🔹 Xác định mục tiêu của sơ đồ:**
+Trước khi bắt đầu, hãy xác định mục tiêu của sơ đồ để biết thông tin nào là cần thiết.  
+- Ví dụ: Nếu sơ đồ nhằm tóm tắt một chương sách, hãy tập trung vào các ý chính và luận điểm quan trọng.  
+
+**🔹 Tìm kiếm từ khóa và ý chính:**
+Nhiều sinh viên đã thấy rằng tập trung vào từ khóa và ý chính giúp sơ đồ trở nên gọn gàng và dễ nhớ.  
+- Ví dụ: Trong một bài giảng về sinh học, từ khóa có thể là "quang hợp", "hô hấp", "di truyền".  
+
+**🔹 Sử dụng cấu trúc phân tầng:**
+Sắp xếp thông tin từ tổng quát đến chi tiết theo dạng cây hoặc bảng để dễ dàng theo dõi.  
+- Ví dụ: Bắt đầu với chủ đề chính ở trung tâm, sau đó mở rộng ra các ý phụ.  
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **chọn một chủ đề và tạo sơ đồ** bằng cách sử dụng kỹ thuật chọn lọc thông tin. Bạn sẽ thấy thông tin trở nên rõ ràng và dễ hiểu hơn!
+
+Xác định xong rồi? Giờ đến bước nâng cao kỹ năng sử dụng sơ đồ – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 4: Cách sử dụng sơ đồ tư duy để ghi nhớ nhanh
+
+Bạn đã bao giờ cảm thấy như mình đang cố gắng nhồi nhét hàng tấn thông tin vào đầu mà không nhớ nổi gì? Đừng lo, sơ đồ tư duy chính là "phao cứu sinh" giúp bạn ghi nhớ nhanh chóng và hiệu quả hơn!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Bắt đầu từ trung tâm:**
+Hãy tưởng tượng bạn đang vẽ một cái cây – ý chính là thân cây. Đặt ý chính ở trung tâm của trang giấy, từ đó phát triển các nhánh nhỏ xung quanh.
+
+**🔹 Phân nhánh thông tin:**
+Mỗi nhánh là một ý phụ, tương tự như các nhánh cây. Ví dụ, nếu ý chính là "Hệ mặt trời", các nhánh phụ có thể là "Hành tinh", "Vệ tinh", "Ngôi sao". Điều này giúp bạn sắp xếp thông tin một cách logic và dễ nhớ.
+
+**🔹 Sử dụng màu sắc và hình ảnh:**
+Màu sắc và hình ảnh giúp kích thích trí não và tăng khả năng ghi nhớ. Nhiều sinh viên thấy rằng việc sử dụng màu sắc khác nhau cho từng nhánh giúp họ dễ dàng phân biệt và nhớ lâu hơn.
+
+**🔹 Tận dụng phần mềm hỗ trợ:**
+Nếu bạn không thích vẽ tay, các công cụ như XMind hay MindMeister có thể giúp bạn tạo sơ đồ tư duy một cách chuyên nghiệp và nhanh chóng.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **chọn một chủ đề học tập** và tạo một sơ đồ tư duy cho nó ngay hôm nay. Bạn sẽ thấy việc ghi nhớ trở nên đơn giản và thú vị hơn nhiều!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch học tập hiệu quả hơn – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 5: Mẹo áp dụng sơ đồ tư duy vào các môn học khác nhau
+
+Bạn đã bao giờ cảm thấy kiến thức của mình như một mớ bòng bong trong đầu, và chẳng biết làm cách nào để gỡ rối? Hãy thử dùng sơ đồ tư duy, một công cụ tuyệt vời để sắp xếp ý tưởng và thông tin một cách trực quan!
+
+---
+
+### 📌 Mẹo áp dụng sơ đồ tư duy:
+
+**🔹 Môn Lịch sử:**
+- **Tạo sơ đồ tư duy theo dòng thời gian**, liên kết các sự kiện quan trọng với nhau.  
+- Ví dụ: *"Bắt đầu với Chiến tranh Thế giới thứ nhất, rồi phân nhánh ra các sự kiện chính và kết quả."*  
+- Cách này giúp bạn nắm bắt các mốc thời gian dễ dàng hơn.
+
+**🔹 Môn Khoa học:**
+- **Dùng sơ đồ tư duy để phân loại và so sánh các khái niệm**.  
+- Ví dụ: *"Vẽ sơ đồ phân loại động vật, với các nhánh là các nhóm động vật như động vật có vú, chim, bò sát."*  
+- Điều này giúp bạn hiểu rõ các mối quan hệ giữa các khái niệm.
+
+**🔹 Môn Ngôn ngữ:**
+- **Sử dụng sơ đồ tư duy để ghi nhớ từ vựng hoặc cấu trúc ngữ pháp**.  
+- Ví dụ: *"Tạo sơ đồ từ vựng theo chủ đề, như 'Gia đình', với các nhánh là các từ liên quan như 'cha', 'mẹ', 'anh chị em'."*  
+- Phương pháp này giúp từ vựng trở nên sống động và dễ nhớ hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **chọn một môn học và tạo một sơ đồ tư duy** theo các mẹo trên.  
+Điều này sẽ giúp bạn **nắm vững kiến thức một cách trực quan và thú vị hơn**.  
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để **tìm hiểu cách học nhóm hiệu quả**! 📚✨
+
+
+
+[StartPrompt] Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô)
+
+## Bài 6: Tổng kết và áp dụng thực tế - Ôn thi tự tin, hiệu quả
+
+Bạn có bao giờ cảm thấy như mình đang chạy đua với thời gian, ôn thi mà kiến thức cứ như "mèo đuổi chuột"? Đừng lo, khóa học này sẽ giúp bạn ôn thi một cách tự tin và hiệu quả như một "chiến binh" thực thụ!
+
+---
+
+### 📌 Bí quyết ôn thi tự tin:
+
+**🔹 Lên kế hoạch ôn tập:**
+- Đừng để việc ôn thi như một "cơn bão" bất ngờ. Hãy **lập kế hoạch ôn tập cụ thể** với các mốc thời gian và nội dung cần học. Nhiều sinh viên đã thấy rằng việc này giúp họ tránh bị dồn ép trước ngày thi.
+
+**🔹 Sử dụng phương pháp Pomodoro:**
+- Hãy thử **phương pháp Pomodoro** – học 25 phút, nghỉ 5 phút. Cách này thường hiệu quả vì giúp bạn duy trì sự tập trung mà không bị kiệt sức.
+
+**🔹 Ôn tập bằng câu hỏi:**
+- Đặt ra các **câu hỏi tự luận** từ nội dung đã học và tự trả lời. Điều này không chỉ giúp bạn nhớ lâu mà còn chuẩn bị tốt cho các câu hỏi mở trong bài thi.
+
+**🔹 Nghỉ ngơi hợp lý:**
+- Đừng biến mình thành "cú đêm". Hãy **nghỉ ngơi đầy đủ** để não bộ có thời gian xử lý và lưu trữ thông tin.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử **lập một kế hoạch ôn thi chi tiết** cho tuần này và tuân thủ theo nó.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để học cách tối ưu hóa kỹ năng thi của bạn nhé!
+
