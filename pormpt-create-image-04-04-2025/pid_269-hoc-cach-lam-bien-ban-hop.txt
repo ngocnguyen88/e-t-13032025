@@ -1,7 +1,5 @@
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 1: Hiểu nhanh vai trò của biên bản họp trong 2 phút
@@ -43,9 +41,7 @@ Hiểu rõ vai trò của biên bản họp rồi? Giờ đến bước cải th
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 2: Chuẩn bị trước khi họp - Những điều cần lưu ý  
@@ -79,9 +75,7 @@ Xác định xong rồi? Giờ đến bước thực hiện trong cuộc họp �
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 3: Cách ghi chép thông tin chính xác, ngắn gọn
@@ -118,9 +112,7 @@ Xác định xong rồi? Giờ đến bước **lên kế hoạch ôn tập chi 
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 4: Sắp xếp và trình bày biên bản họp chuyên nghiệp
@@ -151,9 +143,7 @@ Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bà
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 5: Mẹo kiểm tra và chỉnh sửa biên bản để đạt độ chính xác cao
@@ -190,9 +180,7 @@ Xác định xong rồi? Giờ thì hãy học cách lập kế hoạch viết h
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 6: Tổng kết khóa học – Nắm vững kỹ năng, tự tin ghi biên bản!

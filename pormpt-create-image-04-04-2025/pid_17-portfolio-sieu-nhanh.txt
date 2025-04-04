@@ -1,7 +1,5 @@
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 1: Hiểu rõ mục đích và ý nghĩa của portfolio - Xây dựng hình ảnh cá nhân
@@ -35,9 +33,7 @@ Chỉ với vài bước đơn giản, bạn đã sẵn sàng để bắt đầu
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 2: Chọn lựa công cụ tạo portfolio - Những công cụ miễn phí và dễ sử dụng
@@ -71,9 +67,7 @@ Giờ đây, bạn đã sẵn sàng để "trình làng" portfolio của mình. 
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 3: Lập kế hoạch nội dung portfolio - Các mục không thể thiếu
@@ -110,9 +104,7 @@ Xác định xong rồi? Giờ đến bước làm cho portfolio của bạn th�
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 4: Tối ưu hóa CV và thư giới thiệu - Nghệ thuật "bán mình" trong 2 phút
@@ -146,9 +138,7 @@ Nhớ rằng, CV và thư giới thiệu không chỉ là giấy tờ, mà chún
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 5: Chọn và xử lý hình ảnh cho portfolio - Làm sao để ấn tượng?
@@ -184,9 +174,7 @@ Và bây giờ, khi bạn đã biết cách làm cho portfolio của mình nổi
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 6: Sắp xếp nội dung - Cách thu hút và giữ chân người xem
@@ -220,9 +208,7 @@ Sau khi bạn thực hành, bạn sẽ nhận ra việc sắp xếp nội dung m
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 7: Tối ưu SEO cho portfolio trực tuyến - Tăng khả năng xuất hiện trên Google
@@ -259,9 +245,7 @@ Và nhớ, SEO không phải là cuộc đua một ngày. Hãy kiên nhẫn và 
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 8: Review và chỉnh sửa - Những điểm cần lưu ý
@@ -295,9 +279,7 @@ Sau khi bạn đã trở nên chuyên nghiệp hơn trong việc review và ch�
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 9: Tổng kết khóa học – Tạo portfolio hoàn chỉnh, sẵn sàng xin thực tập!

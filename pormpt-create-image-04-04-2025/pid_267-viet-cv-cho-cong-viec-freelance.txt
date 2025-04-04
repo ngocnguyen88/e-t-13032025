@@ -1,7 +1,5 @@
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 1: Xác định mục tiêu và đối tượng cho CV freelance trong 2 phút
@@ -43,9 +41,7 @@ Xác định xong rồi? Giờ đến bước tạo nội dung CV hấp dẫn �
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 2: Chọn lọc thông tin quan trọng - Đừng bỏ qua những chi tiết nổi bật  
@@ -79,9 +75,7 @@ Xác định xong rồi? Giờ đến bước áp dụng thông tin vào thực 
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 3: Tạo phần giới thiệu bản thân thật thu hút - Ấn tượng ngay từ đầu
@@ -118,9 +112,7 @@ Xác định xong rồi? Giờ đến bước **lên kế hoạch phát triển 
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 4: Cách trình bày kỹ năng và dự án freelance một cách chuyên nghiệp
@@ -151,9 +143,7 @@ Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bà
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 5: Sử dụng thiết kế và bố cục để làm nổi bật CV - Đơn giản mà hiệu quả
@@ -190,9 +180,7 @@ Xác định xong rồi? Giờ thì hãy học cách chuẩn bị cho buổi ph�
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 6: Tổng kết khóa học – Chốt lại kiến thức, tự tin gửi CV!

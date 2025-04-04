@@ -1,7 +1,5 @@
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 1: Nhận diện thông tin quan trọng – Kỹ năng chọn lọc nhanh
@@ -39,9 +37,7 @@ Giờ đây, bạn đã sẵn sàng lướt qua mọi thông tin như một cơn
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 2: Nguyên tắc ghi chú 5W+1H – Cách áp dụng trong ghi chú siêu tốc  
@@ -74,9 +70,7 @@ Giờ thì bạn đã sẵn sàng để ghi chú siêu tốc mà không sợ th�
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 3: Kỹ thuật viết tắt thông dụng – Ghi chú nhanh, đọc hiểu ngay
@@ -110,9 +104,7 @@ Giờ đây, việc ghi chép nhanh không còn là nỗi lo. Và nhớ, kỹ n�
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 4: Sử dụng biểu tượng và hình vẽ – Ghi chép linh hoạt, nhớ lâu
@@ -144,9 +136,7 @@ Và đừng quên, bí quyết này cũng sẽ giúp ích rất nhiều trong vi
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 5: Phân loại và tổ chức thông tin – Tạo cấu trúc dễ nhớ cho ghi chú
@@ -180,9 +170,7 @@ Giờ đây, khi thông tin đã được phân loại và tổ chức một cá
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 6: Mẹo ghi chú trên laptop và tablet – Kết hợp công nghệ vào ghi chú
@@ -216,9 +204,7 @@ Và đừng quên, sau khi bạn đã quen với việc ghi chú trên thiết b
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 7: Ôn tập siêu tốc với ghi chú – Cách sử dụng ghi chú để ôn nhanh
@@ -252,9 +238,7 @@ Giờ đây, bạn đã sẵn sàng để chinh phục mọi kì thi với bí k
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 8: Tối ưu hóa thời gian ghi chú – Kỹ thuật loại bỏ thông tin dư thừa
@@ -288,9 +272,7 @@ Giờ thì, bạn đã sẵn sàng "điều chỉnh" cách ghi chú của mình 
 
 
 [StartPrompt]
-Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
-- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
-- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô). Sử dụng tỉ lệ khung hình 3:2 (1200x800 pixel).
 
 Nội dung bài học:
     ## Bài 9: Tổng kết khóa học – Rút ra bài học, áp dụng ngay vào buổi học tiếp theo!
