@@ -1,0 +1,257 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Xác định nhu cầu và khả năng của bạn trong 2 phút
+
+Bạn có bao giờ cảm thấy như mình đang lạc giữa một biển lựa chọn mà không biết đâu là con đường đúng đắn? Để quyết định sáng suốt, trước tiên bạn cần hiểu rõ nhu cầu và khả năng của mình. Đừng lo, chúng ta sẽ khám phá cách làm điều đó một cách nhanh chóng và thú vị!
+
+---
+
+### 📌 Xác định nhu cầu và khả năng:
+
+**🔹 Liệt kê nhu cầu cá nhân:**
+Hãy viết ra những gì bạn thực sự cần. Có thể là một chiếc laptop mới để học tập, hay một khóa học nâng cao kỹ năng. Nhiều sinh viên nhận ra rằng việc viết ra giúp họ rõ ràng hơn về nhu cầu thực sự.
+
+**🔹 Đánh giá khả năng hiện tại:**
+Tự hỏi: "Mình giỏi cái gì?" và "Mình cần cải thiện ở đâu?" Điều này giúp bạn xác định điểm mạnh và điểm yếu. Ví dụ: nếu bạn giỏi toán nhưng yếu tiếng Anh, bạn biết mình cần đầu tư thời gian học tiếng Anh.
+
+**🔹 Ưu tiên nhu cầu:**
+Hãy xếp hạng nhu cầu của bạn theo mức độ quan trọng. Điều này giúp bạn tập trung vào những điều quan trọng nhất trước tiên.
+
+**🔹 Tìm kiếm cơ hội phát triển:**
+Hãy tìm kiếm các cơ hội để phát triển khả năng của mình, như các khóa học, hội thảo, hoặc tham gia câu lạc bộ.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **dành 5 phút để viết ra 3 nhu cầu và 3 khả năng** của bạn. Điều này sẽ giúp bạn **có cái nhìn rõ ràng hơn về bản thân**.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Tìm hiểu nhanh các nền tảng tuyển dụng online phổ biến  
+
+Bạn có bao giờ cảm thấy như mình đang bơi trong biển công nghệ mà không biết làm sao để tìm được công việc ưng ý? Đừng lo, việc tìm kiếm việc làm không phức tạp như giải mã ma trận đâu! Chỉ cần biết vài nền tảng tuyển dụng online dưới đây, bạn sẽ thấy mọi thứ dễ dàng hơn rất nhiều.  
+
+---
+
+### 📌 Các nền tảng tuyển dụng online phổ biến:  
+
+**🔹 LinkedIn:**
+- LinkedIn không chỉ là nơi để kết nối mà còn là một mỏ vàng việc làm. Nhiều người đã thấy rằng việc cập nhật hồ sơ trên LinkedIn giúp họ tiếp cận nhà tuyển dụng nhanh chóng.
+
+**🔹 Indeed:**
+- Đây là một trong những trang tuyển dụng phổ biến nhất, với hàng triệu việc làm từ khắp nơi trên thế giới. Bạn chỉ cần gõ từ khóa và địa điểm, và Indeed sẽ làm phần còn lại.
+
+**🔹 Glassdoor:**
+- Ngoài việc tìm việc, Glassdoor còn cung cấp đánh giá về công ty và mức lương, giúp bạn có cái nhìn toàn diện hơn trước khi ứng tuyển.
+
+**🔹 VietnamWorks:**
+- Đây là trang tuyển dụng uy tín tại Việt Nam, với nhiều cơ hội việc làm phù hợp cho sinh viên mới ra trường và người đi làm lâu năm.
+
+**🔹 TopCV:**
+- Ngoài việc tìm kiếm việc làm, TopCV còn cung cấp công cụ tạo CV đẹp mắt, giúp bạn nổi bật trước nhà tuyển dụng.
+
+---
+
+### 🚀 Hành động:  
+
+Hãy **chọn một nền tảng và tạo tài khoản ngay hôm nay** để bắt đầu hành trình tìm việc của bạn.  
+
+Xác định xong rồi? Giờ đến lúc **tối ưu hóa hồ sơ cá nhân để thu hút nhà tuyển dụng** – xem ngay bài tiếp theo!  
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Cách tạo hồ sơ xin việc online hấp dẫn nhà tuyển dụng
+
+Bạn đã bao giờ gửi hàng tá hồ sơ mà vẫn chưa nhận được hồi âm nào chưa? Đừng lo, có thể bạn chỉ cần chút mẹo nhỏ để hồ sơ của mình nổi bật trong hàng trăm ứng viên khác. Hãy cùng khám phá cách tạo hồ sơ xin việc online hấp dẫn và gây ấn tượng ngay từ cái nhìn đầu tiên!
+
+---
+
+### 📌 Cách tạo hồ sơ xin việc online hấp dẫn:
+
+**🔹 Sử dụng mẫu hồ sơ chuyên nghiệp:**
+Nhiều sinh viên đã thấy rằng sử dụng một mẫu hồ sơ chuyên nghiệp giúp tạo ấn tượng tốt hơn.  
+- Ví dụ: Sử dụng các mẫu miễn phí từ Canva hoặc Google Docs với bố cục rõ ràng và màu sắc hài hòa.  
+
+**🔹 Tùy chỉnh cho từng vị trí ứng tuyển:**
+Đừng gửi một hồ sơ giống nhau cho mọi công việc. Thay vào đó, hãy tùy chỉnh thông tin để phù hợp với từng vị trí.  
+- Ví dụ: Nếu ứng tuyển vào vị trí marketing, hãy làm nổi bật các kỹ năng và kinh nghiệm liên quan đến lĩnh vực này.  
+
+**🔹 Thêm phần mô tả thành tựu cụ thể:**
+Thay vì liệt kê công việc đã làm, hãy nêu rõ thành tựu và kết quả đạt được.  
+- Ví dụ: "Tăng 20% lượng khách hàng mới thông qua chiến dịch quảng cáo trực tuyến."  
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **chọn một mẫu hồ sơ chuyên nghiệp và chỉnh sửa** để phù hợp với vị trí bạn đang ứng tuyển. Bạn sẽ thấy sự khác biệt ngay lập tức!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch cho buổi phỏng vấn – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Kỹ thuật tìm kiếm và lọc công việc phù hợp chỉ trong 2 phút
+
+Bạn đã bao giờ cảm thấy như mình đang lạc giữa biển thông tin khi tìm kiếm việc làm? Cứ mỗi lần mở trang web việc làm, lại như bị "ngộp thở" với hàng ngàn vị trí? Đừng lo, với vài mẹo nhỏ sau, bạn sẽ tìm ra công việc phù hợp chỉ trong nháy mắt!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Xác định từ khóa cụ thể:**
+Nhiều sinh viên đã thấy rằng việc sử dụng từ khóa cụ thể giúp tìm kiếm hiệu quả hơn. Ví dụ, thay vì chỉ gõ "nhân viên kinh doanh", hãy thêm "tiếng Anh" hoặc "thành phố Hồ Chí Minh" để lọc kết quả.
+
+**🔹 Sử dụng bộ lọc thông minh:**
+Các trang web việc làm thường có bộ lọc theo ngành nghề, mức lương, và địa điểm. Hãy tận dụng tối đa các bộ lọc này để tiết kiệm thời gian.
+
+**🔹 Đăng ký nhận thông báo việc làm:**
+Đăng ký nhận thông báo từ các trang web việc làm với tiêu chí bạn quan tâm. Điều này giúp bạn không bỏ lỡ cơ hội khi có vị trí mới phù hợp.
+
+**🔹 Sử dụng mạng xã hội chuyên nghiệp:**
+LinkedIn không chỉ là nơi để kết nối mà còn là nơi tìm việc hiệu quả. Hãy cập nhật hồ sơ và tham gia các nhóm nghề nghiệp để nắm bắt cơ hội nhanh chóng.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **chọn một trang web việc làm**, sử dụng bộ lọc và từ khóa cụ thể để tìm kiếm vị trí phù hợp ngay hôm nay. Bạn sẽ thấy việc tìm kiếm trở nên dễ dàng hơn nhiều!
+
+Xác định xong rồi? Giờ đến bước chuẩn bị hồ sơ ứng tuyển – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Bí quyết viết email ứng tuyển hiệu quả và ấn tượng
+
+Bạn đã bao giờ gửi một email ứng tuyển mà chẳng thấy hồi âm? Cảm giác như thả chai xuống biển ấy nhỉ? Đừng lo, với vài bí quyết dưới đây, bạn sẽ khiến nhà tuyển dụng phải chú ý ngay lập tức!
+
+---
+
+### 📌 Bí quyết viết email ứng tuyển:
+
+**🔹 Tiêu đề ấn tượng:**
+- **Tiêu đề là ấn tượng đầu tiên**, hãy làm cho nó nổi bật.  
+- Ví dụ: *"Ứng tuyển vị trí Marketing Specialist - Nguyễn Văn A, với 3 năm kinh nghiệm."*  
+- Nhiều người thấy rằng tiêu đề cụ thể giúp email dễ được chú ý hơn.
+
+**🔹 Nội dung súc tích:**
+- **Giữ nội dung ngắn gọn, tập trung vào điểm mạnh**.  
+- Ví dụ: *"Tôi có 3 năm kinh nghiệm trong lĩnh vực marketing, từng đạt giải thưởng XYZ, và rất mong muốn đóng góp cho công ty ABC."*  
+- Cách này giúp nhà tuyển dụng nhanh chóng nắm bắt thông tin quan trọng.
+
+**🔹 Kết thúc mạnh mẽ:**
+- **Đừng quên cảm ơn và để lại thông tin liên hệ**.  
+- Ví dụ: *"Cảm ơn anh/chị đã dành thời gian đọc email này. Tôi mong sớm nhận được phản hồi từ quý công ty. Liên hệ với tôi qua số điện thoại 0123456789."*  
+- Kết thúc như vậy cho thấy bạn lịch sự và chuyên nghiệp.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **tạo một mẫu email ứng tuyển** cho vị trí bạn quan tâm, áp dụng các mẹo trên.  
+Điều này sẽ giúp bạn **tăng cơ hội được phỏng vấn** và ghi điểm trong mắt nhà tuyển dụng.  
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để **nâng cao kỹ năng phỏng vấn**! 🌟
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Mẹo chuẩn bị phỏng vấn online – Tự tin trong mọi tình huống
+
+Bạn đã bao giờ cảm thấy như mình đang chuẩn bị cho một cuộc phỏng vấn online nhưng lại loay hoay không biết bắt đầu từ đâu? Đừng lo, khóa học này sẽ giúp bạn tự tin tỏa sáng trong mọi tình huống phỏng vấn online!
+
+---
+
+### 📌 Mẹo chuẩn bị phỏng vấn online:
+
+**🔹 Kiểm tra thiết bị:**
+- Đừng để "rớt mạng" làm gián đoạn cuộc phỏng vấn của bạn. Nhiều sinh viên đã thấy rằng việc **kiểm tra kết nối internet, camera và microphone** trước giờ G là vô cùng quan trọng.
+
+**🔹 Chọn không gian phù hợp:**
+- Hãy chọn một góc yên tĩnh và gọn gàng. Ánh sáng tự nhiên từ cửa sổ là lý tưởng, nhưng nếu không có, hãy đảm bảo bạn có đèn chiếu sáng đầy đủ. Điều này giúp bạn trông chuyên nghiệp hơn.
+
+**🔹 Lên danh sách câu hỏi:**
+- Chuẩn bị trước một danh sách câu hỏi thường gặp và luyện tập trả lời. Ví dụ, "Hãy giới thiệu về bản thân" hay "Tại sao bạn muốn làm việc ở đây?". Cách này thường hiệu quả vì giúp bạn tự tin hơn khi trả lời.
+
+**🔹 Trang phục chuyên nghiệp:**
+- Đừng mặc áo ngủ chỉ vì bạn đang ở nhà! Hãy ăn mặc như khi đi phỏng vấn trực tiếp – điều này giúp bạn vào đúng "mood" chuyên nghiệp.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử **kiểm tra và sắp xếp không gian phỏng vấn online của bạn** để sẵn sàng cho bất kỳ cuộc gọi nào.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để học cách thuyết phục nhà tuyển dụng với những câu trả lời đỉnh cao nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 7: Tổng kết khóa học – Nắm vững chiến lược tìm việc, bắt đầu kiếm tiền ngay!
+
+Bạn có thấy mình giống như một siêu anh hùng mới ra trường, đầy năng lượng nhưng không biết cách sử dụng siêu năng lực của mình để chinh phục thị trường việc làm? Hãy cùng nắm bắt những bí kíp sau để biến năng lượng đó thành tiền bạc nhé!
+
+---
+
+### 📌 Chiến lược tìm việc hiệu quả:
+
+**🔹 Tạo hồ sơ ấn tượng:**
+- Đầu tiên, làm sao để nhà tuyển dụng thấy bạn là người họ cần ngay từ cái nhìn đầu tiên? Hãy **tối ưu hóa CV và LinkedIn**. 
+- Đảm bảo thông tin gọn gàng, dễ đọc, và đừng quên nhấn mạnh vào **kỹ năng mềm** và **kinh nghiệm thực tiễn**. Nhiều sinh viên đã thấy cách này giúp họ nổi bật hẳn lên!
+
+**🔹 Mạng lưới quan hệ:**
+- Đừng ngồi chờ việc đến, mà hãy **chủ động kết nối** với người trong ngành qua các sự kiện, hội thảo hoặc nhóm trực tuyến. 
+- Hãy tưởng tượng bạn đang tạo dựng một đội ngũ siêu anh hùng của riêng mình, mỗi người đều có thể mở ra một cánh cửa cơ hội cho bạn.
+
+**🔹 Phỏng vấn tự tin:**
+- Khi đi phỏng vấn, hãy **chuẩn bị kỹ càng** về công ty và vị trí ứng tuyển. 
+- Thực hành trả lời những câu hỏi phổ biến và chuẩn bị một câu chuyện thú vị về bản thân. Cách này thường hiệu quả vì nó giúp bạn tự tin và thu hút hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy **cập nhật hồ sơ LinkedIn** của bạn với những kỹ năng và kinh nghiệm mới nhất. Sau đó, kết nối với ít nhất **5 người mới** trong ngành bạn quan tâm.
+
+Giờ bạn đã sẵn sàng để bước chân vào thị trường việc làm với một chiến lược hoàn hảo! Và đừng quên, nếu bạn đã xác định rõ mục tiêu, hãy chuyển sang bài tiếp theo để **lên kế hoạch hành động cụ thể** nhé!
+

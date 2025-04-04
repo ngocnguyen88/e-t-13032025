@@ -1,0 +1,224 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Hiểu rõ yêu cầu công việc và mục tiêu cuối cùng
+
+Bạn đã bao giờ cảm thấy như mình đang đi trên một con đường mà không biết điểm đến? Đừng để công việc của bạn cũng rơi vào tình trạng "mù mờ" như vậy! Hãy cùng tìm hiểu cách nắm rõ yêu cầu công việc và mục tiêu cuối cùng để bạn luôn "trúng đích" nhé!
+
+---
+
+### 📌 Hiểu rõ yêu cầu công việc và mục tiêu:
+
+**🔹 Đọc kỹ mô tả công việc:**
+- Đừng lướt qua mô tả công việc như đang xem phim hành động! Hãy đọc kỹ từng dòng để hiểu rõ nhiệm vụ và yêu cầu.
+
+**🔹 Xác định mục tiêu cuối cùng:**
+- Hỏi bản thân: "Kết quả mình cần đạt được là gì?" Điều này giúp bạn tập trung vào mục tiêu thay vì lạc lối trong quá trình làm việc.
+
+**🔹 Trao đổi với người quản lý:**
+- Đừng ngại hỏi người quản lý nếu có điểm nào không rõ. Nhiều sinh viên đã thấy rằng việc này giúp họ tránh được hiểu lầm không đáng có.
+
+**🔹 Liệt kê các nhiệm vụ cụ thể:**
+- Chia nhỏ công việc thành các bước cụ thể. Ví dụ: Nếu bạn cần hoàn thành một dự án, hãy liệt kê từng bước từ nghiên cứu đến triển khai.
+
+**🔹 Theo dõi tiến độ:**
+- Sử dụng công cụ quản lý công việc để theo dõi tiến độ và điều chỉnh kịp thời.
+
+---
+
+### 🚀 Hành động:
+
+Hãy dành 5 phút để liệt kê ra ba nhiệm vụ chính trong công việc hiện tại và mục tiêu cuối cùng mà bạn cần đạt được. Điều này sẽ giúp bạn làm việc hiệu quả hơn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch chi tiết – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Phương pháp ưu tiên công việc khi không có deadline rõ ràng
+
+Bạn đã bao giờ đứng trước một đống công việc mà không biết bắt đầu từ đâu vì chẳng có deadline nào rõ ràng không? Đừng để mình trở thành "người chạy vòng quanh" vô định! Hãy cùng nhau khám phá cách ưu tiên công việc một cách thông minh và hiệu quả.
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Đánh giá tầm quan trọng:**
+- Nhiều sinh viên đã thấy rằng việc xác định công việc nào có ảnh hưởng lớn nhất giúp họ ưu tiên tốt hơn. Hãy tưởng tượng bạn là một thám tử đang phân loại hồ sơ tội phạm - cái nào cần giải quyết ngay?
+
+**🔹 Sử dụng Ma trận Eisenhower:**
+- Cách này thường hiệu quả vì giúp bạn phân loại công việc theo mức độ quan trọng và khẩn cấp. Ví dụ: Công việc quan trọng nhưng không khẩn cấp nên được lên kế hoạch trước.
+
+**🔹 Xác định công việc mang lại giá trị cao:**
+- Hãy tự hỏi: "Công việc nào sẽ đem lại giá trị lớn nhất cho mục tiêu dài hạn của mình?" Ví dụ: Viết một bài báo khoa học có thể không khẩn cấp nhưng lại rất giá trị cho sự nghiệp của bạn.
+
+**🔹 Tạo danh sách công việc hàng ngày:**
+- Danh sách giúp bạn có cái nhìn rõ ràng và dễ quản lý hơn. Đừng quên thêm chút hài hước vào danh sách để giữ tinh thần thoải mái!
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử áp dụng Ma trận Eisenhower vào công việc của bạn hôm nay và sắp xếp lại thứ tự ưu tiên. Xem xem bạn có thấy mình làm việc hiệu quả hơn không nhé!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để tối ưu hóa quy trình làm việc của bạn! 📈
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Kỹ thuật lập kế hoạch hiệu quả với bảng Kanban
+
+Bạn có bao giờ cảm thấy như mình đang cố gắng quản lý một mớ hỗn độn các công việc, và không biết đâu là điểm bắt đầu? Đừng lo, bảng Kanban sẽ là chiếc la bàn dẫn bạn đi đúng hướng!
+
+---
+
+### 📌 Kỹ thuật lập kế hoạch với bảng Kanban:
+
+**🔹 Khởi tạo bảng Kanban:**
+Hãy bắt đầu bằng cách tạo một bảng Kanban với ba cột chính: "Cần làm", "Đang làm", và "Đã hoàn thành". Điều này giúp bạn dễ dàng theo dõi tiến trình công việc. Nhiều sinh viên đã thấy rằng điều này giúp họ quản lý thời gian hiệu quả hơn.
+
+**🔹 Phân chia công việc:**
+Chia nhỏ công việc thành các nhiệm vụ cụ thể và viết chúng trên các tấm thẻ. Ví dụ: "Hoàn thành báo cáo A", "Kiểm tra dự án B". Điều này giúp bạn tập trung vào từng nhiệm vụ nhỏ và không bị choáng ngợp.
+
+**🔹 Di chuyển thẻ:**
+Khi bắt đầu làm một nhiệm vụ, hãy di chuyển thẻ từ cột "Cần làm" sang "Đang làm". Sau khi hoàn thành, hãy chuyển nó sang "Đã hoàn thành". Điều này không chỉ giúp bạn theo dõi tiến độ mà còn tạo động lực khi thấy công việc được hoàn tất.
+
+**🔹 Điều chỉnh và cải thiện:**
+Thường xuyên xem xét lại bảng Kanban của bạn và điều chỉnh nếu cần thiết. Điều này giúp bạn tối ưu hóa quy trình làm việc và cải thiện hiệu suất.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử tạo một bảng Kanban cho dự án hoặc công việc hiện tại của bạn. Bạn sẽ thấy công việc trở nên có tổ chức và dễ quản lý hơn!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch chi tiết – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Sử dụng công cụ quản lý thời gian để tăng hiệu suất
+
+Bạn đã bao giờ cảm thấy như mình đang vật lộn với đống công việc không bao giờ hết không? Hay tự hỏi tại sao ngày chỉ có 24 giờ mà bạn lại cần đến 48 giờ? Đừng lo, dưới đây là cách để bạn tận dụng công cụ quản lý thời gian và biến mình thành siêu nhân hiệu suất!
+
+---
+
+### 📌 Kỹ thuật sử dụng công cụ quản lý thời gian:
+
+**🔹 Sử dụng ứng dụng quản lý công việc:**
+- Trello và Asana là những công cụ tuyệt vời để bạn theo dõi nhiệm vụ và dự án. Nhiều sinh viên đã thấy rằng việc chia nhỏ công việc và sắp xếp theo thứ tự ưu tiên giúp họ làm việc hiệu quả hơn.
+
+**🔹 Áp dụng kỹ thuật Pomodoro:**
+- Hãy làm việc trong 25 phút rồi nghỉ 5 phút. Cách này thường hiệu quả vì nó giúp bạn tập trung mà không bị kiệt sức. Hãy tưởng tượng bạn làm thế này: "Tôi sẽ hoàn thành bài tập trong 25 phút trước khi thưởng cho mình một cốc cà phê."
+
+**🔹 Lập lịch làm việc:**
+- Sử dụng Google Calendar để lập kế hoạch cho cả tuần. Đặt giờ cụ thể cho từng công việc để không bị quên lãng.
+
+**🔹 Đặt giới hạn thời gian:**
+- Đừng để một nhiệm vụ kéo dài vô tận. Đặt ra thời gian cụ thể để hoàn thành mỗi nhiệm vụ sẽ giúp bạn tránh bị trì hoãn.
+
+**🔹 Kiểm tra và điều chỉnh:**
+- Cuối ngày, hãy xem lại những gì đã làm và điều chỉnh kế hoạch cho ngày tiếp theo. Điều này sẽ giúp bạn cải thiện hiệu suất liên tục.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử sử dụng Trello hoặc Asana để quản lý nhiệm vụ của bạn trong tuần này. Điều này sẽ giúp bạn làm việc hiệu quả hơn và giảm stress.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Cách tự tạo deadline và động lực cá nhân
+
+Bạn đã bao giờ cảm thấy công việc cứ như "núi" mà động lực thì như "đáy biển"? Hay khi deadline tự đặt ra cứ như "gió thoảng mây bay"? Đừng lo, dưới đây là những mẹo giúp bạn tự tạo deadline và duy trì động lực cá nhân một cách hiệu quả!
+
+---
+
+### 📌 Mẹo tự tạo deadline và động lực:
+
+**🔹 Chia nhỏ mục tiêu:**
+Thay vì nhìn vào một "núi" công việc, hãy chia nhỏ chúng thành từng phần.  
+- Nhiều sinh viên đã thấy rằng việc này giúp họ dễ quản lý và cảm thấy đạt được nhiều hơn.  
+- Ví dụ: "Thay vì viết một bài luận dài, hãy chia thành từng đoạn nhỏ và đặt deadline cho mỗi đoạn."
+
+**🔹 Tạo deadline thực tế:**
+Đặt deadline không phải để làm khó mình, mà để giúp bạn tập trung hơn.  
+- Hãy đảm bảo rằng deadline của bạn có thể thực hiện được.  
+- Ví dụ: "Nếu bạn biết mình cần 3 giờ để hoàn thành một phần công việc, hãy đặt deadline cho 3 giờ đó."
+
+**🔹 Tự thưởng cho bản thân:**
+Đừng quên tự thưởng cho mình mỗi khi hoàn thành một mục tiêu nhỏ.  
+- Điều này không chỉ tạo động lực mà còn giúp bạn cảm thấy hứng thú hơn.  
+- Ví dụ: "Hoàn thành xong một phần công việc, tự thưởng một cốc cà phê thơm ngon!"
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy chia nhỏ một công việc lớn thành các phần nhỏ và đặt deadline cho từng phần.  
+Điều này sẽ giúp bạn duy trì động lực và hoàn thành công việc một cách hiệu quả.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để khám phá cách quản lý thời gian hiệu quả nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học – Nắm vững kỹ năng, tự tin xử lý mọi công việc!
+
+Bạn đã bao giờ cảm thấy như mình đang đứng trước một ngọn núi công việc mà không biết bắt đầu từ đâu? Đừng lo, bạn không đơn độc đâu! Nhưng với những kỹ năng bạn đã học, bạn sẽ vượt qua mọi thử thách như một người leo núi chuyên nghiệp.
+
+---
+
+### 📌 Nắm vững kỹ năng, tự tin xử lý mọi công việc:
+
+**🔹 Lập kế hoạch:**
+- **Xác định ưu tiên:** Hãy liệt kê công việc cần làm và sắp xếp chúng theo thứ tự ưu tiên. Ví dụ: "Hoàn thành báo cáo trước, sau đó mới đến các nhiệm vụ nhỏ hơn."
+- **Chia nhỏ công việc:** Đừng để công việc lớn làm bạn choáng ngợp. Chia nhỏ chúng thành từng phần dễ quản lý hơn.
+
+**🔹 Sử dụng công cụ hỗ trợ:**
+- **Tận dụng công nghệ:** Sử dụng ứng dụng quản lý thời gian như Trello hay Asana để theo dõi tiến độ và đảm bảo không bỏ sót nhiệm vụ nào.
+- **Lên lịch làm việc:** Đặt ra lịch làm việc cụ thể để bạn biết rõ mình cần làm gì vào mỗi thời điểm trong ngày.
+
+**🔹 Tự tin giao tiếp:**
+- **Đừng ngại hỏi:** Nếu gặp khó khăn, hãy hỏi ý kiến đồng nghiệp hoặc cấp trên. Nhiều sinh viên đã thấy rằng việc giao tiếp giúp họ giải quyết vấn đề nhanh chóng hơn.
+- **Lắng nghe và phản hồi:** Hãy lắng nghe ý kiến của người khác và đưa ra phản hồi một cách chân thành và xây dựng.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **lên danh sách công việc trong tuần này**, sắp xếp chúng theo thứ tự ưu tiên và bắt tay vào thực hiện ngay.
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch phát triển sự nghiệp dài hạn** – xem ngay bài tiếp theo!
+

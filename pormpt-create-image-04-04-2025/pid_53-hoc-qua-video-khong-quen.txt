@@ -1,0 +1,215 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Chuẩn bị trước khi xem - Tạo tâm thế sẵn sàng trong 2 phút
+
+Bạn đã bao giờ ngồi xuống để xem một video học tập mà đầu óc cứ nghĩ vẩn vơ về bữa tối hay bộ phim tối qua? Bạn không đơn độc đâu! Để tránh tình trạng này, hãy chuẩn bị thật tốt để mỗi phút xem video đều hiệu quả như mong đợi.
+
+---
+
+### 📌 Giải pháp chuẩn bị trước khi xem:
+
+**🔹 Xác định mục tiêu:**
+- Hãy tự hỏi: "Mình muốn học được gì sau khi xem video này?" Điều này giúp bạn tập trung vào nội dung quan trọng nhất.
+- Nhiều sinh viên thấy rằng việc **ghi chú mục tiêu ra giấy** giúp họ tập trung hơn.
+
+**🔹 Tạo môi trường xem lý tưởng:**
+- Đảm bảo không gian xung quanh **yên tĩnh và không có yếu tố gây xao lãng**. Tắt thông báo điện thoại và đóng các tab không cần thiết.
+- Hãy tưởng tượng bạn đang ở trong một rạp chiếu phim cá nhân – mọi thứ đều chuẩn bị sẵn sàng!
+
+**🔹 Sẵn sàng ghi chú:**
+- Chuẩn bị sẵn giấy và bút hoặc ứng dụng ghi chú để nhanh chóng ghi lại ý chính.
+- Nhiều người đã thấy rằng việc **ghi chép tay** giúp họ nhớ lâu hơn.
+
+**🔹 Tâm lý thoải mái:**
+- Hãy đảm bảo bạn đã ăn nhẹ và nghỉ ngơi đủ trước khi bắt đầu. Một tâm trạng thoải mái giúp bạn tiếp thu thông tin tốt hơn.
+
+---
+
+### 🚀 Hành động:
+
+Trước khi xem video học tập tiếp theo, hãy **dành 2 phút để tạo không gian học tập yên tĩnh** và xác định mục tiêu rõ ràng. Bạn sẽ thấy sự khác biệt ngay lập tức!
+
+Xác định xong rồi? Giờ đến bước thực hiện kế hoạch học tập – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Kỹ thuật ghi chú nhanh - Tóm tắt nội dung không bỏ sót
+
+Bạn đã bao giờ cảm thấy như mình đang cố gắng ghi chú trong lớp mà mọi thứ cứ như đang trôi tuột khỏi đầu không? Đừng lo lắng, dưới đây là cách bạn có thể ghi chú nhanh chóng và hiệu quả mà không bỏ sót bất kỳ thông tin quan trọng nào!
+
+---
+
+### 📌 Giải pháp ghi chú nhanh:
+
+**🔹 Sử dụng phương pháp Cornell:**
+- Chia trang giấy của bạn thành ba phần: **cột ghi chú, cột từ khóa, và phần tóm tắt dưới cùng**. Nhiều sinh viên thấy rằng phương pháp này giúp họ tổ chức thông tin tốt hơn và dễ dàng ôn tập lại.
+
+**🔹 Viết từ khóa và cụm từ ngắn:**
+- Đừng cố ghi lại mọi thứ! **Ghi từ khóa và cụm từ ngắn** để tiết kiệm thời gian và tập trung vào những điểm chính. Ví dụ, thay vì viết "Câu này giải thích về...", chỉ cần ghi "Giải thích: ...".
+
+**🔹 Sử dụng ký hiệu và viết tắt:**
+- Tạo ra một hệ thống ký hiệu và viết tắt riêng để **tăng tốc độ ghi chú**. Ví dụ, sử dụng "->" cho "dẫn đến", hoặc "@" cho "tại".
+
+**🔹 Tô đậm và gạch chân:**
+- Tô đậm hoặc gạch chân những từ khóa quan trọng để dễ dàng nhận diện khi bạn ôn tập lại.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử ngay hôm nay bằng cách **áp dụng phương pháp Cornell** cho buổi học tiếp theo của bạn. Bạn sẽ thấy việc ghi chú trở nên dễ dàng và hiệu quả hơn nhiều!
+
+Và đừng quên, trong bài tiếp theo, chúng ta sẽ học cách **tận dụng công nghệ để ghi chú thông minh hơn**. Hãy đón xem nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Sử dụng công cụ hỗ trợ - Tăng cường khả năng ghi nhớ
+
+Bạn có bao giờ cảm thấy như não mình là một cái rổ, mà thông tin cứ chảy tuột ra ngoài? Đừng lo, dưới đây là những công cụ tuyệt vời giúp bạn "vá" cái rổ ấy và tăng cường khả năng ghi nhớ!
+
+---
+
+### 📌 Công cụ hỗ trợ ghi nhớ:
+
+**🔹 Anki:**
+- Đây là ứng dụng học qua thẻ ghi nhớ được nhiều sinh viên yêu thích. Bạn có thể tạo các thẻ với thông tin cần nhớ và ôn lại theo thuật toán lặp lại ngắt quãng. Cách này giúp bạn nhớ lâu hơn mà không cần "nhai đi nhai lại".
+
+**🔹 Quizlet:**
+- Nếu bạn thích học qua trò chơi, Quizlet là lựa chọn tuyệt vời. Tạo các bộ thẻ và chơi các trò chơi nhỏ để ôn lại kiến thức. Nhiều sinh viên đã thấy cách này giúp họ ghi nhớ thông tin một cách vui nhộn và hiệu quả.
+
+**🔹 Evernote:**
+- Ghi chú và tổ chức thông tin một cách khoa học với Evernote. Bạn có thể lưu trữ tài liệu, hình ảnh, và thậm chí là ghi âm để ôn tập bất cứ lúc nào. Thật tiện lợi!
+
+**🔹 MindMeister:**
+- Dùng MindMeister để tạo sơ đồ tư duy, giúp bạn tổ chức và liên kết các ý tưởng. Sơ đồ trực quan sẽ giúp bạn dễ dàng ghi nhớ hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử tải một trong các ứng dụng trên và bắt đầu tạo bộ thẻ ghi nhớ cho môn học bạn đang ôn tập. Bạn sẽ thấy việc học trở nên thú vị hơn nhiều!
+
+Xác định xong rồi? Giờ đến bước tối ưu hóa kỹ năng tổ chức thông tin – xem ngay bài tiếp theo để biết cách **sắp xếp tài liệu học tập hiệu quả**!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Tích cực tư duy - Tương tác với nội dung video
+
+Bạn có bao giờ thấy mình chỉ ngồi xem video bài giảng mà đầu óc "lang thang" ở đâu không? Đừng lo, chỉ cần vài mẹo nhỏ, bạn sẽ không chỉ xem video mà còn tương tác và "bắt sóng" kiến thức một cách hiệu quả!
+
+---
+
+### 📌 Tích cực tư duy khi xem video:
+
+**🔹 Dừng video và ghi chú:**
+Nhiều sinh viên đã thấy rằng việc dừng video để ghi chú giúp họ nắm bắt kiến thức sâu hơn. Hãy dừng ở những đoạn quan trọng, ghi lại ý chính và từ khóa.
+
+**🔹 Đặt câu hỏi cho bản thân:**
+Hãy tưởng tượng bạn là giáo viên của chính mình. Sau mỗi phần, đặt câu hỏi như "Điều này có ý nghĩa gì?" hay "Làm thế nào để áp dụng?". Điều này kích thích tư duy và giúp bạn hiểu sâu hơn.
+
+**🔹 Tương tác bằng cách trả lời câu hỏi:**
+Nếu video có câu hỏi hoặc bài tập, hãy dừng lại và thử giải quyết trước khi xem tiếp. Cách này thường hiệu quả vì nó giúp bạn áp dụng ngay kiến thức đã học.
+
+**🔹 Thảo luận với người khác:**
+Sau khi xem, hãy thảo luận với bạn bè hoặc tham gia diễn đàn để chia sẻ và trao đổi ý kiến. Điều này giúp củng cố và mở rộng kiến thức của bạn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử áp dụng một trong những mẹo trên khi xem video học tập tiếp theo. Bạn sẽ thấy kiến thức không còn trôi qua nhanh như gió nữa! Sau khi đã làm chủ kỹ năng này, hãy sẵn sàng cho bài học tiếp theo về **kỹ năng thuyết trình tự tin**. Đừng bỏ lỡ nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Ôn lại và thực hành - Củng cố kiến thức qua các bước đơn giản
+
+Có bao giờ bạn cảm thấy kiến thức học mãi mà cứ như nước trôi qua cầu? Đừng lo, bí quyết sau đây sẽ giúp bạn **"khắc sâu"** kiến thức chỉ trong vài bước đơn giản!
+
+---
+
+### 📌 Giải pháp củng cố kiến thức:
+
+**🔹 Tóm tắt nhanh sau mỗi buổi học:**
+- Nhiều sinh viên đã thấy rằng việc tóm tắt ý chính ngay sau khi học giúp ghi nhớ lâu hơn. Hãy tưởng tượng bạn đang viết lại một câu chuyện thú vị!
+
+**🔹 Thực hành qua bài tập:**
+- Cách này thường hiệu quả vì thực hành giúp biến kiến thức thành kỹ năng. Ví dụ: nếu bạn đang học toán, hãy làm vài bài tập ngay để củng cố.
+
+**🔹 Dùng flashcard để ôn tập:**
+- Nhiều sinh viên đã thấy rằng flashcard giúp ghi nhớ từ vựng hoặc khái niệm một cách nhanh chóng. Bạn có thể tự tạo hoặc dùng ứng dụng như **Quizlet**.
+
+**🔹 Thảo luận nhóm:**
+- Tham gia nhóm học tập để thảo luận và trao đổi kiến thức. Điều này giúp bạn mở rộng góc nhìn và hiểu sâu hơn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy **dành 10 phút mỗi ngày** để tóm tắt và ôn tập kiến thức mới. Bạn sẽ thấy mình **ghi nhớ lâu hơn và tự tin hơn** trong học tập!
+
+Giờ thì bạn đã sẵn sàng **"khắc sâu"** mọi kiến thức rồi đấy! Và nhớ, kiến thức này còn **giúp ích lắm** cho bài tiếp theo, nơi chúng ta sẽ học cách **lên kế hoạch ôn tập dài hạn**. Đừng bỏ lỡ nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học - Tóm gọn kỹ năng, tự tin áp dụng!
+
+Đã bao giờ bạn cảm thấy mình có quá nhiều kỹ năng học được nhưng lại không biết bắt đầu từ đâu để áp dụng? Cảm giác như một đầu bếp có đủ nguyên liệu mà chưa biết nấu món gì? Đừng lo, những bí quyết sau đây sẽ giúp bạn hệ thống lại kỹ năng và áp dụng chúng một cách tự tin nhất.
+
+---
+
+### 📌 Bí quyết áp dụng kỹ năng:
+
+**🔹 Ưu tiên hóa kỹ năng cần thiết:**
+- Đừng ôm đồm quá nhiều thứ cùng một lúc. Hãy **chọn ra 2-3 kỹ năng** quan trọng nhất mà bạn cần áp dụng ngay lập tức.
+- Ví dụ: Nhiều sinh viên đã thấy rằng, tập trung vào kỹ năng quản lý thời gian và tổ chức công việc giúp họ hiệu quả hơn.
+
+**🔹 Thực hành mỗi ngày:**
+- Không có gì hiệu quả hơn là **thực hành hàng ngày**. Biến kỹ năng thành thói quen sẽ giúp bạn thành thạo nhanh chóng.
+- Ví dụ: Dành ít nhất 15 phút mỗi ngày để luyện tập kỹ năng viết lách hoặc thuyết trình.
+
+**🔹 Phản hồi và cải thiện:**
+- Hãy tìm kiếm **phản hồi từ bạn bè hoặc đồng nghiệp** để biết mình đang làm tốt ở đâu và cần cải thiện chỗ nào.
+- Ví dụ: Tham gia vào các nhóm học tập hoặc câu lạc bộ để nhận được phản hồi hữu ích.
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy thử **lên danh sách 3 kỹ năng** bạn muốn áp dụng ngay và bắt đầu thực hành chúng hàng ngày!
+
+Khi đã sẵn sàng, hãy tiếp tục với bài tiếp theo để khám phá thêm các chiến lược phát triển bản thân. Đừng bỏ lỡ nhé!
+

@@ -1,0 +1,226 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Xác định mục tiêu email trong 2 phút
+
+Bạn đã bao giờ viết một email dài dòng mà đến cuối cùng vẫn chưa biết mình muốn nói gì chưa? Đừng để người nhận cảm thấy như đang đọc một cuốn tiểu thuyết không có hồi kết! Hãy cùng tìm hiểu cách xác định mục tiêu email để giao tiếp hiệu quả nhé!
+
+---
+
+### 📌 Xác định mục tiêu email:
+
+**🔹 Xác định lý do viết email:**
+- Hãy tự hỏi: "Mục tiêu của email này là gì?" Nhiều sinh viên thấy rằng việc rõ ràng từ đầu giúp họ tránh lan man.
+
+**🔹 Chọn một mục tiêu cụ thể:**
+- Quyết định rõ ràng bạn muốn người nhận làm gì sau khi đọc email. Ví dụ: "Yêu cầu phê duyệt dự án" hoặc "Xác nhận lịch họp".
+
+**🔹 Tập trung vào thông điệp chính:**
+- Chỉ chọn những thông tin cần thiết nhất để truyền tải. Tránh việc cung cấp quá nhiều thông tin phụ làm người đọc bị rối.
+
+**🔹 Gợi ý hành động cụ thể:**
+- Đưa ra một hành động cụ thể mà bạn muốn người nhận thực hiện. Ví dụ: "Vui lòng phản hồi trước ngày mai" hoặc "Hãy xem xét tệp đính kèm".
+
+**🔹 Kiểm tra lại:**
+- Đọc lại email và tự hỏi: "Liệu người nhận có hiểu rõ điều mình muốn truyền tải không?"
+
+---
+
+### 🚀 Hành động:
+
+Trước khi gửi email tiếp theo, hãy dành 2 phút để viết ra một câu nêu rõ mục tiêu của email. Điều này sẽ giúp bạn viết email rõ ràng và hiệu quả hơn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch viết email chi tiết – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Cấu trúc email chuyên nghiệp – Nắm bắt ngay trong tích tắc
+
+Bạn đã bao giờ gửi một email và cảm thấy như mình vừa ném một thông điệp vào đại dương mà không biết ai sẽ đọc? Đừng để email của bạn trôi nổi vô định! Hãy cùng khám phá cách tạo cấu trúc email chuyên nghiệp khiến người nhận phải mở ngay!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Tiêu đề ngắn gọn và rõ ràng:**
+- Nhiều sinh viên đã thấy rằng tiêu đề ngắn gọn giúp người nhận biết ngay nội dung chính. Ví dụ: “Họp nhóm vào Thứ Sáu” thay vì “Thông báo về cuộc họp nhóm vào ngày Thứ Sáu tới”.
+
+**🔹 Mở đầu thân thiện:**
+- Bắt đầu bằng một lời chào hỏi nhẹ nhàng. Ví dụ: “Chào Anh/Chị [Tên], hy vọng bạn có một ngày tốt lành!”
+
+**🔹 Nội dung rõ ràng và súc tích:**
+- Trình bày nội dung chính ngay từ đầu. Sử dụng các đoạn văn ngắn và điểm nhấn để làm nổi bật thông tin quan trọng. Ví dụ: “Tôi viết email này để xác nhận…”
+
+**🔹 Kết thúc lịch sự:**
+- Đừng quên lời cảm ơn và mong muốn phản hồi. Ví dụ: “Cảm ơn bạn đã dành thời gian đọc email này. Rất mong nhận được phản hồi từ bạn.”
+
+**🔹 Chữ ký chuyên nghiệp:**
+- Bao gồm thông tin liên lạc của bạn. Ví dụ: “Trân trọng, [Tên bạn] | [Chức vụ] | [Số điện thoại] | [Email]”
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử viết một email theo cấu trúc trên và gửi cho một người bạn hoặc đồng nghiệp. Chú ý xem phản hồi của họ có khác biệt không nhé!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để nâng cao kỹ năng giao tiếp của bạn! 📧
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Bí quyết viết tiêu đề hấp dẫn và rõ ràng
+
+Bạn có bao giờ cảm thấy tiêu đề của mình như một chiếc bánh mỳ không nhân – không ai thèm để ý? Đừng lo, dưới đây là những bí quyết giúp bạn viết tiêu đề hấp dẫn, khiến người đọc không thể cưỡng lại việc nhấp vào!
+
+---
+
+### 📌 Bí quyết viết tiêu đề hấp dẫn:
+
+**🔹 Sử dụng con số:**
+Tiêu đề có con số thường thu hút sự chú ý hơn. Ví dụ: "5 cách viết tiêu đề khiến người đọc không thể cưỡng lại."
+
+**🔹 Gây tò mò:**
+Hãy kích thích sự tò mò của người đọc bằng cách đặt câu hỏi hoặc nêu ra một vấn đề thú vị. Ví dụ: "Bạn có biết cách viết tiêu đề gây sốt trên mạng không?"
+
+**🔹 Đảm bảo rõ ràng:**
+Một tiêu đề tốt cần phải rõ ràng và phản ánh đúng nội dung. Đừng để người đọc cảm thấy như bị lừa khi nội dung không liên quan đến tiêu đề.
+
+**🔹 Thêm từ khóa mạnh mẽ:**
+Sử dụng những từ khóa mạnh mẽ như "bí quyết", "nhanh chóng", "hiệu quả" để tạo sức hút. Ví dụ: "Bí quyết viết tiêu đề hiệu quả trong 5 phút."
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử viết một tiêu đề mới cho bài viết hoặc dự án của bạn, sử dụng ít nhất một trong các bí quyết trên. Bạn sẽ thấy sự khác biệt ngay lập tức!
+
+Xác định xong rồi? Giờ đến bước phát triển nội dung hấp dẫn – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Tạo nội dung email súc tích và hiệu quả
+
+Bạn đã bao giờ gửi một email dài như sớ Táo quân và nhận được phản hồi chỉ là một dòng ngắn ngủi chưa? Hay cảm thấy mình phải đọc đi đọc lại một email để hiểu rõ ý chính? Đừng lo, bí quyết dưới đây sẽ giúp bạn viết email ngắn gọn và hiệu quả như một chuyên gia!
+
+---
+
+### 📌 Kỹ thuật viết email súc tích:
+
+**🔹 Xác định mục tiêu chính:**
+- Trước khi viết, hãy xác định rõ mục tiêu của email. Nhiều người đã thấy rằng việc này giúp họ đi thẳng vào vấn đề mà không lan man.
+
+**🔹 Tiêu đề rõ ràng:**
+- Đặt tiêu đề ngắn gọn, nhưng đủ để người nhận biết được nội dung chính. Ví dụ: "Cuộc họp vào thứ Hai" thay vì "Thảo luận về việc tổ chức cuộc họp vào thứ Hai tuần tới."
+
+**🔹 Sử dụng đoạn văn ngắn:**
+- Hãy chia nội dung thành các đoạn văn ngắn, dễ đọc. Đừng để người nhận mỏi mắt đọc một khối văn bản dài lê thê – làm vậy không được!
+
+**🔹 Đưa ra thông tin cụ thể:**
+- Cung cấp thông tin cần thiết và chính xác. Ví dụ: "Cuộc họp bắt đầu lúc 10 giờ sáng tại phòng A."
+
+**🔹 Kết thúc với hành động:**
+- Đưa ra yêu cầu hoặc hành động cụ thể ở cuối email. Ví dụ: "Vui lòng xác nhận sự tham gia của bạn trước thứ Sáu."
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử viết một email ngắn gọn về một chủ đề cụ thể và gửi cho một người bạn. Điều này sẽ giúp bạn cải thiện kỹ năng viết email của mình.
+
+Xác định xong rồi? Giờ đến bước phát triển kỹ năng giao tiếp – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Kỹ thuật lịch sự và chuyên nghiệp trong giao tiếp qua email
+
+Bạn đã bao giờ gửi một email mà nhận lại chỉ là sự im lặng đáng sợ? Hay bạn cảm thấy bối rối không biết làm thế nào để viết một email sao cho vừa lịch sự vừa chuyên nghiệp? Đừng lo, dưới đây là những kỹ thuật giúp bạn giao tiếp qua email một cách hiệu quả nhất!
+
+---
+
+### 📌 Mẹo giao tiếp qua email:
+
+**🔹 Bắt đầu bằng lời chào lịch sự:**
+Hãy luôn mở đầu email bằng một lời chào thân thiện nhưng chuyên nghiệp.  
+- Nhiều sinh viên đã thấy rằng điều này giúp tạo ấn tượng tốt ngay từ đầu.  
+- Ví dụ: "Kính gửi anh/chị [Tên], mong anh/chị có một ngày tốt lành."
+
+**🔹 Nội dung ngắn gọn và rõ ràng:**
+Hãy đi thẳng vào vấn đề, tránh dài dòng và không rõ ràng.  
+- Điều này giúp người nhận dễ dàng nắm bắt thông tin quan trọng.  
+- Ví dụ: "Em viết email này để xin phép thảo luận về dự án X và mong nhận được phản hồi từ anh/chị."
+
+**🔹 Kết thúc bằng lời cảm ơn:**
+Đừng quên cảm ơn người nhận trước khi kết thúc email.  
+- Điều này không chỉ lịch sự mà còn thể hiện sự trân trọng.  
+- Ví dụ: "Cảm ơn anh/chị đã dành thời gian đọc email này. Em mong nhận được phản hồi sớm."
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy viết một email ngắn theo các bước trên và gửi cho một đồng nghiệp hoặc giảng viên.  
+Điều này sẽ giúp bạn rèn luyện kỹ năng giao tiếp qua email một cách chuyên nghiệp.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để khám phá cách quản lý thời gian hiệu quả nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học – Nắm vững kỹ năng, tự tin viết email ngay!
+
+Bạn đã bao giờ mở hộp thư, nhìn vào màn hình và tự hỏi "Mình nên bắt đầu từ đâu?" khi viết một email quan trọng chưa? Đừng lo, bạn không phải là người duy nhất đâu! Nhiều người cũng cảm thấy bối rối, nhưng đừng lo, với những mẹo nhỏ sau đây, bạn sẽ trở thành một bậc thầy viết email!
+
+---
+
+### 📌 Nắm vững kỹ năng, tự tin viết email:
+
+**🔹 Cấu trúc email rõ ràng:**
+- **Tiêu đề ngắn gọn, hấp dẫn:** Đảm bảo tiêu đề email của bạn thu hút sự chú ý và nêu rõ nội dung chính. Ví dụ: "Đề xuất hợp tác mới từ [Tên bạn]."
+- **Mở đầu thân thiện:** Bắt đầu email bằng một lời chào nhẹ nhàng và thân thiện. Ví dụ: "Chào anh/chị [Tên], hy vọng anh/chị có một ngày tuyệt vời!"
+
+**🔹 Nội dung súc tích:**
+- **Trình bày ngắn gọn, rõ ràng:** Đừng lòng vòng, hãy đi thẳng vào vấn đề. Chia nội dung thành các đoạn ngắn dễ đọc.
+- **Sử dụng số liệu cụ thể:** Nếu cần, hãy sử dụng số liệu để minh họa. Ví dụ: "Dự án của chúng tôi đã tăng trưởng 30% trong quý vừa qua."
+
+**🔹 Kết thúc chuyên nghiệp:**
+- **Đưa ra lời cảm ơn và kêu gọi hành động:** Cảm ơn người nhận đã dành thời gian và đề nghị bước tiếp theo. Ví dụ: "Cảm ơn anh/chị đã xem xét. Mong sớm nhận được phản hồi từ anh/chị."
+
+---
+
+### 🚀 Hành động:
+
+Hãy **viết và gửi một email quan trọng** mà bạn đã trì hoãn ngay trong tuần này. Áp dụng những kỹ năng đã học để thấy sự khác biệt.
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch phát triển kỹ năng giao tiếp qua email** – xem ngay bài tiếp theo!
+

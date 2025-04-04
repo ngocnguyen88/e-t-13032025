@@ -1,0 +1,224 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Tìm hiểu nhanh thị trường freelance tại Việt Nam trong 2 phút
+
+Bạn có bao giờ cảm thấy mình đang lạc vào một khu rừng rậm rạp khi tìm hiểu về thị trường freelance tại Việt Nam? Mọi thứ cứ như một mớ bòng bong, không biết bắt đầu từ đâu! Đừng lo, dưới đây là vài mẹo giúp bạn nắm bắt nhanh thị trường này mà không cần phải mất cả đời để tìm hiểu.
+
+---
+
+### 📌 Tìm hiểu nhanh thị trường freelance:
+
+**🔹 Xác định lĩnh vực nổi bật:**
+Nhiều sinh viên đã thấy rằng các ngành như **thiết kế đồ họa, lập trình, và viết lách** đang là "hot trend" trong thị trường freelance tại Việt Nam. 
+
+Ví dụ: *"Thiết kế logo và phát triển website là hai lĩnh vực có nhu cầu rất cao."*
+
+**🔹 Khám phá nền tảng phổ biến:**
+Tìm hiểu các nền tảng freelance phổ biến như **Upwork, Freelancer, và Fiverr**, nơi bạn có thể tìm thấy cơ hội việc làm và khách hàng tiềm năng.
+
+**🔹 Nghiên cứu mức giá thị trường:**
+Hãy **khảo sát mức giá thị trường** để biết mình nên định giá dịch vụ thế nào cho hợp lý. Điều này giúp bạn cạnh tranh tốt hơn và không bị "hớ".
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy **dành 10 phút để tìm hiểu về một lĩnh vực freelance mà bạn quan tâm**, từ đó tìm ra cơ hội phát triển. 
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Khám phá các nền tảng tìm việc phổ biến và cách đăng ký tài khoản
+
+Bạn đã bao giờ cảm thấy mình đang lạc giữa "biển việc làm", mà không biết bắt đầu từ đâu? Đừng lo, các nền tảng tìm việc là "la bàn" giúp bạn định hướng nhanh chóng. Hãy cùng nhau khám phá những nền tảng phổ biến và cách đăng ký tài khoản trong nháy mắt nhé!
+
+---
+
+### 📌 Khám phá nền tảng tìm việc:
+
+**🔹 LinkedIn:**
+LinkedIn không chỉ là nơi tìm việc mà còn giúp bạn kết nối với các chuyên gia.  
+- Truy cập LinkedIn, chọn "Join now" và nhập thông tin cá nhân.  
+- Ví dụ: *"Đảm bảo cập nhật hồ sơ với ảnh đại diện chuyên nghiệp."*
+
+**🔹 Indeed:**
+Indeed là một trong những trang tìm việc phổ biến nhất.  
+- Truy cập Indeed, chọn "Sign in" và tạo tài khoản mới.  
+- Ví dụ: *"Tải lên CV của bạn để ứng tuyển nhanh chóng."*
+
+**🔹 VietnamWorks:**
+VietnamWorks là nền tảng hàng đầu tại Việt Nam.  
+- Truy cập VietnamWorks, chọn "Đăng ký" và điền thông tin.  
+- Ví dụ: *"Lưu ý chọn lĩnh vực ngành nghề bạn quan tâm."*
+
+**🔹 TopCV:**
+TopCV cung cấp nhiều mẫu CV đẹp mắt và chuyên nghiệp.  
+- Truy cập TopCV, chọn "Đăng ký" và hoàn tất thông tin.  
+- Ví dụ: *"Sử dụng mẫu CV có sẵn để tạo ấn tượng ban đầu."*
+
+---
+
+### 🚀 Hành động:
+
+Hãy **dành 10 phút để tạo tài khoản** trên một trong các nền tảng trên.  
+Điều này sẽ giúp bạn **tiếp cận nhiều cơ hội việc làm hơn**.  
+
+Xác định xong rồi? Giờ đến bước **tối ưu hóa hồ sơ cá nhân** – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Mẹo tạo hồ sơ cá nhân hấp dẫn để thu hút nhà tuyển dụng
+
+Bạn có bao giờ cảm thấy như mình đang cố hét lên giữa chợ đông người với bản CV của mình, nhưng chẳng ai thèm để ý? Đừng lo, dưới đây là những mẹo giúp hồ sơ của bạn nổi bật như một ngôi sao sáng giữa bầu trời đêm!
+
+---
+
+### 📌 Giải pháp tạo hồ sơ hấp dẫn:
+
+**🔹 Tạo tiêu đề hấp dẫn:**
+- Bắt đầu bằng một **tiêu đề ấn tượng**. Đừng chỉ viết "CV của Nguyễn Văn A", hãy thử "Nguyễn Văn A - Chuyên gia Marketing sáng tạo". 
+
+**🔹 Tóm tắt bản thân ngắn gọn:**
+- Một đoạn tóm tắt ngắn gọn về bản thân sẽ tạo ấn tượng đầu tiên. Ví dụ: "Sinh viên năm cuối ngành Quản trị Kinh doanh, đam mê phát triển thương hiệu và tối ưu hóa chiến lược quảng cáo."
+
+**🔹 Liệt kê kỹ năng nổi bật:**
+- Đừng ngại khoe những kỹ năng độc đáo của bạn. Ví dụ: "Kỹ năng phân tích dữ liệu", "Khả năng làm việc nhóm hiệu quả".
+
+**🔹 Chứng minh bằng thành tích:**
+- Sử dụng số liệu và thành tựu để chứng minh năng lực. Ví dụ: "Tăng 20% doanh số trong 6 tháng qua nhờ chiến dịch quảng cáo trực tuyến."
+
+**🔹 Định dạng rõ ràng:**
+- Sử dụng **các mục rõ ràng**, dễ đọc. Chia nhỏ thông tin bằng tiêu đề phụ và gạch đầu dòng.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử áp dụng các mẹo trên để làm mới hồ sơ của bạn. Chắc chắn bạn sẽ thấy **sự khác biệt rõ rệt** trong cách nhà tuyển dụng phản hồi!
+
+Xác định xong rồi? Giờ đến bước tối ưu hóa hồ sơ trực tuyến của bạn – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Cách tìm kiếm dự án phù hợp và nộp đơn nhanh chóng
+
+Đã bao giờ bạn cảm thấy như mình đang mò kim đáy bể khi tìm kiếm một dự án phù hợp? Cơ hội thì nhiều nhưng chọn mãi vẫn chưa thấy cái nào vừa ý? Đừng lo, với vài mẹo nhỏ sau, bạn sẽ trở thành thợ săn dự án tài ba, tìm kiếm và nộp đơn nhanh chóng như gió!
+
+---
+
+### 📌 Cách tìm kiếm dự án phù hợp:
+
+**🔹 Xác định tiêu chí rõ ràng:**
+- Trước khi bắt đầu, hãy **xác định tiêu chí** mà bạn tìm kiếm trong một dự án: lĩnh vực, quy mô, địa điểm, và giá trị mà bạn mong đợi. Việc này giúp bạn **lọc ra những dự án phù hợp** nhất một cách nhanh chóng.
+
+**🔹 Sử dụng nền tảng trực tuyến:**
+- Tận dụng **các trang web tuyển dụng** và **mạng xã hội nghề nghiệp** như LinkedIn, Glassdoor. Nhiều người đã thấy rằng việc này giúp tiếp cận với vô số cơ hội mà không mất nhiều công sức.
+
+**🔹 Kết nối mạng lưới:**
+- Đừng ngại **hỏi thăm bạn bè, đồng nghiệp** hoặc tham gia các sự kiện ngành nghề. Nhiều dự án tốt thường được tìm thấy qua **mối quan hệ cá nhân** hơn là qua quảng cáo.
+
+**🔹 Chuẩn bị hồ sơ sẵn sàng:**
+- Hãy luôn **cập nhật CV** và **thư xin việc** của bạn. Khi tìm thấy dự án phù hợp, bạn có thể **nộp đơn ngay lập tức** mà không cần phải chỉnh sửa nhiều.
+
+---
+
+### 🚀 Hành động:
+
+Hãy dành 10 phút để **tạo danh sách tiêu chí** cho dự án bạn mong muốn và tìm kiếm một cơ hội phù hợp ngay hôm nay.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để học cách **tối ưu hóa hồ sơ cá nhân** nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Kỹ năng giao tiếp và thương lượng để chốt việc thành công
+
+Bạn có bao giờ cảm thấy như mình đang chơi trò kéo co khi thương lượng một công việc? Kéo qua kéo lại, mà chẳng đi đến đâu cả! Đừng lo, hãy cùng tìm hiểu bí kíp để giao tiếp và thương lượng thành công, chốt việc nhanh chóng và hiệu quả nhé.
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Lắng nghe chủ động:**
+- Đừng chỉ nghe để trả lời, mà hãy **nghe để hiểu**. Điều này giúp bạn nắm bắt đúng nhu cầu và mong muốn của đối tác.
+- Ví dụ: "Anh/chị có thể chia sẻ thêm về lý do đằng sau yêu cầu này không?"
+
+**🔹 Đặt câu hỏi thông minh:**
+- Hãy **đặt câu hỏi mở** để khai thác thông tin và thể hiện sự quan tâm của bạn. Điều này tạo ra một môi trường giao tiếp cởi mở và thân thiện.
+- Ví dụ: "Nếu chúng ta điều chỉnh một chút về thời gian, liệu có giúp ích gì không?"
+
+**🔹 Tìm kiếm giải pháp đôi bên cùng có lợi:**
+- Thay vì chỉ tập trung vào lợi ích của mình, hãy **tìm kiếm điểm chung** để cả hai bên đều hài lòng.
+- Ví dụ: "Chúng ta có thể thử cách này để cả hai bên đều đạt được mục tiêu không?"
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy thử **lắng nghe chủ động** trong cuộc thảo luận tiếp theo của bạn. Chú ý đến những chi tiết nhỏ và xem cách chúng giúp bạn thương lượng hiệu quả hơn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch thực hiện chi tiết – xem ngay bài tiếp theo nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học – Tóm lược và củng cố kiến thức, sẵn sàng nhận việc!
+
+Đã bao giờ bạn cảm thấy như mình đã học rất nhiều, nhưng khi cần lại chẳng nhớ nổi? Cảm giác như kiến thức cứ "trôi tuột" khỏi đầu? Đừng lo, hãy cùng hệ thống lại và củng cố kiến thức để bạn tự tin bước vào môi trường làm việc!
+
+---
+
+### 📌 Giải pháp củng cố kiến thức:
+
+**🔹 Tóm lược kiến thức quan trọng:**
+- **Tạo sơ đồ tư duy**: Hãy tóm lược các kiến thức đã học thành một sơ đồ dễ hiểu. Nhiều sinh viên nhận thấy rằng sơ đồ tư duy giúp họ kết nối và nhớ lâu hơn.
+- **Lập bảng tóm tắt**: Liệt kê các khái niệm chính, định nghĩa và công thức quan trọng. Ví dụ, bảng tóm tắt các công cụ marketing bạn đã học.
+
+**🔹 Thực hành ứng dụng kiến thức:**
+- **Tham gia dự án thực tế**: Nhiều sinh viên thấy rằng việc tham gia các dự án thực tế giúp họ áp dụng và củng cố kiến thức hiệu quả.
+- **Làm bài tập thực hành**: Tìm các bài tập hoặc case study liên quan đến lĩnh vực bạn đang học để rèn luyện kỹ năng.
+
+**🔹 Ôn tập thường xuyên:**
+- **Lên lịch ôn tập định kỳ**: Dành ít nhất 30 phút mỗi tuần để ôn lại kiến thức đã học. Điều này giúp kiến thức luôn tươi mới trong đầu bạn.
+
+---
+
+### 🚀 Hành động:
+
+Hãy dành 15 phút hôm nay để **vẽ sơ đồ tư duy** cho một chủ đề bạn thấy quan trọng nhất. Bạn sẽ thấy mọi thứ trở nên rõ ràng và dễ nhớ hơn!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch phát triển kỹ năng – xem ngay bài tiếp theo!
+

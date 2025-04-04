@@ -1,0 +1,215 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Xác định rõ ràng vấn đề cần hỏi trong 2 phút
+
+Bạn có bao giờ rơi vào tình huống ngồi trước thầy cô hoặc đồng nghiệp, nhưng lại không biết hỏi cái gì trước không? Cứ như một bản nhạc mà quên mất lời, khiến bạn loay hoay mãi mà không tìm ra câu hỏi phù hợp. Đừng lo, dưới đây là vài mẹo giúp bạn xác định rõ ràng vấn đề cần hỏi một cách nhanh chóng và hiệu quả.
+
+---
+
+### 📌 Xác định rõ ràng vấn đề cần hỏi:
+
+**🔹 Xác định vấn đề chính:**
+Trước tiên, hãy **tóm tắt vấn đề bạn đang gặp phải** trong một câu ngắn. Đặt câu hỏi dựa trên nội dung chính này. 
+
+Ví dụ: *"Mình không hiểu cách áp dụng công thức này trong bài toán."*
+
+**🔹 Ưu tiên các câu hỏi quan trọng:**
+Nhiều sinh viên đã thấy rằng việc **liệt kê các câu hỏi từ quan trọng đến ít quan trọng hơn** giúp họ tập trung vào những gì cần hỏi trước. 
+
+**🔹 Đặt câu hỏi cụ thể:**
+Tránh hỏi những câu quá chung chung. Câu hỏi càng cụ thể, bạn càng nhận được câu trả lời rõ ràng hơn.
+
+Ví dụ: *"Làm thế nào để tính toán khi có nhiều biến số như trong bài tập này?"*
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi chuẩn bị hỏi, hãy **viết ra câu hỏi chính và kiểm tra xem nó đã cụ thể chưa**. Điều này giúp bạn **tiết kiệm thời gian và nhận được câu trả lời nhanh chóng**.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Cách chuẩn bị câu hỏi ngắn gọn, súc tích
+
+Bạn đã bao giờ đứng trước lớp, bị giảng viên hỏi và trong đầu chỉ toàn là... "ơ, ờ"? Hoặc khi hỏi bạn bè, họ lại nhìn bạn như nhìn một bài toán khó? Đừng lo, cách dưới đây sẽ giúp bạn chuẩn bị câu hỏi ngắn gọn mà vẫn "chất như nước cất"!
+
+---
+
+### 📌 Chuẩn bị câu hỏi ngắn gọn:
+
+**🔹 Xác định mục tiêu câu hỏi:**
+Trước tiên, hãy xác định **đích đến** của câu hỏi.  
+- Bạn muốn **làm rõ thông tin** hay **mở rộng kiến thức**?  
+- Ví dụ: *"Nếu chưa hiểu một khái niệm, hãy hỏi: 'Thầy có thể giải thích rõ hơn về khái niệm này không?'"*
+
+**🔹 Sử dụng từ khóa:**
+Tập trung vào **từ khóa chính** của vấn đề.  
+- Đừng vòng vo, hãy đi thẳng vào trọng tâm.  
+- Ví dụ: *"Thay vì hỏi 'Tại sao vấn đề này lại xảy ra?', hãy hỏi 'Nguyên nhân chính của vấn đề này là gì?'"*
+
+**🔹 Giữ câu hỏi ngắn gọn:**
+Hãy giữ câu hỏi trong **một đến hai câu**.  
+- Điều này giúp người nghe dễ dàng tiếp thu và trả lời.  
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử **viết ra 3 câu hỏi** cho bài học hôm nay và đảm bảo chúng ngắn gọn, súc tích.  
+Điều này sẽ giúp bạn **tự tin hơn khi trao đổi thông tin**.  
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch** – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Kỹ năng chọn thời điểm phù hợp để hỏi
+
+Có bao giờ bạn cảm thấy lạc lối giữa lớp học, muốn hỏi mà không biết khi nào mới là lúc thích hợp? Hoặc tệ hơn, khi bạn hỏi, cả lớp quay lại nhìn như thể bạn vừa nói điều gì đó từ sao Hỏa? Đừng lo, việc chọn thời điểm hỏi cũng cần chút mánh khóe đấy!
+
+---
+
+### 📌 Giải pháp chọn thời điểm:
+
+**🔹 Lắng nghe và quan sát:**
+- Hãy để ý **tâm trạng của giảng viên**. Nếu họ đang bận rộn giải thích một vấn đề phức tạp, đừng chen ngang. Thay vào đó, chờ khi họ dừng lại hỏi xem có ai có thắc mắc không.
+- Quan sát **ngữ điệu và ngôn ngữ cơ thể**. Nếu giảng viên có vẻ cởi mở, bạn có thể yên tâm hỏi.
+
+**🔹 Thời điểm vàng:**
+- **Trước giờ học hoặc sau giờ học**: Nhiều sinh viên thấy rằng giảng viên thường dễ tiếp cận hơn vào những thời điểm này.
+- **Giờ nghỉ giải lao**: Đây là lúc thư giãn, giảng viên thường thoải mái hơn để lắng nghe bạn.
+
+**🔹 Chuẩn bị trước câu hỏi:**
+- Viết ra câu hỏi của bạn trước khi hỏi để đảm bảo **rõ ràng và cụ thể**. Ví dụ: "Thầy/Cô có thể giải thích thêm về cách áp dụng định lý này vào bài toán cụ thể không?"
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi có câu hỏi, hãy thử chọn một trong những thời điểm vàng này để hỏi giảng viên. Bạn sẽ thấy cách này **giúp bạn nhận được câu trả lời đầy đủ và chi tiết hơn**!
+
+Xác định thời điểm hỏi rồi? Giờ đến lúc tìm cách tối ưu hóa ghi chú của bạn – hãy xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Phương pháp lắng nghe và ghi chép hiệu quả
+
+Đã bao giờ bạn ngồi trong lớp học mà cảm giác như nghe giảng viên nói tiếng nước ngoài? Tất cả thông tin cứ như gió thoảng qua tai, chẳng đọng lại được gì? Đừng lo, chiến lược lắng nghe và ghi chép sau đây sẽ giúp bạn không chỉ hiểu bài mà còn ghi nhớ lâu hơn!
+
+---
+
+### 📌 Phương pháp lắng nghe và ghi chép:
+
+**🔹 Chuẩn bị trước khi nghe:**
+- Trước khi vào lớp, hãy **đọc lướt qua tài liệu** liên quan. Điều này giúp bạn **bắt nhịp nhanh hơn** khi giảng viên bắt đầu bài giảng.
+
+**🔹 Tập trung vào ý chính:**
+- Trong khi nghe giảng, hãy **chú ý vào các ý chính** và từ khóa. Đừng cố ghi chép từng lời, vì điều này sẽ khiến bạn **bỏ lỡ thông tin quan trọng**.
+
+**🔹 Ghi chép có hệ thống:**
+- Sử dụng **sơ đồ tư duy** hoặc **bullet points** để ghi chép. Cách này giúp bạn **dễ dàng theo dõi** và ôn tập sau này.
+
+**🔹 Tạo ký hiệu riêng:**
+- Phát minh ra **ký hiệu viết tắt** cho các từ dài hoặc cụm từ thường gặp. Ví dụ, "ND" cho "nội dung", "VD" cho "ví dụ". Điều này giúp bạn **tiết kiệm thời gian** và ghi chép nhanh hơn.
+
+---
+
+### 🚀 Hành động:
+
+Trong buổi học tiếp theo, hãy **thử áp dụng một trong những phương pháp ghi chép** trên và cảm nhận sự khác biệt.
+
+Giờ bạn đã có kỹ năng lắng nghe và ghi chép như một chuyên gia! Tiếp theo, chúng ta sẽ khám phá cách **quản lý thời gian hiệu quả** trong học tập – đừng bỏ lỡ bài học kế tiếp nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Cách cảm ơn và duy trì mối quan hệ học tập tốt đẹp
+
+Có khi nào bạn cảm thấy việc duy trì mối quan hệ học tập cũng giống như chăm sóc một cây xanh? Không phải cứ tưới nước là xong, mà cần phải cảm ơn và nuôi dưỡng nó nữa. Đừng lo, dưới đây là một số mẹo giúp bạn xây dựng và duy trì những mối quan hệ học tập tuyệt vời!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Gửi lời cảm ơn chân thành:**
+- **Viết một email cảm ơn** hoặc nhắn tin cho người đã giúp đỡ bạn, dù chỉ là một lời khuyên nhỏ. Hãy nêu rõ điều bạn học được từ họ. 
+- Ví dụ: "Cảm ơn anh/chị đã chia sẻ tài liệu về lý thuyết Vật lý. Nhờ đó, em đã hiểu rõ hơn và đạt kết quả tốt trong bài kiểm tra!"
+
+**🔹 Tham gia thảo luận nhóm:**
+- Tích cực tham gia **các nhóm học tập** để giao lưu và hỗ trợ lẫn nhau. 
+- Ví dụ: Trong buổi thảo luận, bạn có thể chia sẻ những tài liệu hữu ích mà bạn tìm được.
+
+**🔹 Tặng món quà nhỏ:**
+- Thỉnh thoảng, hãy **tặng một món quà nhỏ** như một cuốn sách hay một tách cà phê để bày tỏ lòng biết ơn.
+- Ví dụ: "Em tặng anh/chị cuốn sách này vì em nghĩ nó sẽ rất hữu ích cho anh/chị."
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy **gửi một lời cảm ơn** đến người đã giúp đỡ bạn gần đây và xem hiệu quả của việc duy trì mối quan hệ học tập tốt đẹp như thế nào.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch học tập chi tiết – xem ngay bài tiếp theo nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học – Tự tin hỏi, học nhanh chóng!
+
+Có bao giờ bạn ngại ngần không dám giơ tay hỏi trong lớp vì sợ bị "quê"? Hay tự hỏi mình có nên hỏi không nhỉ? Đừng lo lắng, vì cách học nhanh nhất chính là hỏi, hỏi và hỏi!
+
+---
+
+### 📌 Giải pháp để hỏi hiệu quả:
+
+**🔹 Chuẩn bị câu hỏi trước:**
+- **Viết sẵn câu hỏi** ra giấy trước khi đến lớp. Điều này giúp bạn không quên và tự tin hơn khi hỏi. Nhiều sinh viên đã thấy rằng chuẩn bị trước giúp giảm căng thẳng đáng kể.
+
+**🔹 Chọn thời điểm hỏi:**
+- **Hỏi ngay khi có thể**: Đừng đợi đến cuối buổi học, vì khi đó bạn có thể quên mất. Ví dụ: hỏi khi thầy cô vừa giảng xong một phần mà bạn chưa hiểu rõ.
+- **Tham gia giờ học nhóm**: Nếu ngại hỏi trực tiếp, hãy tham gia nhóm học và hỏi bạn bè. Cách này thường hiệu quả vì bạn có thể nhận được nhiều góc nhìn khác nhau.
+
+**🔹 Ghi chú nhanh:**
+- **Ghi lại câu trả lời** ngay lập tức. Điều này không chỉ giúp bạn nhớ lâu mà còn giúp bạn dễ dàng ôn tập sau này.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử **chuẩn bị ít nhất 3 câu hỏi** cho buổi học kế tiếp và tự tin hỏi chúng. Bạn sẽ ngạc nhiên với lượng kiến thức bạn thu được!
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch học tập hiệu quả – xem ngay bài tiếp theo!
+

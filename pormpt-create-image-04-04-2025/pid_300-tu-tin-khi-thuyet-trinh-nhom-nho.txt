@@ -1,0 +1,225 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Xác định mục tiêu thuyết trình nhanh chóng trong 2 phút
+
+Bạn có bao giờ cảm thấy như mình đang đứng trên sân khấu mà không biết mình đang diễn vở kịch nào? Đừng lo, việc xác định mục tiêu thuyết trình sẽ giúp bạn tự tin và thu hút khán giả như một ngôi sao thực thụ!
+
+---
+
+### 📌 Xác định mục tiêu thuyết trình:
+
+**🔹 Xác định đối tượng khán giả:**
+Nhiều người đã thấy rằng việc biết rõ ai sẽ nghe giúp bạn điều chỉnh nội dung phù hợp.
+
+- Ví dụ: "Nếu thuyết trình cho sinh viên, hãy tập trung vào các ví dụ thực tế và dễ hiểu."
+
+**🔹 Đặt mục tiêu cụ thể:**
+Cách này thường hiệu quả vì khi bạn biết mình muốn gì, bạn sẽ dễ dàng tập trung vào nó hơn.
+
+- Ví dụ: "Mục tiêu là thuyết phục khán giả về lợi ích của việc sử dụng năng lượng tái tạo."
+
+**🔹 Tạo câu hỏi dẫn dắt:**
+Hãy tưởng tượng bạn đang kể một câu chuyện – câu hỏi dẫn dắt sẽ giúp bạn xây dựng cấu trúc bài thuyết trình.
+
+- Ví dụ: "Tại sao năng lượng tái tạo quan trọng? Làm thế nào để áp dụng nó?"
+
+**🔹 Lên kế hoạch nội dung:**
+Một kế hoạch rõ ràng giúp bạn không bỏ sót bất kỳ phần quan trọng nào.
+
+- Ví dụ: "Phần mở đầu, lý do, lợi ích, và kết luận."
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử xác định mục tiêu và đối tượng cho bài thuyết trình mà bạn sắp thực hiện, và lập kế hoạch nội dung chi tiết.
+
+Xác định xong mục tiêu thuyết trình rồi? Giờ đến bước luyện tập kỹ năng thuyết trình – xem ngay bài tiếp theo để trở thành người thuyết trình tự tin và cuốn hút!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Chuẩn bị nội dung hiệu quả - Đơn giản nhưng ấn tượng  
+
+Bạn đã bao giờ đứng trước một bài thuyết trình và cảm thấy như mình đang đứng trên đỉnh Everest mà không có dây thừng chưa? Đừng lo, với một vài mẹo nhỏ, bạn sẽ chuẩn bị nội dung đơn giản mà vẫn ấn tượng đến bất ngờ!
+
+---
+
+### 📌 Chuẩn bị nội dung hiệu quả:
+
+**🔹 Xác định mục tiêu chính:**
+- Trước tiên, hãy xác định rõ mục tiêu của bạn. Ví dụ, "Giới thiệu sản phẩm mới" hoặc "Chia sẻ kinh nghiệm cá nhân". Làm vậy không được, đừng để mình bị lạc trong biển ý tưởng!
+
+**🔹 Tạo dàn ý ngắn gọn:**
+- Lên dàn ý với các ý chính và phụ. Nhiều sinh viên đã thấy rằng việc này giúp họ có cái nhìn tổng quan và tránh lạc đề. Hãy tưởng tượng bạn đang vẽ bản đồ cho chuyến hành trình của mình!
+
+**🔹 Sử dụng ví dụ và câu chuyện:**
+- Đưa ra ví dụ thực tế hoặc kể một câu chuyện ngắn gọn để minh họa cho ý chính. Điều này không chỉ giúp người nghe dễ hiểu mà còn làm cho nội dung thú vị hơn.
+
+**🔹 Tóm tắt và kết luận:**
+- Kết thúc bằng cách tóm tắt lại những điểm chính và đưa ra kết luận. Điều này giúp người nghe nhớ lâu hơn và thấy rõ giá trị của nội dung.
+
+---
+
+### 🚀 Hành động:
+
+Hãy thử ngay bằng cách **lên dàn ý cho một bài thuyết trình hoặc báo cáo sắp tới** với các kỹ thuật trên.
+
+Xác định xong rồi? Giờ đến bước phát triển nội dung chi tiết – xem ngay bài tiếp theo để biết cách thực hiện hiệu quả hơn!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Kỹ thuật mở đầu - Thu hút ngay từ giây đầu tiên
+
+Bạn có bao giờ cảm thấy như mình đang kể một câu chuyện thú vị mà chẳng ai lắng nghe từ đầu? Đừng để phần mở đầu của bạn trở thành "bản nhạc không lời"! Hãy cùng khám phá cách mở đầu thu hút để lôi cuốn người nghe ngay từ giây đầu tiên nhé!
+
+---
+
+### 📌 Giải pháp mở đầu thu hút:
+
+**🔹 Đặt câu hỏi kích thích tư duy:**
+- **Bắt đầu bằng một câu hỏi thú vị** để khơi gợi sự tò mò. Ví dụ: "Bạn đã bao giờ tự hỏi tại sao bầu trời lại xanh chưa?"
+
+**🔹 Sử dụng câu chuyện ngắn:**
+- **Kể một câu chuyện ngắn gọn và hài hước** để tạo sự kết nối. Ví dụ: "Một lần, tôi đã đi lạc vào một cửa hàng giày và... bạn sẽ không tin điều gì đã xảy ra!"
+
+**🔹 Bắt đầu bằng sự kiện bất ngờ:**
+- **Dẫn dắt bằng một sự kiện gây sốc hoặc bất ngờ**. Ví dụ: "Chỉ trong 10 giây, 1.000 tấm ảnh được tải lên mạng xã hội."
+
+**🔹 Trích dẫn nổi tiếng:**
+- **Sử dụng một câu trích dẫn nổi tiếng** có liên quan để mở đầu. Ví dụ: "Như Steve Jobs từng nói, 'Sáng tạo là nối những điểm lại với nhau.'"
+
+**🔹 Đặt ngữ cảnh:**
+- **Giới thiệu ngắn gọn bối cảnh** để người nghe dễ dàng hình dung. Ví dụ: "Trong thế giới công nghệ đang phát triển nhanh chóng..."
+
+---
+
+### 🚀 Hành động:
+
+Hãy **viết một đoạn mở đầu cho một bài thuyết trình về chủ đề bạn yêu thích** bằng cách áp dụng các kỹ thuật trên. Cảm nhận sự khác biệt khi mở đầu của bạn trở nên hấp dẫn hơn!
+
+Xác định xong rồi? Giờ đến bước **lên kế hoạch phát triển nội dung chi tiết hơn** – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Cách sử dụng ngôn ngữ cơ thể tự nhiên và cuốn hút
+
+Bạn có bao giờ cảm thấy như mình đang biểu diễn một vở kịch mà cơ thể lại không theo kịp tâm trí? Đừng lo, ngôn ngữ cơ thể tự nhiên và cuốn hút sẽ giúp bạn "diễn" một cách tự tin và lôi cuốn!
+
+---
+
+### 📌 Sử dụng ngôn ngữ cơ thể tự nhiên và cuốn hút:
+
+**🔹 Duy trì sự thư giãn:**
+- **Đừng căng thẳng như dây đàn:** Nhiều người thấy rằng khi cơ thể thư giãn, ngôn ngữ cơ thể trở nên tự nhiên hơn. Hãy tưởng tượng bạn đang trò chuyện với một người bạn thân – không áp lực, chỉ thoải mái.
+
+**🔹 Sử dụng ánh mắt để tạo kết nối:**
+- **Đừng nhìn lơ đãng:** Duy trì giao tiếp bằng mắt giúp tạo sự kết nối và thể hiện sự quan tâm. Hãy tưởng tượng bạn đang chia sẻ một câu chuyện thú vị và muốn mọi người lắng nghe.
+
+**🔹 Kết hợp cử chỉ tay một cách tinh tế:**
+- **Đừng để tay lơ lửng như cánh diều:** Dùng cử chỉ tay để minh họa và nhấn mạnh ý tưởng. Ví dụ, khi nói về sự phát triển, hãy dùng tay để chỉ sự đi lên.
+
+---
+
+### 🚀 Hành động:
+
+Lần tới khi thuyết trình, hãy **duy trì sự thư giãn và sử dụng ánh mắt để tạo kết nối**. Điều này sẽ giúp bạn sử dụng ngôn ngữ cơ thể tự nhiên và cuốn hút.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Xử lý câu hỏi và phản hồi - Tự tin đối diện bất kỳ tình huống nào
+
+Bạn đã bao giờ cảm thấy như mình đang đứng trước một hội đồng phỏng vấn vô hình khi phải trả lời câu hỏi bất ngờ chưa? Đừng lo, nhiều người cũng gặp phải tình huống đó! Bí quyết để tự tin đối diện bất kỳ tình huống nào là biết cách xử lý câu hỏi và phản hồi một cách thông minh. Hãy cùng tìm hiểu nhé!
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Lắng nghe kỹ lưỡng:**
+
+- Nhiều người đã thấy rằng việc lắng nghe kỹ câu hỏi giúp họ hiểu rõ vấn đề và đưa ra phản hồi chính xác hơn.  
+- Ví dụ: Đừng ngại yêu cầu người hỏi lặp lại câu hỏi nếu bạn không nghe rõ.
+
+**🔹 Sử dụng thời gian suy nghĩ:**
+
+- Đừng vội vã trả lời ngay lập tức. Hãy dành vài giây để suy nghĩ và chuẩn bị câu trả lời tốt nhất.  
+- Mẹo nhỏ: Bắt đầu bằng câu "Để tôi suy nghĩ chút nhé" để có thêm thời gian.
+
+**🔹 Trả lời ngắn gọn và rõ ràng:**
+
+- Hãy tập trung vào ý chính và tránh lan man để người nghe dễ dàng hiểu thông điệp của bạn.  
+- Ví dụ: Trình bày ý kiến của bạn theo cấu trúc: Ý chính - Giải thích - Ví dụ minh họa.
+
+---
+
+### 🚀 Hành động:
+
+Hôm nay, hãy thử tham gia một cuộc thảo luận nhóm và áp dụng các kỹ thuật trên để phản hồi nhanh và linh hoạt. Điều này sẽ giúp bạn tự tin hơn khi đối mặt với câu hỏi bất ngờ.
+
+Xác định xong rồi? Giờ thì hãy học cách cải thiện kỹ năng giao tiếp – xem ngay bài tiếp theo nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học – Ôn lại kiến thức, sẵn sàng thuyết trình!
+
+Bạn có bao giờ cảm thấy như mình đang đứng trên một "sân khấu lớn" và ánh đèn chiếu thẳng vào khi chuẩn bị thuyết trình? Lời nói cứ như bị "kẹt" ở đâu đó và bạn không biết bắt đầu từ đâu? Đừng lo, với những mẹo dưới đây, bạn sẽ tự tin "tỏa sáng" trên mọi sân khấu!
+
+---
+
+### 📌 Bí quyết ôn lại kiến thức và sẵn sàng thuyết trình:
+
+**🔹 Tóm tắt ý chính:**
+- Đừng để mình "lạc trôi" trong biển thông tin. Hãy tóm tắt những ý chính mà bạn muốn trình bày. Ví dụ, khi nói về "Chiến lược Marketing", hãy tập trung vào ba điểm chính: "Thị trường mục tiêu", "Kênh phân phối", "Chiến lược giá".
+
+**🔹 Sử dụng công cụ hỗ trợ:**
+- Đừng ngại sử dụng slide PowerPoint hoặc biểu đồ để minh họa cho nội dung. Điều này giúp thông điệp của bạn trở nên sinh động và dễ hiểu hơn.
+
+**🔹 Luyện tập trước gương:**
+- Thử thuyết trình trước gương hoặc nhờ bạn bè làm khán giả để luyện tập. Điều này giúp bạn điều chỉnh giọng điệu và ngôn ngữ cơ thể.
+
+**🔹 Kiểm soát nhịp thở:**
+- Hít thở sâu trước khi bắt đầu để giảm căng thẳng. Một tinh thần thoải mái giúp bạn nói rõ ràng và lưu loát hơn.
+
+---
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy lập dàn ý cho bài thuyết trình sắp tới của bạn và thực hành nói trước gương. Điều này sẽ giúp bạn tự tin hơn khi đứng trước đám đông.
+
+Giờ thì bạn đã sẵn sàng để "chinh phục" mọi sân khấu và để lại ấn tượng sâu sắc rồi đấy! Đừng quên, bài học tiếp theo sẽ giúp bạn phát triển kỹ năng giao tiếp chuyên nghiệp hơn. Đừng bỏ lỡ nhé!
+

@@ -1,0 +1,224 @@
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 1: Xác định đồng nghiệp có kinh nghiệm quý báu trong 2 phút  
+
+Bạn có bao giờ cảm thấy mình như một chú cá nhỏ bơi giữa đại dương công ty mà không biết ai là con cá mập kinh nghiệm? Việc nhận diện đúng đồng nghiệp có kinh nghiệm quý báu có thể giúp bạn nhanh chóng học hỏi và thăng tiến. Hãy cùng khám phá cách làm điều đó chỉ trong nháy mắt!
+
+---
+
+### 📌 Xác định đồng nghiệp có kinh nghiệm quý báu:
+
+**🔹 Quan sát thành tựu:**  
+- Để ý những đồng nghiệp thường xuyên được khen ngợi hoặc giao phó nhiệm vụ quan trọng.  
+- Ví dụ: *"Anh A luôn được chọn làm trưởng nhóm dự án", "Chị B thường được giao xử lý tình huống khó khăn."*
+
+**🔹 Tìm người có kiến thức sâu rộng:**  
+- Hãy để ý những ai thường có câu trả lời cho các câu hỏi hóc búa hoặc đưa ra giải pháp sáng tạo.  
+- Ví dụ: *"Anh C luôn có câu trả lời thông minh", "Chị D thường xuyên đưa ra giải pháp đột phá."*
+
+**🔹 Lắng nghe lời khuyên từ người khác:**  
+- Hỏi đồng nghiệp khác về người mà họ tin tưởng và thường xin ý kiến.  
+- Ví dụ: *"Ai là người bạn thường nhờ giúp đỡ?", "Ai là người bạn cảm thấy có thể học hỏi được nhiều nhất?"*
+
+**🔹 Dự buổi họp và sự kiện:**  
+- Quan sát ai thường chia sẻ thông tin giá trị trong các cuộc họp hoặc sự kiện của công ty.  
+- Ví dụ: *"Anh E luôn có bài thuyết trình tuyệt vời", "Chị F thường xuyên dẫn dắt các buổi thảo luận quan trọng."*
+
+---
+
+### 🚀 Hành động:
+
+Hãy chọn ra **1-2 đồng nghiệp** mà bạn nhận thấy có kinh nghiệm quý báu và lên lịch gặp gỡ để học hỏi từ họ.  
+Điều này sẽ giúp bạn **mở rộng mạng lưới và phát triển kỹ năng nhanh chóng**.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để biết cách **tận dụng mối quan hệ đồng nghiệp hiệu quả** nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 2: Kỹ năng giao tiếp nhanh chóng – Mở lời, hỏi đúng điều cần biết
+
+Có khi nào bạn đứng trước một người mà không biết phải nói gì, hay hỏi thế nào để không bị "lạc trôi" trong cuộc trò chuyện không? Đừng lo, kỹ năng giao tiếp không hề khó nếu bạn biết một số mẹo nhỏ để mở lời và hỏi đúng điều cần biết!
+
+---
+
+### 📌 Kỹ năng giao tiếp nhanh chóng:
+
+**🔹 Bắt đầu bằng lời chào thân thiện:**
+Một nụ cười và câu chào đơn giản như "Chào bạn, hôm nay thế nào?" có thể "phá băng" hiệu quả. Nhiều sinh viên đã thấy rằng điều này giúp tạo không khí thoải mái hơn.
+
+**🔹 Đặt câu hỏi mở:**
+Thay vì hỏi "Bạn có thích công việc của mình không?", hãy hỏi "Công việc của bạn mang lại điều gì thú vị nhất?" Câu hỏi mở sẽ khuyến khích người khác chia sẻ nhiều hơn.
+
+**🔹 Lắng nghe chủ động:**
+Giao tiếp không chỉ là nói mà còn là lắng nghe. Hãy gật đầu, duy trì ánh mắt, và thể hiện rằng bạn thực sự quan tâm.
+
+**🔹 Tập trung vào mục tiêu:**
+Hãy chuẩn bị trước những điều bạn muốn biết. Ví dụ: "Mục tiêu của công ty trong 5 năm tới là gì?"
+
+**🔹 Tóm tắt ý kiến:**
+Khi đối phương kết thúc, hãy tóm tắt ý kiến của họ để xác nhận rằng bạn đã hiểu đúng. Ví dụ: "Vậy là bạn thấy rằng..."
+
+---
+
+### 🚀 Hành động:
+
+Hãy chọn một người bạn để thực hành kỹ năng giao tiếp này. Mở đầu cuộc trò chuyện bằng một câu chào thân thiện và hỏi một câu hỏi mở.
+
+Xác định xong rồi? Giờ đến bước cải thiện kỹ năng lắng nghe – xem ngay bài tiếp theo để biết cách nâng cao khả năng này nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 3: Lắng nghe chủ động – Nắm bắt kiến thức nhanh chóng
+
+Bạn có bao giờ ngồi trong lớp học mà đầu óc như lơ lửng trên mây, chỉ chờ giảng viên nhắc đến cái tên mình mới giật mình quay về thực tại? Thế là mất một mớ kiến thức quý giá! Đừng lo, lắng nghe chủ động sẽ giúp bạn nắm bắt thông tin nhanh như tia chớp.
+
+---
+
+### 📌 Lắng nghe chủ động:
+
+**🔹 Tập trung vào nội dung chính:**
+- Hãy lắng nghe và ghi chú lại những ý chính, đừng sa đà vào chi tiết nhỏ nhặt. Ví dụ: "Lắng nghe về cách hoạt động của hệ thống, không phải từng con số cụ thể."
+
+**🔹 Đặt câu hỏi khi cần:**
+- Đừng ngại ngần, nhiều sinh viên đã thấy rằng đặt câu hỏi giúp hiểu sâu hơn. Ví dụ: "Thầy ơi, cơ chế này hoạt động như thế nào trong thực tế?"
+
+**🔹 Ghi chép thông minh:**
+- Dùng ký hiệu hoặc viết tắt để ghi chép nhanh hơn. Ví dụ: Dùng mũi tên để chỉ sự liên quan giữa các ý tưởng.
+
+**🔹 Tóm tắt ngay sau buổi học:**
+- Ngay khi kết thúc, hãy dành 5 phút để tóm tắt những gì bạn đã học. Điều này giúp củng cố thông tin và nhớ lâu hơn.
+
+---
+
+### 🚀 Hành động:
+
+Trong buổi học tiếp theo, hãy thử ghi chú theo cách mới này và đặt ít nhất một câu hỏi. Bạn sẽ thấy sự khác biệt rõ rệt!
+
+Xác định xong rồi? Giờ đến bước tối ưu hóa kỹ năng ghi nhớ – xem ngay bài tiếp theo!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 4: Áp dụng ngay những gì đã học – Kỹ năng thực hành hiệu quả
+
+Bạn đã bao giờ học xong một khóa học, đóng lại sách vở và sau đó... quên béng mọi thứ? Học mà không áp dụng giống như ăn mà không tiêu hóa vậy! Hãy cùng tìm cách để biến kiến thức thành hành động thực tế nhé!
+
+---
+
+### 📌 Cách áp dụng ngay:
+
+**🔹 Thực hành ngay sau khi học:**
+- Đừng để kiến thức nằm yên trên giấy. Hãy **áp dụng ngay** những gì vừa học vào cuộc sống hoặc công việc của bạn. Ví dụ: Nếu bạn vừa học cách tạo biểu đồ trong Excel, hãy thử làm một biểu đồ cho dữ liệu cá nhân của bạn.
+
+**🔹 Chia nhỏ mục tiêu:**
+- Đừng cố gắng làm hết mọi thứ cùng lúc. **Chia nhỏ** mục tiêu thành các bước nhỏ dễ quản lý. Ví dụ: Nếu bạn muốn nâng cao kỹ năng giao tiếp, hãy bắt đầu bằng việc tập luyện nói chuyện trước gương.
+
+**🔹 Thử thách bản thân hàng ngày:**
+- Mỗi ngày, hãy **đặt một thử thách nhỏ** liên quan đến kiến thức bạn đã học. Điều này giúp bạn duy trì động lực và cải thiện kỹ năng dần dần.
+
+**🔹 Ghi chép và đánh giá:**
+- Ghi lại quá trình và **đánh giá tiến bộ** của bạn. Điều này giúp bạn nhận ra điểm mạnh, điểm yếu và điều chỉnh phương pháp học tập.
+
+### 🚀 Hành động:
+
+Ngay bây giờ, hãy chọn một kỹ năng bạn vừa học và thực hành ngay! Tạo ra một thử thách nhỏ cho bản thân và ghi lại tiến trình của bạn.
+
+Khi đã quen với việc thực hành, hãy chuyển sang bài học tiếp theo về **lập kế hoạch và tổ chức thời gian** để tối ưu hóa hiệu quả làm việc nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 5: Tạo mối quan hệ bền vững – Học hỏi dài lâu, phát triển không ngừng
+
+Bạn có bao giờ cảm thấy mình như một chiếc điện thoại hết pin vì không có ai để "sạc" động lực không? Làm thế nào để xây dựng những mối quan hệ bền vững giúp bạn học hỏi và phát triển liên tục? Đừng lo, cùng khám phá cách tạo nên mạng lưới quan hệ hữu ích nhé!
+
+---
+
+### 📌 Tạo mối quan hệ bền vững:
+
+**🔹 Chủ động kết nối:**
+Đừng đợi người khác tìm đến bạn. Hãy **chủ động** mở lời.
+- Ví dụ: "Chào anh/chị, em rất ấn tượng với công việc của anh/chị và mong muốn được học hỏi thêm."
+
+**🔹 Tìm điểm chung:**
+Tìm ra những điểm chung để dễ dàng kết nối hơn.
+- Ví dụ: Cùng sở thích, cùng ngành nghề, hoặc cùng mục tiêu phát triển.
+
+**🔹 Giúp đỡ và chia sẻ:**
+Hãy nghĩ đến việc **cho đi** trước khi nhận lại.
+- Ví dụ: "Em có tài liệu này, nghĩ rằng anh/chị sẽ thấy hữu ích."
+
+**🔹 Duy trì liên lạc:**
+Đừng để mối quan hệ chỉ dừng lại ở một lần gặp gỡ.
+- Gửi email, tin nhắn, hoặc hẹn gặp để duy trì kết nối.
+
+---
+
+### 🚀 Hành động:
+
+Ngay hôm nay, hãy **chủ động kết nối với một người mới** trong ngành của bạn. Điều này sẽ giúp bạn **mở rộng mạng lưới và học hỏi nhiều hơn**.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo để biết cách quản lý thời gian hiệu quả trong công việc nhé!
+
+
+
+[StartPrompt]
+Hãy tạo hình minh họa các bước hoặc các điểm chính của bài học sau. Lưu ý quan trọng: 
+- Điều chỉnh số ô (số cảnh trong hình) phù hợp với số lượng bước hoặc điểm chính (ví dụ: nếu trong bài có 3 điểm chính, thì bố trí hình sao cho khớp với chính xác 3 điểm chính),  tương tự với trường hợp có 4,5,6 điểm chính thì bố trí 4,5,6 ô).
+- Mỗi ô phải trọn vẹn, đừng bị cắt chữ, đừng bị cắt hình giữa chừng.
+
+Nội dung bài học:
+    ## Bài 6: Tổng kết khóa học – Tự tin tận dụng kinh nghiệm đồng nghiệp!
+
+Bạn đã bao giờ tự hỏi mình làm sao để học hỏi từ đồng nghiệp mà không bị coi là "kẻ phiền phức" chưa? Đừng lo, có cách cả đấy! Hãy cùng khám phá bí quyết tận dụng kinh nghiệm đồng nghiệp một cách hiệu quả và vui vẻ.
+
+---
+
+### 📌 Giải pháp:
+
+**🔹 Kết nối chân thành:**
+- **Tạo mối quan hệ:** Hãy tưởng tượng bạn đang xây dựng một mạng lưới hữu ích bằng cách trò chuyện và giao tiếp thường xuyên với đồng nghiệp.
+  Ví dụ: "Mời đồng nghiệp đi uống cà phê và trò chuyện về công việc, không chỉ để lấy kinh nghiệm mà còn để mở rộng mối quan hệ."
+
+**🔹 Hỏi đúng cách:**
+- **Đặt câu hỏi cụ thể:** Nhiều người đã thấy rằng việc hỏi những câu hỏi cụ thể giúp bạn nhận được câu trả lời chi tiết và có giá trị hơn.
+  Ví dụ: "Thay vì hỏi 'Làm sao để thành công?', hãy hỏi 'Anh/chị đã làm gì để hoàn thành dự án XYZ thành công?'"
+
+**🔹 Chia sẻ và học hỏi:**
+- **Chia sẻ kinh nghiệm của bản thân:** Đừng chỉ nhận mà hãy cho đi. Việc này giúp bạn xây dựng lòng tin và học hỏi từ cả hai phía.
+  Ví dụ: "Chia sẻ một mẹo nhỏ bạn biết về quản lý thời gian và hỏi đồng nghiệp về cách họ tối ưu công việc."
+
+---
+
+### 🚀 Hành động:
+
+Hãy chọn một đồng nghiệp mà bạn ngưỡng mộ và lên kế hoạch cho một buổi trò chuyện để học hỏi từ họ. Đặt câu hỏi cụ thể và chia sẻ kinh nghiệm của bạn.
+
+Xác định xong rồi? Giờ đến bước lên kế hoạch – xem ngay bài tiếp theo! Và nhớ, việc học hỏi từ đồng nghiệp là một hành trình thú vị và đầy niềm vui!
+
